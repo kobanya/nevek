@@ -1,30 +1,21 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
-with open('README.md', 'r', encoding='utf-8') as f:
-    long_description = f.read()
+with open("README.md", "r") as fh:
+    long_description = fh.read()
 
 setup(
-    name='magyar',
-    version='2.6.2',
-    description='Magyar nevek listája',
+    name="magyar",
+    version="2.7.0",
+    author="Nagy Béla",
+    author_email="nagy.belabudapest@gmail.com",
+    description="Hungarian names...",
     long_description=long_description,
-    long_description_content_type='text/markdown',
-    url='https://github.com/kobanya',
-    packages=find_packages(),
+    long_description_content_type="text/markdown",
+    url="https://github.com/kobanya/nevek",
+    py_modules=["magyar"],
     classifiers=[
-        'Development Status :: 5 - Production/Stable',
-        'Intended Audience :: Developers',
-        'License :: OSI Approved :: MIT License',
-        'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.6',
-        'Programming Language :: Python :: 3.7',
-        'Programming Language :: Python :: 3.8',
-        'Programming Language :: Python :: 3.9',
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
     ],
-    author='Nagy Béla',
-    author_email='nagy.bela.budapest@gmail.com',
-    license='MIT',
-    keywords='magyar nevek',
-    include_package_data=True,
-    install_requires=[],
 )
