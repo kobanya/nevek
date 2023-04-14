@@ -16,6 +16,9 @@ Az alábbi listákat találod :
 8. a hét napjai = magyar.nap
 9. az év hónapjai = magyar.honap
 
+Szótárak  (dictionary): 
+1. Királyok és uralkodásuk ideje  = magyar.kiraly
+
 ## Description
 1. last names =  magyar.vezeteknev
 2. female first names = magyar.keresztnev_n
@@ -26,14 +29,25 @@ Az alábbi listákat találod :
 7. names of rivers = magyar.folyo
 8. he days of the week = magyar.nap
 9. the months of the year = magyar.honap
-## Használat:
 
- Főként véletlengenerátorok kiegészítőjeként ajánlom
+Dictionary:
+1. Hungarian Kings and Reigns = magyar.kiraly
+
+## Listák használat:
+
+ Főként véletlengenerátorok kiegészítőjeként ajánlom a listákat
  
 I recommend it mainly as a supplement to random number generators. 
        
              random.choice
-telepulesek = random.choices(magyar.telepules, k=25)
+telepulesek = random.choice(magyar.telepules)
+
+## Szótárak:
+Több adatot tartalmaznak.
+
+magyar.kiraly tartalma :
+
+kiraly = {'király neve' : (tól, ig)}
 
 
 ## Szerző

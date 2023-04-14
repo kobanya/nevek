@@ -94,7 +94,7 @@ nap = ['hétfő', 'kedd', 'szerda', 'csütörtök', 'péntek', 'szombat', 'vasá
 honap = ['január', 'február', 'március', 'április', 'május', 'június', 'július',
          'augusztus', 'szeptember', 'október', 'november', 'december']
 
-kiralyok = {'Árpád': (895, 907), 'Zoltán': (907, 947), 'Fajsz': (947, 955), 'Taksony': (955, 972), 'Géza': (972, 997),
+kiraly = {'Árpád': (895, 907), 'Zoltán': (907, 947), 'Fajsz': (947, 955), 'Taksony': (955, 972), 'Géza': (972, 997),
     'I.István': (997, 1038),'I. Péter': (1038, 1041), 'Sámuel': (1041, 1044), 'Péter-2': (1044, 1045), 'I.András': (1041, 1060),
     'I. Béla': (1060, 1063), 'Salamon': (1063, 1074), 'I. Géza': (1074, 1077), 'I. László': (1077, 1095),
     'Kálmán': (1095, 1116),'II. István': (1116, 1131), 'II. Béla': (1131, 1141), 'II. Géza': (1141,1162),
