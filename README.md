@@ -43,8 +43,10 @@ Dictionary:
  
 I recommend it mainly as a supplement to random number generators. 
        
-             random.choice
-telepulesek = random.choice(magyar.telepules)
+            random.sample()
+            utca = random.sample(magyar.utca, k=16) 
+            random.choices()
+            telepulesek = random.choice(magyar.telepules)
 
 ## Szótárak:
 Több adatot tartalmaznak.

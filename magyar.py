@@ -101,7 +101,8 @@ gyumolcs= ['alma', 'ananász',  'banán', 'barack', 'birs', 'cseresznye', 'datol
 zoldseg = ['articsóka', 'bab', 'borsó', 'brokkoli', 'burgonya', 'cékla', 'csicsóka', 'csiperkegomba', 'fokhagyma',
            'hagyma', 'karalábé', 'karfiol', 'káposzta', 'kelbimbó', 'kukorica', 'fejes sajáta', 'lilahagyma',
            'lilakáposzta', 'padlizsán', 'paprika', 'paszternák', 'retek', 'sárgarépa', 'spárga', 'spenót',
-           'sütőtök', 'tök', 'uborka', 'zeller', 'sárgarépa', 'feketeretek','zeller', 'kínai kel', ]
+           'sütőtök', 'tök', 'uborka', 'zeller', 'sárgarépa', 'feketeretek','zeller', 'kínai kel', 'retek',
+           'jégcsapretek', 'fokhagyma', 'újhagyma', 'szárzeller']
 
 
 
