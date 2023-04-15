@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: magyar
+Version: 2.9.0
+Summary: Hungarian names...
+Home-page: https://github.com/kobanya/nevek
+Author: Nagy Béla
+Author-email: nagy.belabudapest@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
 # magyar
 
 
@@ -15,8 +27,6 @@ Az alábbi listákat találod :
 7. folyók nevei = magyar.folyo
 8. a hét napjai = magyar.nap
 9. az év hónapjai = magyar.honap
-10. gyümölcsok = magyar.gyumolcs
-11. zöldségek = magyar.zoldseg
 
 Szótárak  (dictionary): 
 1. Királyok és uralkodásuk ideje  = magyar.kiraly
@@ -31,8 +41,6 @@ Szótárak  (dictionary):
 7. names of rivers = magyar.folyo
 8. he days of the week = magyar.nap
 9. the months of the year = magyar.honap
-10. fruits = magyar.gyumolcs
-11. vegetables = magyar.zoldseg
 
 Dictionary:
 1. Hungarian Kings and Reigns = magyar.kiraly

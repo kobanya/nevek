@@ -94,17 +94,6 @@ nap = ['hétfő', 'kedd', 'szerda', 'csütörtök', 'péntek', 'szombat', 'vasá
 honap = ['január', 'február', 'március', 'április', 'május', 'június', 'július',
          'augusztus', 'szeptember', 'október', 'november', 'december']
 
-gyumolcs= ['alma', 'ananász',  'banán', 'barack', 'birs', 'cseresznye', 'datolya', 'dinnye', 'eper', 'füge',
-            'gránátalma', 'kajszibarack', 'kivi', 'málna', 'meggy', 'narancs', 'őszibarack', 'ribizli',
-            'sárgabarack', 'szeder', 'szilva', 'egres', 'vörösszőlő', 'szeder', 'körte', 'meggy', 'áfonya',
-           'sárgadinnye', 'erdei szamóca', 'mangó']
-zoldseg = ['articsóka', 'bab', 'borsó', 'brokkoli', 'burgonya', 'cékla', 'csicsóka', 'csiperkegomba', 'fokhagyma',
-           'hagyma', 'karalábé', 'karfiol', 'káposzta', 'kelbimbó', 'kukorica', 'fejes sajáta', 'lilahagyma',
-           'lilakáposzta', 'padlizsán', 'paprika', 'paszternák', 'retek', 'sárgarépa', 'spárga', 'spenót',
-           'sütőtök', 'tök', 'uborka', 'zeller', 'sárgarépa', 'feketeretek','zeller', 'kínai kel', ]
-
-
-
 kiraly = {'Árpád': (895, 907), 'Zoltán': (907, 947), 'Fajsz': (947, 955), 'Taksony': (955, 972), 'Géza': (972, 997),
     'I.István': (997, 1038),'I. Péter': (1038, 1041), 'Sámuel': (1041, 1044), 'Péter-2': (1044, 1045), 'I.András': (1041, 1060),
     'I. Béla': (1060, 1063), 'Salamon': (1063, 1074), 'I. Géza': (1074, 1077), 'I. László': (1077, 1095),
