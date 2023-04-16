@@ -23,6 +23,7 @@ Az alábbi listákat találod :
 ## Szótárak  (dictionary): 
 1. Királyok és uralkodásuk ideje  = magyar.kiraly
 2. Vármegyék és azok székhelyei = magyar.megye_szekhely
+3. Járások, székhelyük , megye = magyar.jaras
 
 ## Description
 1. last names =  magyar.vezeteknev
@@ -44,6 +45,7 @@ Az alábbi listákat találod :
 Dictionary:
 1. Hungarian Kings and Reigns = magyar.kiraly
 2. Hungarian counties and their administrative centers = magyar.megye_szekhely
+3. Hungarian districts, their seats, county = magyar.jaras
 
 ## Listák használat:
 
@@ -61,6 +63,8 @@ Több adatot tartalmaznak összekapcsolva.
 
 magyar.kiraly tartalma :   {'király neve' : (uralkodása tól, ig)}
 magyar.megye_szekhely :    {'megye neve' : 'székhelye'}
+magyar.jaras :             {'megye' : (székhely, megye)}
+
 
 
 
