@@ -98,26 +98,11 @@ gyumolcs= ['alma', 'ananász',  'banán', 'barack', 'birs', 'cseresznye', 'datol
             'gránátalma', 'kajszibarack', 'kivi', 'málna', 'meggy', 'narancs', 'őszibarack', 'ribizli',
             'sárgabarack', 'szeder', 'szilva', 'egres', 'vörösszőlő', 'szeder', 'körte', 'meggy', 'áfonya',
            'sárgadinnye', 'erdei szamóca', 'mangó']
-
 zoldseg = ['articsóka', 'bab', 'borsó', 'brokkoli', 'burgonya', 'cékla', 'csicsóka', 'csiperkegomba', 'fokhagyma',
            'hagyma', 'karalábé', 'karfiol', 'káposzta', 'kelbimbó', 'kukorica', 'fejes sajáta', 'lilahagyma',
            'lilakáposzta', 'padlizsán', 'paprika', 'paszternák', 'retek', 'sárgarépa', 'spárga', 'spenót',
            'sütőtök', 'tök', 'uborka', 'zeller', 'sárgarépa', 'feketeretek','zeller', 'kínai kel', 'retek',
            'jégcsapretek', 'fokhagyma', 'újhagyma', 'szárzeller']
-
-haszonallat = [ 'tehén', 'juh', 'kecske', 'disznó', 'tyúk', 'kacsa', 'liba', 'pulyka', 'strucc', 'ló', 'szamár', 'bivaly',
-                 'jak', 'csirke', 'nyúl', 'szarvasmarha', 'szürkemarha', 'sertés', 'malac', 'gyöngytyúk', 'birka']
-
-vadallat = ['medve', 'farkas', 'róka', 'borz', 'őz', 'szarvas','nyest', 'vaddisznó','muflon','vidra',
-            'gímszarvas', 'molnárgörény','vadmacska']
-
-hal = ['keszeg', 'ponty', 'csuka', 'harcsa', 'süllő', 'kárász', 'angolna', 'márna', 'fogasponty', 'sügér', 'amur',
-         'menyhal', 'domolykó', 'keszeg', 'garda', 'paduc', 'compó', 'bodorka', 'nyúldomolykó']
-
-madar = ['feketerigó', 'fülemüle', 'csalogány', 'kékvércse', 'széncinege', 'szajkó', 'szürkebegy', 'búbosbanka',
-         'zöldike', 'sármány', 'fácán', 'kakukk', 'bölömbika', 'örvényi sas', 'szirti sas', 'parlagi sas',
-         'réti keselyű', 'héja', 'pávaszemes fecske', 'gyurgyalag', 'gólya', 'kócsag', 'hattyú', 'vadkacsa', 'vadlúd',
-         'szárcsa', 'rigó', 'szajkó']
 
 
 
@@ -135,14 +120,5 @@ kiraly = {'Árpád': (895, 907), 'Zoltán': (907, 947), 'Fajsz': (947, 955), 'Ta
     'II. Mátyás': (1608, 1619), 'II. Ferdinánd': (1618, 1637), 'III. Ferdinánd': (1637,1657), 'IV. Ferdinánd': (1647,1654),
     'I. Lipót' : (1657, 1705),  'I. József': (1705,1711), 'III. Károly': (1711,1740), 'Mária Terézia': (1740, 1780),
     'II. József':(1780, 1790), 'II. Lipót': (1790, 1792), 'I. Ferenc': (1790, 1835), 'V. Ferdinánd' : (1835,1848),
-    'I. Ferenc József' : (1848,1916), 'IV. Károly':(1916,1918) }
-
-megye_szekhely= {'Bács-Kiskun': 'Kecskemét','Baranya': 'Pécs', 'Békés': 'Békéscsaba','Borsod-Abaúj-Zemplén': 'Miskolc',
-    'Csongrád-Csanád': 'Szeged','Fejér': 'Székesfehérvár', 'Győr-Moson-Sopron': 'Győr','Hajdú-Bihar': 'Debrecen',
-    'Heves': 'Eger','Jász-Nagykun-Szolnok': 'Szolnok', 'Komárom-Esztergom': 'Tatabánya', 'Nógrád': 'Salgótarján',
-    'Pest': 'Budapest', 'Somogy': 'Kaposvár', 'Szabolcs-Szatmár-Bereg': 'Nyíregyháza', 'Tolna': 'Szekszárd',
-    'Vas': 'Szombathely',
-    'Veszprém': 'Veszprém',
-    'Zala': 'Zalaegerszeg'
+    'I. Ferenc József' : (1848,1916), 'IV. Károly':(1916,1918)
 }
-
