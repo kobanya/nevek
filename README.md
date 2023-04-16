@@ -24,6 +24,7 @@ Az alábbi listákat találod :
 1. Királyok és uralkodásuk ideje  = magyar.kiraly
 2. Vármegyék és azok székhelyei = magyar.megye_szekhely
 3. Járások, székhelyük , megye = magyar.jaras
+4. Villamosvonalak, végállomások, menetidő = magyar.villamos
 
 ## Description
 1. last names =  magyar.vezeteknev
@@ -46,6 +47,7 @@ Dictionary:
 1. Hungarian Kings and Reigns = magyar.kiraly
 2. Hungarian counties and their administrative centers = magyar.megye_szekhely
 3. Hungarian districts, their seats, county = magyar.jaras
+4. Hungarian tram lines  magyar.villamos
 
 ## Listák használat:
 
@@ -61,9 +63,10 @@ I recommend it mainly as a supplement to random number generators.
 ## Szótárak:
 Több adatot tartalmaznak összekapcsolva.
 
-magyar.kiraly tartalma :   {'király neve' : (uralkodása tól, ig)}
-magyar.megye_szekhely :    {'megye neve' : 'székhelye'}
-magyar.jaras :             {'megye' : (székhely, megye)}
+    magyar.kiraly tartalma :   {'király neve' : (uralkodása tól, ig)}
+    magyar.megye_szekhely :    {'megye neve' : 'székhelye'}
+    magyar.jaras :             {'megye' : (székhely, megye)}
+    magyar.villamos:    kulcs {'viszonylat', indulas, erkezes, menetido, varos}
 
 
 
@@ -75,4 +78,4 @@ magyar.jaras :             {'megye' : (székhely, megye)}
 
 ## Licenc
 
-Oktatási célra készült, szabadon használható
+Oktatási célra készült, szabadon használható.

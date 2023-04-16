@@ -143,7 +143,7 @@ megye_szekhely= {'Bács-Kiskun': 'Kecskemét','Baranya': 'Pécs', 'Békés': 'B�
     'Pest': 'Budapest', 'Somogy': 'Kaposvár', 'Szabolcs-Szatmár-Bereg': 'Nyíregyháza', 'Tolna': 'Szekszárd',
     'Vas': 'Szombathely', 'Veszprém': 'Veszprém', 'Zala': 'Zalaegerszeg' }
 
-jaras_szekhely= {
+jaras= {
     'Bácsalmási járás': ['Bácsalmás', 'Bács-Kiskun'],'Bajai járás': ['Baja', 'Bács-Kiskun'],
     'Jánoshalmi járás': ['Jánoshalma', 'Bács-Kiskun'],'Kalocsai járás': ['Kalocsa', 'Bács -Kiskun'],
     'Kecskeméti járás': ['Kecskemét', 'Bács-Kiskun'], 'Kiskőrösi járás': ['Kiskőrös', 'Bács-Kiskun'],
@@ -235,5 +235,41 @@ jaras_szekhely= {
     'Keszthelyi járás': ['Keszthely', 'Zala'],'Lenti járás': ['Lenti', 'Zala'],'Letenyei járás': ['Letenye', 'Zala'],
     'Nagykanizsai járás': ['Nagykanizsa', 'Zala'],'Zalaegerszegi járás': ['Zalaegerszeg', 'Zala'],
     'Zalaszentgróti járás': ['Zalaszentgrót', 'Zala'] }
+
+villamos = {
+            "BKK1": {"viszonylat":1, "indulas": "Kelenföld vasútállomás", "erkezes": "Bécsi út/Vörösvári út","menetido": 50,"varos": "Budapest" },
+            "BKK2":{"viszonylat": 2, "indulas": "Jászai Mari tér", "erkezes" : "Közvágóhíd", "menetido" : 22 ,"varos": "Budapest" },
+            "BKK3":{"viszonylat": 3, "indulas": "Mexikói út metróállomás", "erkezes" : "Gubacsi út/ Határ út", "menetido" : 47,"varos": "Budapest" },
+            "BKK4":{ "viszonylat": 4,"indulas": "Széll Kálmán tér metróállomás", "erkezes" : "Újbuda központ metróállomás", "menetido": 30,"varos": "Budapest" },
+            "BKK6":{ "viszonylat": 6,"indulas": "Széll Kálmán tér metróállomás", "erkezes" : "Móricz Zsigmond körtér metróállomás", "menetido" : 30 ,"varos": "Budapest"},
+            "BKK12":{"viszonylat": 12, "indulas": "Angyalföld kocsiszín", "erkezes" : "Rákospalota Kossuth utca", "menetido" : 14,"varos": "Budapest"},
+            "BKK14":{"viszonylat": 14,"indulas": "Lehel tér metróállomás", "erkezes" : "Káposztásmegye, Megyeri út", "menetido" : 33 ,"varos": "Budapest"},
+            "BKK17":{"viszonylat": 17,"indulas": "Savoya park", "erkezes" : "Bécsi út/ Vörösvári út", "menetido" : 52,"varos": "Budapest" },
+            "BKK19":{"viszonylat": 19, "indulas": "Kelenföld vasútállomás", "erkezes" : "Bécsi út / Vörösvári út", "menetido" : 40,"varos": "Budapest"},
+            "BKK23":{"viszonylat": 23, "indulas": "Jászai Mari tér", "erkezes" : "Keleti pályaudvar metróállomás", "menetido": 35,"varos": "Budapest"},
+            "BKK24":{"viszonylat": 24,"indulas": "Keleti pályudvar metróállomás", "erkezes" : "Közvágóhíd HÉV állomás", "menetido": 18,"varos": "Budapest"},
+            "BKK28":{"viszonylat": 28, "indulas": "Blaha Lujza tér metróállomás", "erkezes" : "Izraelita temető", "menetido": 38,"varos": "Budapest"},
+            "BKK37":{"viszonylat": 37,"indulas": "Blaha Lujza tér metróállomás", "erkezes" : "Új köztemető (Kozma utca)", "menetido": 31,"varos": "Budapest"},
+            "BKK41":{"viszonylat": 41, "indulas": "Kamaraerdei ifjúsági park", "erkezes" : "Bécsi út / Vörösvári út", "menetido": 62,"varos": "Budapest"},
+            "BKK42":{"viszonylat": 42, "indulas": "Határ út metróállomás", "erkezes" : "Kispest Tulipán utca", "menetido": 8,"varos": "Budapest"},
+            "BKK47":{"viszonylat": 47, "indulas": "Deák Ferenc tér metróállomás", "erkezes" : "Városház tér", "menetido": 31,"varos": "Budapest"},
+            "BKK48":{"viszonylat": 48, "indulas": "Savoya park", "erkezes" : "Deák Ferenc tér metróállomás", "menetido": 28,"varos": "Budapest"},
+            "BKK49":{"viszonylat": 49, "indulas": "Kelenföld vasútállomás", "erkezes" : "Deák Ferenc tér metróállomás", "menetido": 20,"varos": "Budapest"},
+            "BKK50":{ "viszonylat": 50,"indulas": "Határ út", "erkezes" : "Pestszentlőrinc ,Béke tér", "menetido": 25,"varos": "Budapest"},
+            "BKK51":{ "viszonylat": 51,"indulas": "Nagysándor József utca", "erkezes" : "Ferenc körút/Mester utca", "menetido": 28,"varos": "Budapest"},
+            "BKK52":{ "viszonylat": 52,"indulas": "Határ út metróállomás", "erkezes" : "Pesterzsébet, Pacsirtatelep", "menetido": 25,"varos": "Budapest"},
+            "BKK56":{"viszonylat": 56, "indulas": "Hűvösvölgy", "erkezes" : "Városház tér", "menetido": 56,"varos": "Budapest"},
+            "BKK59":{"viszonylat": 59,"indulas": "Márton Áron tér", "erkezes" : "Szent János kórház", "menetido": 19,"varos": "Budapest"},
+            "BKK60":{"viszonylat": 60,"indulas": "Városmajor", "erkezes" : "Széchenyi-hegy, Gyermekvasút", "menetido": 14,"varos": "Budapest"},
+            "BKK61": {"viszonylat": 61, "indulas": "Móricz Zsigmond körtér", "erkezes" : "Hűvösvölgy", "menetido": 35,"varos": "Budapest"},
+            "BKK62":{"viszonylat": 62, "indulas": "Blaha Lujza tér metróállomás", "erkezes" : "Rákospalota, MÁV-telep", "menetido": 47,"varos": "Budapest"},
+            "BKK69":{"viszonylat": 69, "indulas": "Újpalota, Erdőkerülő utca", "erkezes" : "Mexikói út metróállomás", "menetido": 56,"varos": "Budapest"},
+            "DKV1": {"viszonylat": 1, "indulas": "Nagyállomás", "erkezes": "Nagyállomás", "menetido": 38, "varos": "Debrecen"},
+            "DKV2": {"viszonylat": 2, "indulas": "Nagyállomás", "erkezes": "Nagyállomás", "menetido": 44, "varos": "Debrecen"},
+            "MVK1": {"viszonylat": 1, "indulas": "Tiszai pályaudvar", "erkezes": "Felső-Majláth", "menetido": 33,"varos": "Miskolc"},
+            "MVK2": {"viszonylat": 2, "indulas": "Tiszai pályaudvar", "erkezes": "Újgyőri főtér", "menetido": 26,"varos": "Miskolc"},
+            "SZKT1": {"viszonylat": 1, "indulas": "Szeged plaza", "erkezes": "Szeged vasútállomás", "menetido": 33, "varos": "Szeged"},
+            "SZKT2": {"viszonylat": 2, "indulas": "Európa liget", "erkezes": "Szeged vasútállomás", "menetido": 33, "varos": "Szeged"},
+}
 
 
