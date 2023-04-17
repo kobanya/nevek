@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="magyar",
-    version="2.9.4",
+    version="2.9.5",
     author="Nagy Béla",
     author_email="nagy.belabudapest@gmail.com",
     description="Hungarian names...",

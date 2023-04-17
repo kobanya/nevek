@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: magyar
+Version: 2.9.4
+Summary: Hungarian names...
+Home-page: https://github.com/kobanya/nevek
+Author: Nagy Béla
+Author-email: nagy.belabudapest@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
 # magyar
 
 
@@ -7,20 +19,19 @@ Az alábbi listákat találod :
 1. vezetéknevek   =  magyar.vezeteknev
 2. női keresztnevek  = magyar.keresztnev_n
 3. férfi keresztnevek = magyar.keresztnev_f
-4. Vegyes magyar keresztnevek= magyar.keresztnev_v
-5. utcanevek = magyar.utca
-6. telelpülésnevek= magyar.telepules
-7. vármegyék nevei = magyar.megye
-8. folyók nevei = magyar.folyo
-9. a hét napjai = magyar.nap
-10. az év hónapjai = magyar.honap
-11. gyümölcsok = magyar.gyumolcs
-12. zöldségek = magyar.zoldseg
-13. haszonállatok = magyar.haszonallat
-14. vadallatok Magyarországon = magyar.vadallat
-15. Magyarország halai = magyar.hal
-16. Magyarország madarai = magyar.madar
-17. A naprendszer bolygóinak magyar neve = magyar.bolygo
+4. utcanevek = magyar.utca
+5. telelpülésnevek= magyar.telepules
+6. vármegyék nevei = magyar.megye
+7. folyók nevei = magyar.folyo
+8. a hét napjai = magyar.nap
+9. az év hónapjai = magyar.honap
+10. gyümölcsok = magyar.gyumolcs
+11. zöldségek = magyar.zoldseg
+12. haszonállatok = magyar.haszonallat
+13. vadallatok Magyarországon = magyar.vadallat
+14. Magyarország halai = magyar.hal
+15. Magyarország madarai = magyar.madar
+16. A naprendszer bolygóinak magyar neve = magyar.bolygo
 
 ## Szótárak  (dictionary): 
 1. Királyok és uralkodásuk ideje  = magyar.kiraly
@@ -78,14 +89,8 @@ Több adatot tartalmaznak összekapcsolva.
    A  szótárakból választhatsz véletlenszerű KULCSOT. (szótár neve, elemek száma)
                     
     szotarbol_veletlen_kulcs(szotar, n)
-Pl:
-    import magyar
-    print(magyar.szotarbol_veletlen_kulcs(magyar.jaras,15))
-Eredmény:
-    ['Szekszárdi járás', 'Gönci járás', 'Szigetvári járás', 'Mezőkovácsházi járás', 'Bátonyterenyei járás',
-    'Körmendi járás', 'Váci járás', 'Edelényi járás', 'Pilisvörösvári járás', 'Kaposvári járás', 'Hódmezővásárhelyi járás',
-    'Hatvani járás', 'Törökszentmiklósi járás', 'Putnoki járás', 'Mezőkövesdi járás']
 
+    pl: szotarbol_veletlen_kulcs(magyar.megye, 12)
 
 ## Szerző
 
