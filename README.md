@@ -26,6 +26,7 @@ Az alábbi listákat találod :
 2. Vármegyék és azok székhelyei = magyar.megye_szekhely
 3. Járások, székhelyük , megye = magyar.jaras
 4. Villamosvonalak, végállomások, menetidő = magyar.villamos
+5. Európa országai és fővárosai=  magyar.orszag
 
 ## Description
 1. last names =  magyar.vezeteknev
@@ -49,7 +50,8 @@ Dictionary:
 1. Hungarian Kings and Reigns = magyar.kiraly
 2. Hungarian counties and their administrative centers = magyar.megye_szekhely
 3. Hungarian districts, their seats, county = magyar.jaras
-4. Hungarian tram lines  magyar.villamos
+4. Hungarian tram lines = magyar.villamos
+5. Hunngarian names of Europian capitals, states = magyar.orszag
 
 ## Listák használat:
 
@@ -68,9 +70,20 @@ Több adatot tartalmaznak összekapcsolva.
     magyar.kiraly tartalma :   {'király neve' : (uralkodása tól, ig)}
     magyar.megye_szekhely :    {'megye neve' : 'székhelye'}
     magyar.jaras :             {'megye' : (székhely, megye)}
-    magyar.villamos:    kulcs {'viszonylat', indulas, erkezes, menetido, varos}
+    magyar.villamos:    kulcs  {'viszonylat', indulas, erkezes, menetido, varos}
+    magyar.orszag:             {'orszag': 'főváros'}
 
-
+## Metódus
+   A  szótárakból választhatsz véletlenszerű KULCSOT. (szótár neve, elemek száma)
+                    
+    szotarbol_veletlen_kulcs(szotar, n)
+Pl:
+    import magyar
+    print(magyar.szotarbol_veletlen_kulcs(magyar.jaras,15))
+Eredmény:
+    ['Szekszárdi járás', 'Gönci járás', 'Szigetvári járás', 'Mezőkovácsházi járás', 'Bátonyterenyei járás',
+    'Körmendi járás', 'Váci járás', 'Edelényi járás', 'Pilisvörösvári járás', 'Kaposvári járás', 'Hódmezővásárhelyi járás',
+    'Hatvani járás', 'Törökszentmiklósi járás', 'Putnoki járás', 'Mezőkövesdi járás']
 
 
 ## Szerző

@@ -272,7 +272,7 @@ villamos = {
             "SZKT2": {"viszonylat": 2, "indulas": "Európa liget", "erkezes": "Szeged vasútállomás", "menetido": 33, "varos": "Szeged"},
 }
 
-orszag_fovaros = {
+orszag= {
     "Albánia": "Tirana","Andorra": "Andorra város", "Ausztria": "Bécs", "Belgium": "Brüsszel",
     "Bosznia és Hercegovina": "Szarajevó",  "Bulgária": "Szófia",  "Ciprus": "Nicosia",
     "Csehország": "Prága",  "Dánia": "Koppenhága", "Észtország": "Tallinn", "Finnország": "Helsinki",
@@ -286,5 +286,16 @@ orszag_fovaros = {
     "Szlovénia": "Ljubljana", "Törökország": "Ankara", "Ukrajna": "Kijev", "Vatikán": "Vatikánváros"
 }
 
-
+def szotarbol_veletlen_kulcs(szotar, n):
+    """
+        szotar (dict): A szótár, amelyből véletlenszerűen választunk kulcsokat.
+        n (int): A választandó kulcsok száma.
+    """
+    kulcsok = list(szotar.keys())
+    veletlen_kulcsok = []
+    for i in range(n):
+        kulcs_index = hash(str(i)) % len(kulcsok)
+        veletlen_kulcs = kulcsok[kulcs_index]
+        veletlen_kulcsok.append(veletlen_kulcs)
+    return veletlen_kulcsok
 
