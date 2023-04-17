@@ -119,7 +119,7 @@ madar = ['feketerigó', 'fülemüle', 'csalogány', 'kékvércse', 'széncinege'
          'réti keselyű', 'héja', 'pávaszemes fecske', 'gyurgyalag', 'gólya', 'kócsag', 'hattyú', 'vadkacsa', 'vadlúd',
          'szárcsa', 'rigó', 'szajkó']
 
-
+bolygo =['Merkúr', 'Vénusz', 'Föld', 'Mars', 'Jupiter','Szaturnusz', 'Uránusz', 'Neptunusz']
 
 kiraly = {'Árpád': (895, 907), 'Zoltán': (907, 947), 'Fajsz': (947, 955), 'Taksony': (955, 972), 'Géza': (972, 997),
     'I.István': (997, 1038),'I. Péter': (1038, 1041), 'Sámuel': (1041, 1044), 'Péter-2': (1044, 1045), 'I.András': (1041, 1060),
@@ -208,7 +208,7 @@ jaras= {
     'Gödöllői járás': ['Gödöllő', 'Pest'], 'Gyáli járás': ['Gyál', 'Pest'],
     'Monori járás': ['Monor', 'Pest'],'Nagykátai járás': ['Nagykáta', 'Pest'],
     'Nagykőrösi járás': ['Nagykőrös', 'Pest'],'Pilisvörösvári járás': ['Pilisvörösvár', 'Pest'],
-     'Ráckevei járás': ['Ráckeve', 'Pest'], 'Szentendrei járás': ['Szentendre', 'Pest'],
+    'Ráckevei járás': ['Ráckeve', 'Pest'], 'Szentendrei járás': ['Szentendre', 'Pest'],
     'Szigetszentmiklósi járás': ['Szigetszentmiklós', 'Pest'],'Szobi járás': ['Szob', 'Pest'],
     'Váci járás': ['Vác', 'Pest'],'Vecsési járás': ['Vecsés', 'Pest'],
     'Barcsi járás': ['Barcs', 'Somogy'],  'Csurgói járás': ['Csurgó', 'Somogy'],
@@ -271,5 +271,20 @@ villamos = {
             "SZKT1": {"viszonylat": 1, "indulas": "Szeged plaza", "erkezes": "Szeged vasútállomás", "menetido": 33, "varos": "Szeged"},
             "SZKT2": {"viszonylat": 2, "indulas": "Európa liget", "erkezes": "Szeged vasútállomás", "menetido": 33, "varos": "Szeged"},
 }
+
+orszag_fovaros = {
+    "Albánia": "Tirana","Andorra": "Andorra város", "Ausztria": "Bécs", "Belgium": "Brüsszel",
+    "Bosznia és Hercegovina": "Szarajevó",  "Bulgária": "Szófia",  "Ciprus": "Nicosia",
+    "Csehország": "Prága",  "Dánia": "Koppenhága", "Észtország": "Tallinn", "Finnország": "Helsinki",
+    "Franciaország": "Párizs", "Görögország": "Athén", "Horvátország": "Zágráb", "Izland": "Reykjavík",
+    "Írország": "Dublin", "Koszovó": "Pristina", "Lengyelország": "Varsó", "Lettország": "Riga",
+    "Liechtenstein": "Vaduz",  "Litvánia": "Vilnius",  "Luxemburg": "Luxemburg",
+    "Magyarország": "Budapest",  "Málta": "Valletta",  "Moldova": "Kisinyov",  "Monaco": "Monaco",
+    "Montenegró": "Podgorica", "Németország": "Berlin", "Norvégia": "Oslo", "Olaszország": "Róma",
+    "Portugália": "Lisszabon", "Románia": "Bukarest", "San Marino": "San Marino",
+    "Spanyolország": "Madrid", "Svájc": "Bern",  "Svédország": "Stockholm",  "Szlovákia": "Pozsony",
+    "Szlovénia": "Ljubljana", "Törökország": "Ankara", "Ukrajna": "Kijev", "Vatikán": "Vatikánváros"
+}
+
 
 

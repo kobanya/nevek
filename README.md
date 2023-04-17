@@ -19,6 +19,7 @@ Az alábbi listákat találod :
 13. vadallatok Magyarországon = magyar.vadallat
 14. Magyarország halai = magyar.hal
 15. Magyarország madarai = magyar.madar
+16. A naprendszer bolygóinak magyar neve = magyar.bolygo
 
 ## Szótárak  (dictionary): 
 1. Királyok és uralkodásuk ideje  = magyar.kiraly
@@ -42,6 +43,7 @@ Az alábbi listákat találod :
 13. hungarian wildlife  = magyar.vadallat
 14. Fishes of Hungary = magyar.hal
 15. Birds of Hungary = magyar.madar
+16. Hungarian names of planets = magyar.bolygo
 
 Dictionary:
 1. Hungarian Kings and Reigns = magyar.kiraly
