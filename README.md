@@ -78,10 +78,10 @@ Több adatot tartalmaznak összekapcsolva.
    A  szótárakból választhatsz véletlenszerű KULCSOT. (szótár neve, elemek száma)
                     
     szotarbol_veletlen_kulcs(szotar, n)
-Pl:
-    import magyar
-    print(magyar.szotarbol_veletlen_kulcs(magyar.jaras,15))
-Eredmény:
+Pl: </br>
+    import magyar</br>
+    print(magyar.szotarbol_veletlen_kulcs(magyar.jaras,15)) </br></br>
+Eredmény: </br>
     ['Szekszárdi járás', 'Gönci járás', 'Szigetvári járás', 'Mezőkovácsházi járás', 'Bátonyterenyei járás',
     'Körmendi járás', 'Váci járás', 'Edelényi járás', 'Pilisvörösvári járás', 'Kaposvári járás', 'Hódmezővásárhelyi járás',
     'Hatvani járás', 'Törökszentmiklósi járás', 'Putnoki járás', 'Mezőkövesdi járás']
