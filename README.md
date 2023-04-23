@@ -4,26 +4,27 @@
 ## Magyar listák gyűjteménye - Collection of Hungarian lists.
 
 Az alábbi listákat találod :
-1. vezetéknevek   =  magyar.vezeteknev
-2. női keresztnevek  = magyar.keresztnev_n
-3. férfi keresztnevek = magyar.keresztnev_f
-4. Vegyes magyar keresztnevek= magyar.keresztnev_v
-5. utcanevek = magyar.utca
-6. telelpülésnevek= magyar.telepules
-7. vármegyék nevei = magyar.megye
-8. folyók nevei = magyar.folyo
-9. a hét napjai = magyar.nap
-10. az év hónapjai = magyar.honap
-11. gyümölcsok = magyar.gyumolcs
-12. zöldségek = magyar.zoldseg
-13. haszonállatok = magyar.haszonallat
-14. vadallatok Magyarországon = magyar.vadallat
+1. Magyar vezetéknevek   =  magyar.vezeteknev
+2. Magyar női keresztnevek  = magyar.keresztnev_n
+3. Magyar férfi keresztnevek = magyar.keresztnev_f
+4. Magyar vegyes keresztnevek= magyar.keresztnev_v
+5. Magyar utcanevek = magyar.utca
+6. Magyar telelpülésnevek= magyar.telepules
+7. Magyar vármegyék nevei = magyar.megye
+8. Magyar folyók nevei = magyar.folyo
+9. A hét napjai magyarul = magyar.nap
+10. Az év hónapjai magyarul = magyar.honap
+11. A gyümölcsök magyar nevei = magyar.gyumolcs
+12. A zöldségek magyar nevei = magyar.zoldseg
+13. A haszonállatok magyar nevei = magyar.haszonallat
+14. Vadallatok Magyarországon = magyar.vadallat
 15. Magyarország halai = magyar.hal
 16. Magyarország madarai = magyar.madar
 17. A naprendszer bolygóinak magyar neve = magyar.bolygo
 18. Magyar leves nevek =  magyar.leves
 19. Magyar főételek = magyar.foetel
 20. Magyar köretek = magyar.koret
+21. Magyar egytál ételek = magyar.egytal
 
 ## Szótárak  (dictionary): 
 1. Királyok és uralkodásuk ideje  = magyar.kiraly
@@ -53,6 +54,7 @@ Az alábbi listákat találod :
 18. Hugarian given names M+F  magyar.keresztnev_v
 19. Hungarian main foods = magyar.foetel
 20. Hungarian side dishes  = magyar.koret
+21. Hungarian one-pot meals = magyar.egytal
 
 Dictionary:
 1. Hungarian Kings and Reigns = magyar.kiraly
