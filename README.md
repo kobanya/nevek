@@ -21,6 +21,9 @@ Az alábbi listákat találod :
 15. Magyarország halai = magyar.hal
 16. Magyarország madarai = magyar.madar
 17. A naprendszer bolygóinak magyar neve = magyar.bolygo
+18. Magyar leves nevek =  magyar.leves
+19. Magyar főételek = magyar.foetel
+20. Magyar köretek = magyar.koret
 
 ## Szótárak  (dictionary): 
 1. Királyok és uralkodásuk ideje  = magyar.kiraly
@@ -37,7 +40,7 @@ Az alábbi listákat találod :
 5. city names = magyar.telepules
 6. names of counties = magyar.megye
 7. names of rivers = magyar.folyo
-8. he days of the week = magyar.nap
+8. The days of the week = magyar.nap
 9. the months of the year = magyar.honap
 10. fruits = magyar.gyumolcs
 11. vegetables = magyar.zoldseg
@@ -46,6 +49,10 @@ Az alábbi listákat találod :
 14. Fishes of Hungary = magyar.hal
 15. Birds of Hungary = magyar.madar
 16. Hungarian names of planets = magyar.bolygo
+17. Hungarian soup names = magyar.leves
+18. Hugarian given names M+F  magyar.keresztnev_v
+19. Hungarian main foods = magyar.foetel
+20. Hungarian side dishes  = magyar.koret
 
 Dictionary:
 1. Hungarian Kings and Reigns = magyar.kiraly

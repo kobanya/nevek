@@ -141,6 +141,42 @@ madar = ['feketerigó', 'fülemüle', 'csalogány', 'kékvércse', 'széncinege'
 
 bolygo =['Merkúr', 'Vénusz', 'Föld', 'Mars', 'Jupiter','Szaturnusz', 'Uránusz', 'Neptunusz']
 
+
+leves = ["Gulyásleves", "Halászlé", "Hideg meggyleves", "Zöldborsóleves", "Jókai bableves", "Csontleves",
+           "Marhahúsleves", "Zellerkrémleves", "Sárgaborsóleves", "Babgulyásleves", "Karalábéleves", "Zöldségleves",
+           "Kukoricaleves", "Karfiolleves", "Hideg gyümölcsleves", "Korhelyleves", "Tyúkhúsleves",
+           "Pirított tarhonyaleves", "Gombaleves", "Lencseleves", "Gulyáskrémleves", "Csülökleves", "Paradicsomleves",
+           "Borleves", "Tárkonyos raguleves", "Zöldbableves", "Kapros-joghurtos leves", "Paradicsomleves betűtésztával",
+           "Sajtos-tejfölös leves", "Burgonyaleves", "Csirkeleves", "Krumplileves",  "Tavaszi zöldségleves",
+           "Karfiol krémleves", "Tojásleves", "Tárkonyos csirkeraguleves", "Káposztaleves", "Húsos zöldborsóleves",
+           "Sárgadinnyeleves", "Tavaszi zöldségleves tarhonyával", "Hagymaleves",  "Húsleves gazdagon",
+           "Gesztenyekrémleves", "Jérceleves", "Kolbászos bableves", "Uborkaleves", "Tejszínes karfiolleves",
+           "Tarkabableves", "Hideg szilvaleves", "Fokhagymaleves", "Májgombócleves", "Brokkolileves",
+           "Savanyú káposztaleves", "Erőleves", "Tejfölös gombaleves",  "Húsos káposztaleves", "Zöldspárga krémleves",
+           "Sóska krémleves", "Burgonyapüréleves", "Laskaleves",  "Paradicsomleves húsgombóccal", "Csirkemájleves",
+           "Ribizlileves", "Cukkinikrémleves", "Fokhagymás zöldbableves", "Zöldségleves tojással"]
+
+foetel= ['Vadörkölt', 'Rakott krumpli', 'Töltött káposzta', 'Lecsó', 'Töltött paprika', 'Sült csirke',
+         'Sertésszelet', 'Rántott hús', 'Paprikás csirke', 'Kolbász', 'Rántott sajt', 'Rántott karfiol',
+         'Kacsacomb rántva', 'Kakaspörkölt', 'Lencsefőzelék', 'Sült hal', 'Túrós csusza', 'Gombapaprikás',
+         'Székelykáposzta', 'Marhapörkölt', 'Pacalpörkölt', 'Paprikás krumpli', 'Roston sült csirke',
+         'Rántott gomba', 'Rántott karaj', 'Rántott csirkemell', 'Rakott padlizsán', 'Halpaprikás', 'Libamáj',
+         'Sült sertés', 'Halpaprikás', 'Csülök Pékné módra', 'Borjúpörkölt ',
+        'Párizsi csirkemell', 'Rántott karaj', 'Kacsapörkölt', 'Csirkepaprikás',  'Rántott csirkeszárny', 'Pacalpörkölt',
+       'Hortobágyi húsos palacsinta', 'Sztrapacska szalonna pörccel', 'Rántott jércemell', 'Sertéspörkölt',
+       'Grillezett csirkecomb', 'Lecsós csirke', 'Rántott gomba tartármártással', 'Rántott ponty', 'Lazacsteak', 'Roston sült hal',
+       'Rántott camembert', 'Sült kacsacomb', 'Sült libacomb', 'Sült pulykamell', 'Sült tarja', 'Báránytokány',
+       'Szűzérmék', 'Burgonyás tészta', 'Cordon bleu',  'Csirkemájas rizottó', 'Húsgombóc leves', 'Sült Kacsamáj',
+       'Kapros-túrós csusza', 'Lecsós tarja']
+
+koret = ['Párolt rizs', 'Hagymás tört burgonya', 'Burgonyapüré', 'Tócsni', 'Párolt zöldségek', 'Hasábburgonya',
+           'Grillezett zöldségek', 'Köleskása', 'Galuska', 'Zöldségköret', 'Kukoricás rizs', 'Sárgarépa püré',
+            'Zöldségpüré',  'Burgonyakrokett', 'Kuszkusz', 'Brokkolipüré', 'Párolt sárgarépa', 'Zellerpüré',
+           'Tarhonya',  'Zöldborsós rizs', 'Sajtos tócsni', 'Gombás rizs', 'Gersli',  'Sült édesburgonya',
+           'Édesburgonya']
+
+
+
 kiraly = {'Árpád': (895, 907), 'Zoltán': (907, 947), 'Fajsz': (947, 955), 'Taksony': (955, 972), 'Géza': (972, 997),
     'I.István': (997, 1038),'I. Péter': (1038, 1041), 'Sámuel': (1041, 1044), 'Péter-2': (1044, 1045), 'I.András': (1041, 1060),
     'I. Béla': (1060, 1063), 'Salamon': (1063, 1074), 'I. Géza': (1074, 1077), 'I. László': (1077, 1095),
