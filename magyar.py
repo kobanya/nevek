@@ -128,7 +128,7 @@ zoldseg = ['articsóka', 'bab', 'borsó', 'brokkoli', 'burgonya', 'cékla', 'csi
 haszonallat = [ 'tehén', 'juh', 'kecske', 'disznó', 'tyúk', 'kacsa', 'liba', 'pulyka', 'strucc', 'ló', 'szamár', 'bivaly',
                  'jak', 'csirke', 'nyúl', 'szarvasmarha', 'szürkemarha', 'sertés', 'malac', 'gyöngytyúk', 'birka']
 
-vadallat = ['medve', 'farkas', 'róka', 'borz', 'őz', 'szarvas','nyest', 'vaddisznó','muflon','vidra',
+vad = ['medve', 'farkas', 'róka', 'borz', 'őz', 'szarvas','nyest', 'vaddisznó','muflon','vidra',
             'gímszarvas', 'molnárgörény','vadmacska']
 
 hal = ['keszeg', 'ponty', 'csuka', 'harcsa', 'süllő', 'kárász', 'angolna', 'márna', 'fogasponty', 'sügér', 'amur',
@@ -360,3 +360,14 @@ def szotarbol_veletlen_kulcs(szotar, n):
         veletlen_kulcsok.append(veletlen_kulcs)
     return veletlen_kulcsok
 
+def tordel(lst, n=None):  # lst = kiírandó lista, n = hany kerüljön  egy sorba
+    if n is None:
+        n = 10
+    for i in range(0, len(lst), n):
+        row = lst[i:i+n]
+        print(", ".join(map(str, row)), end=", ")
+        print()
+
+ABECEDARAK = 'aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz'
+def abc(lista):
+    return sorted(lista, key=lambda s: [ABECEDARAK.find(c) for c in s.lower()])
