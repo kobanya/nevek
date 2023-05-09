@@ -207,7 +207,7 @@ udito = ['Narancslé', 'Almalé', 'Tonik', 'Ásványvíz', 'Gyümölcslé', 'Sz�
         'Bodza szörp', 'Cseresznyeszörp', 'Málnaszörp', 'Eper szörp',  'Zöld teás üdítő',
         'Narancs ízű ásványvíz','Coca Cola', 'Fanta', 'Sprite', 'Jeges tea', 'Gyömbér',
         'Bambi', 'Róna', 'Márka','Traubisoda','Olympos','Málna-gyöngye','Meggy-gyöngye',
-         'Sió gyümölcs nektár']
+        'Sió gyümölcs nektár','Limonádé']
 
 
 

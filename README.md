@@ -120,11 +120,15 @@ Kukoricaleves, Karfiolleves, Hideg gyümölcsleves, Korhelyleves,
 Tyúkhúsleves, Pirított tarhonyaleves, Gombaleves, Lencseleves, 
 Gulyáskrémleves, Csülökleves, Paradicsomleves, Borleves, 
 
-3. Listák ABC sorrendbe rendezése  </br>
+3. Listák ABC sorrendbe rendezése, ékezet érzékeny </br>
 
 
-    magyar.abc(lista):
+         magyar.abc(lista):
 
+Használat : </br> </br>
+gyumolcs =['Áfonya', 'Eper', 'Alma', 'Meggy','Őszibarack',]
+sorban =magyar.abc(gyumolcs) </br>
+['Alma', 'Áfonya', 'Eper', 'Meggy', 'Őszibarack']
 ## Szerző
 
 * Név: Nagy BÉLa
