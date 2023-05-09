@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: magyar
+Version: 3.0.0
+Summary: Hungarian lists of names,animals,foods, fruits, rivers ..
+Home-page: https://github.com/kobanya/nevek
+Author: Nagy Béla
+Author-email: nagy.belabudapest@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
 # magyar
 
 
@@ -126,7 +138,7 @@ Gulyáskrémleves, Csülökleves, Paradicsomleves, Borleves,
          magyar.abc(lista):
 
 Használat : </br> </br>
-gyumolcs =['Áfonya', 'Eper', 'Alma', 'Meggy','Őszibarack',] </br>
+gyumolcs =['Áfonya', 'Eper', 'Alma', 'Meggy','Őszibarack',]
 sorban =magyar.abc(gyumolcs) </br>
 ['Alma', 'Áfonya', 'Eper', 'Meggy', 'Őszibarack']
 ## Szerző
