@@ -25,6 +25,8 @@ Az alábbi listákat találod :
 19. Magyar főételek = magyar.**foetel**
 20. Magyar köretek = magyar.**koret**
 21. Magyar egytál ételek = magyar.**egytal**
+22. Magyar desszertek = magyar.**desszert**
+23. Magyar borok = magyar.**bor**
 
 ## Szótárak  (dictionary): 
 1. Királyok és uralkodásuk ideje  = magyar.kiraly
@@ -55,6 +57,8 @@ Az alábbi listákat találod :
 19. Hungarian main foods = magyar.**foetel**
 20. Hungarian side dishes  = magyar.**koret**
 21. Hungarian one-pot meals = magyar.**egytal**
+22. Hungarian sweet treats = magyar.**desszert**
+23. Hungarian wines =magyar.**bor**
 
 Dictionary:
 1. Hungarian Kings and Reigns = magyar.kiraly

@@ -158,29 +158,51 @@ leves = ["Gulyásleves", "Halászlé", "Hideg meggyleves", "Zöldborsóleves", "
 
 foetel= ['Vadörkölt', 'Sült csirke',
          'Sertésszelet', 'Rántott hús', 'Paprikás csirke', 'Sült kolbász', 'Rántott sajt', 'Rántott karfiol',
-         'Kacsacomb rántva', 'Kakaspörkölt',  'Sült hal', 'Túrós csusza', 'Gombapaprikás',
-         'Székelykáposzta', 'Marhapörkölt', 'Pacalpörkölt', 'Paprikás krumpli', 'Roston sült csirke',
-         'Rántott gomba', 'Rántott karaj', 'Rántott csirkemell', 'Rakott padlizsán', 'Halpaprikás', 'Libamáj',
+         'Kacsacomb rántva', 'Kakaspörkölt',  'Sült hal',  'Gombapaprikás',
+         'Marhapörkölt', 'Pacalpörkölt', 'Roston sült csirke',
+         'Rántott gomba', 'Rántott karaj', 'Rántott csirkemell', 'Halpaprikás', 'Libamáj',
          'Sült sertés', 'Halpaprikás', 'Csülök Pékné módra', 'Borjúpörkölt ',
-        'Párizsi csirkemell', 'Rántott karaj', 'Kacsapörkölt', 'Csirkepaprikás',  'Rántott csirkeszárny', 'Pacalpörkölt',
+         'Párizsi csirkemell', 'Rántott karaj', 'Kacsapörkölt', 'Csirkepaprikás',  'Rántott csirkeszárny', 'Pacalpörkölt',
          'Rántott jércemell', 'Sertéspörkölt','Mátrai borzaska',
-       'Grillezett csirkecomb', 'Lecsós csirke', 'Rántott gomba tartármártással', 'Rántott ponty', 'Lazacsteak', 'Roston sült hal',
-       'Rántott camembert', 'Sült kacsacomb', 'Sült libacomb', 'Sült pulykamell', 'Sült tarja', 'Báránytokány',
-       'Szűzérmék',  'Cordon bleu', 'Sült Kacsamáj',
-       'Kapros-túrós csusza', 'Lecsós tarja', 'Stefánia vagdalt']
+         'Grillezett csirkecomb', 'Lecsós csirke', 'Rántott gomba ', 'Rántott ponty', 'Lazacsteak', 'Roston sült hal',
+         'Rántott camembert', 'Sült kacsacomb', 'Sült libacomb', 'Sült pulykamell', 'Sült tarja', 'Báránytokány',
+         'Szűzérmék',  'Cordon bleu', 'Sült Kacsamáj',
+         'Lecsós tarja', 'Stefánia vagdalt']
 
-koret = ['Párolt rizs', 'Hagymás tört burgonya', 'Burgonyapüré', 'Tócsni', 'Párolt zöldségek', 'Hasábburgonya',
+koret = ['Párolt rizs', 'Hagymás tört burgonya', 'Burgonyapüré', 'Párolt zöldségek', 'Hasábburgonya',
            'Grillezett zöldségek', 'Köleskása', 'Galuska', 'Zöldségköret', 'Kukoricás rizs', 'Sárgarépa püré',
-            'Zöldségpüré',  'Burgonyakrokett', 'Kuszkusz', 'Brokkolipüré', 'Párolt sárgarépa', 'Zellerpüré',
-           'Tarhonya',  'Zöldborsós rizs', 'Sajtos tócsni', 'Gombás rizs', 'Gersli',  'Sült édesburgonya',
-           'Édesburgonya püré',  'Hercegnő burgonya', 'Csónak burgonya', 'Tepsis burgonya']
+            'Tarhonya',  'Burgonyakrokett', 'Kuszkusz', 'Brokkolipüré', 'Párolt sárgarépa',
+           'Tarhonya',  'Zöldborsós rizs', 'Gombás rizs', 'Gersli',  'Sült édesburgonya hasáb',
+           'Édesburgonya püré',  'Hercegnő burgonya', 'Csónak burgonya', 'Tepsis sült burgonya']
 
 egytal = ['Rakott krumpli', 'Töltött káposzta', 'Lecsó','Töltött paprika','Lencsefőzelék sültkolbásszal','Hortobágyi húsos palacsinta',
           'Sztrapacska szalonna pörccel','Burgonyás tészta','Csirkés rizottó','Rakott kelkáposzta csőben sütve',
            'Rakott zöldbab', 'Disznótoros káposzta', 'Bácskai rizseshús', 'Brassói aprópecsenye','Tarhonyás hús',
           'Székelykáposzta','Paradicsomos töltött káposzta','Rakott cukkini', 'Pásztortarhonya','Húsos-szaftos tészta',
           'Lecsó Mezőcsáti módra', 'Sonkás-paradicsomos tészta', 'Sajtos-sonkás rakott tészta', 'Kolozsvári rakott káposzta',
-          'Sonkás tészta csőben sütve']
+          'Sonkás tészta csőben sütve','Túrós csusza','Kapros-túrós csusza', 'Székelykáposzta','Paprikás krumpli', 'Rakott padlizsán' ]
+
+desszert = [
+    'Almás pite', 'Aranygaluska','Bejgli','Bodri torta','Boszorkányszigeti torta','Budapest roló', 'Császármorzsa',
+    'Csokoládé torta','Dobostorta','Diótorta', 'Esterházy torta','Fekete-erdő torta','Flódni','Gesztenyepüré torta',
+    'János vitéz tortája', 'Joghurt torta', 'Kakaós-meggyes pite', 'Képviselőfánk', 'Két színű torta',
+    'Kókuszos szelet', 'Krémes', 'Linzer', 'Mákos guba', 'Mákos kalács', 'Napóleon torta', 'Orosz krémtorta',
+    'Francia krémes', 'Puncsgolyó','Rakott palacsinta','Rákóczi túrós','Rigó Jancsi', 'Somlói galuska',
+    'Tiramisu','Répatorta']
+
+bor = ['Tokaji Furmint', 'Villányi Franc', 'Eger Bikavér', 'Szekszárdi Bikavér', 'Balatonboglári Kékfrankos',
+       'Badacsonyi Olaszrizling', 'Villányi Portugieser', 'Villányi Cabernet Franc', 'Egri Kékfrankos',
+       'Villányi Merlot', 'Etyeki Chardonnay', 'Somlói Juhfark', 'Tokaji Aszú', 'Mátrai Irsai Olivér',
+       'Villányi Cabernet Sauvignon', 'Balatonfüredi Szürkebarát', 'Soproni Kékfrankos', 'Szekszárdi Kadarka',
+       'Szekszárdi Merlot', 'Balatonlellei Olaszrizling', 'Badacsonyi Kéknyelű', 'Villányi Syrah',
+       'Somlói Furmint', 'Tokaji Szamorodni', 'Villányi Cuvée', 'Villányi Pinot Noir', 'Badacsonyi Kékfrankos',
+       'Mátrai Pinot Noir', 'Tokaji Hárslevelű', 'Villányi Kékfrankos', 'Somlói Traminer',
+       'Badacsonyi Muscat Ottonel', 'Villányi Kadarka', 'Mátrai Cabernet Sauvignon', 'Soproni Pinot Noir',
+       'Balatonfüredi Olaszrizling', 'Badacsonyi Szürkebarát', 'Tokaji Szamorodni Édes', 'Egri Leányka',
+       'Szekszárdi Cuvée', 'Villányi Kéknyelű', 'Egri Merlot', 'Somlói Olaszrizling',
+       'Badacsonyi Rizlingszilváni', 'Villányi Portugieser Rosé', 'Balatonboglári Zenit',
+       'Balatonlellei Riesling', 'Tokaji Szamorodni Száraz', 'Soproni Rosé']
+
 
 kiraly = {'Árpád': (895, 907), 'Zoltán': (907, 947), 'Fajsz': (947, 955), 'Taksony': (955, 972), 'Géza': (972, 997),
     'I.István': (997, 1038),'I. Péter': (1038, 1041), 'Sámuel': (1041, 1044), 'Péter-2': (1044, 1045), 'I.András': (1041, 1060),
