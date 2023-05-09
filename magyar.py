@@ -177,8 +177,8 @@ koret = ['Párolt rizs', 'Hagymás tört burgonya', 'Burgonyapüré', 'Párolt z
 
 egytal = ['Rakott krumpli', 'Töltött káposzta', 'Lecsó','Töltött paprika','Lencsefőzelék sültkolbásszal','Hortobágyi húsos palacsinta',
           'Sztrapacska szalonna pörccel','Burgonyás tészta','Csirkés rizottó','Rakott kelkáposzta csőben sütve',
-           'Rakott zöldbab', 'Disznótoros káposzta', 'Bácskai rizseshús', 'Brassói aprópecsenye','Tarhonyás hús',
-          'Székelykáposzta','Paradicsomos töltött káposzta','Rakott cukkini', 'Pásztortarhonya','Húsos-szaftos tészta',
+           'Rakott zöldbab', 'Disznótoros káposzta friss kenyérrel', 'Bácskai rizseshús', 'Brassói aprópecsenye','Tarhonyás hús',
+          'Székelykáposzta kenyérrel','Paradicsomos töltött káposzta','Rakott cukkini', 'Pásztortarhonya','Húsos-szaftos tészta',
           'Lecsó Mezőcsáti módra', 'Sonkás-paradicsomos tészta', 'Sajtos-sonkás rakott tészta', 'Kolozsvári rakott káposzta',
           'Sonkás tészta csőben sütve','Túrós csusza','Kapros-túrós csusza', 'Székelykáposzta','Paprikás krumpli', 'Rakott padlizsán' ]
 
@@ -202,6 +202,13 @@ bor = ['Tokaji Furmint', 'Villányi Franc', 'Eger Bikavér', 'Szekszárdi Bikav�
        'Szekszárdi Cuvée', 'Villányi Kéknyelű', 'Egri Merlot', 'Somlói Olaszrizling',
        'Badacsonyi Rizlingszilváni', 'Villányi Portugieser Rosé', 'Balatonboglári Zenit',
        'Balatonlellei Riesling', 'Tokaji Szamorodni Száraz', 'Soproni Rosé']
+
+udito = ['Narancslé', 'Almalé', 'Tonik', 'Ásványvíz', 'Gyümölcslé', 'Szőlőlé',
+        'Bodza szörp', 'Cseresznyeszörp', 'Málnaszörp', 'Eper szörp',  'Zöld teás üdítő',
+        'Narancs ízű ásványvíz','Coca Cola', 'Fanta', 'Sprite', 'Jeges tea', 'Gyömbér',
+        'Bambi', 'Róna', 'Márka','Traubisoda','Olympos','Málna-gyöngye','Meggy-gyöngye',
+         'Sió gyümölcs nektár']
+
 
 
 kiraly = {'Árpád': (895, 907), 'Zoltán': (907, 947), 'Fajsz': (947, 955), 'Taksony': (955, 972), 'Géza': (972, 997),

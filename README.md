@@ -27,6 +27,7 @@ Az alábbi listákat találod :
 21. Magyar egytál ételek = magyar.**egytal**
 22. Magyar desszertek = magyar.**desszert**
 23. Magyar borok = magyar.**bor**
+24. Magyar üdítők= magyar.**utito**
 
 ## Szótárak  (dictionary): 
 1. Királyok és uralkodásuk ideje  = magyar.kiraly
@@ -36,29 +37,30 @@ Az alábbi listákat találod :
 5. Európa országai és fővárosai=  magyar.orszag
 
 ## Description
-1. last names =  magyar.**vezeteknev**
-2. female first names = magyar.**keresztnev_n**
-3. male first names  = magyar.**keresztnev_f**
-4. street names = magyar.**utca**
-5. city names = magyar.**telepules**
-6. names of counties = magyar.**megye**
-7. names of rivers = magyar.**folyo**
+1. Last names =  magyar.**vezeteknev**
+2. Female first names = magyar.**keresztnev_n**
+3. Male first names  = magyar.**keresztnev_f**
+4. Street names = magyar.**utca**
+5. City names = magyar.**telepules**
+6. Names of counties = magyar.**megye**
+7. Names of rivers = magyar.**folyo**
 8. The days of the week = magyar.**nap**
-9. the months of the year = magyar.**honap**
-10. fruits = magyar.**gyumolcs**
-11. vegetables = magyar.**zoldseg**
-12. domesticated animals = magyar.**haszonallat**
-13. hungarian wildlife  = magyar.**vad**
+9. The months of the year = magyar.**honap**
+10. Fruits = magyar.**gyumolcs**
+11. Vegetables = magyar.**zoldseg**
+12. Domesticated animals = magyar.**haszonallat**
+13. Hungarian wildlife  = magyar.**vad**
 14. Fishes of Hungary = magyar.**hal**
 15. Birds of Hungary = magyar.**madar**
 16. Hungarian names of planets = magyar.**bolygo**
 17. Hungarian soup names = magyar.**leves**
-18. Hugarian given names M+F  magyar.**keresztnev_v**
+18. Hungarian given names M+F  magyar.**keresztnev_v**
 19. Hungarian main foods = magyar.**foetel**
 20. Hungarian side dishes  = magyar.**koret**
 21. Hungarian one-pot meals = magyar.**egytal**
 22. Hungarian sweet treats = magyar.**desszert**
 23. Hungarian wines =magyar.**bor**
+24. Hungarian soft drinks= magyar.**udito**
 
 Dictionary:
 1. Hungarian Kings and Reigns = magyar.kiraly
