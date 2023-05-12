@@ -129,6 +129,20 @@ Használat : </br> </br>
 gyumolcs =['Áfonya', 'Eper', 'Alma', 'Meggy','Őszibarack',] </br>
 sorban =magyar.abc(gyumolcs) </br>
 ['Alma', 'Áfonya', 'Eper', 'Meggy', 'Őszibarack']
+
+4. Listák tördelése "behúzással" </br></br>
+
+        magyar.ftordel(lst,n,'') 
+</br></br>
+lst = a lista neve</br>
+n = hány szó legyen egy sorban</br>
+'  ' = a behúzás mértéke ami sztring. '\t' </br>
+Kimenetként listát ad vissza. </br></br>
+
+Hasznalat :</br>
+formazott_lista= magyar.ftordel(varosok,5,'\t')</br>
+print(formazott_lista) vagy f.write(formazott_lista)
+
 ## Szerző
 
 * Név: Nagy BÉLa
