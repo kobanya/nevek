@@ -142,6 +142,15 @@ Kimenetként listát ad vissza. </br></br>
 Hasznalat :</br>
 formazott_lista= magyar.ftordel(varosok,5,'\t')</br>
 print(formazott_lista) vagy f.write(formazott_lista)
+</br></br></br>
+5. kerekítés egész számra:  </br>
+
+        magyar.fel_kerekit(szam)
+        magyar.le_kerekit(szam)
+
+
+Tizedes számot kerekít egész számra fel vagy le.  </br>
+ </br>
 
 ## Szerző
 

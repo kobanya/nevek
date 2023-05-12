@@ -411,3 +411,12 @@ def ftordel(lst, n=None, indent=None):
 ABECEDARAK = 'aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz'
 def abc(lista):
     return sorted(lista, key=lambda s: [ABECEDARAK.find(c) for c in s.lower()])
+
+def fel_kerekit(szam):
+    if szam % 1 == 0:
+        return int(szam)
+    else:
+        return int(szam) + 1
+
+def le_kerekit(szam):
+    return int(szam // 1)
