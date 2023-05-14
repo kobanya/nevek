@@ -83,7 +83,7 @@ I recommend it mainly as a supplement to random number generators.
 
 ![Listák](https://raw.githubusercontent.com/kobanya/nevek/master/listak.png)
 
-</br>
+
 ## Szótárak:
 Több adatot tartalmaznak összekapcsolva.
 
@@ -115,16 +115,15 @@ Eredmény: </br>
         magyar.tordel(lst , n)  
 
  pl: </br>   
-magyar.tordel(magyar.leves,5) </br>
-Eredmény: </br></br>
-Gulyásleves, Halászlé, Hideg meggyleves, Zöldborsóleves, 
-Jókai bableves, Csontleves, Marhahúsleves, Zellerkrémleves, 
-Sárgaborsóleves, Babgulyásleves, Karalábéleves, Zöldségleves, 
-Kukoricaleves, Karfiolleves, Hideg gyümölcsleves, Korhelyleves, 
-Tyúkhúsleves, Pirított tarhonyaleves, Gombaleves, Lencseleves, 
-Gulyáskrémleves, Csülökleves, Paradicsomleves, Borleves, 
+magyar.tordel(magyar.telepules,5) </br>
 
-3. Listák ABC sorrendbe rendezése, ékezet érzékeny </br>
+
+<br>
+
+![Sima tördelés](https://raw.githubusercontent.com/kobanya/nevek/master/sima_tordel.png)
+
+<br>
+3. Listák ABC sorrendbe rendezése, ékezet érzékeny <br>
 
 
          magyar.abc(lista):
