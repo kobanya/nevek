@@ -27,7 +27,7 @@ Az alábbi listákat találod :
 21. Magyar egytál ételek = magyar.**egytal**
 22. Magyar desszertek = magyar.**desszert**
 23. Magyar borok = magyar.**bor**
-24. Magyar üdítők= magyar.**utito**
+24. Magyar üdítők= magyar.**udito**
 
 ## Szótárak  (dictionary): 
 1. Királyok és uralkodásuk ideje  = magyar.kiraly
@@ -132,7 +132,10 @@ Használat : </br> </br>
 gyumolcs =['Áfonya', 'Eper', 'Alma', 'Meggy','Őszibarack',] </br>
 sorban =magyar.abc(gyumolcs) </br>
 ['Alma', 'Áfonya', 'Eper', 'Meggy', 'Őszibarack']
-
+<br> 
+<br>
+![ABC](https://raw.githubusercontent.com/kobanya/nevek/master/abc.png)
+<br>
 4. Listák tördelése "behúzással" </br></br>
 
         magyar.ftordel(lst,n,'') 
