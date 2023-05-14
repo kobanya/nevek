@@ -143,8 +143,10 @@ Hasznalat :</br>
 formazott_lista= magyar.ftordel(varosok,5,'\t')</br>
 print(formazott_lista) vagy f.write(formazott_lista)
 </br></br></br>
-Minta a használathoz: </br>
-![Példa kép](./abc_rendezes.png)
+Minta a használathoz: 
+</br>
+![ABC rendezés](https://raw.githubusercontent.com/kobanya/nevek/master/abc_rendezes.png)
+
 5. kerekítés egész számra:  </br>
 
         magyar.fel_kerekit(szam)
@@ -153,7 +155,8 @@ Minta a használathoz: </br>
 
 Tizedes számot kerekít egész számra fel vagy le.  </br>
  </br>
-![Példa kép](./kerekites.png)
+![Kerekítés](https://raw.githubusercontent.com/kobanya/nevek/master/kerekites.png)
+
 
 ## Szerző
 
