@@ -153,7 +153,7 @@ Minta a használathoz: </br>
 
 Tizedes számot kerekít egész számra fel vagy le.  </br>
  </br>
-
+![Példa kép](./kerekites.png)
 
 ## Szerző
 
