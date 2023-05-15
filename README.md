@@ -106,7 +106,10 @@ Eredmény: </br>
     ['Szekszárdi járás', 'Gönci járás', 'Szigetvári járás', 'Mezőkovácsházi járás', 'Bátonyterenyei járás',
     'Körmendi járás', 'Váci járás', 'Edelényi járás', 'Pilisvörösvári járás', 'Kaposvári járás', 'Hódmezővásárhelyi járás',
     'Hatvani járás', 'Törökszentmiklósi járás', 'Putnoki járás', 'Mezőkövesdi járás']
+<br>
+![ABC rendezés](https://raw.githubusercontent.com/kobanya/nevek/master/jaras_szotar.png)
 
+<br
 2. A listák tartalmának kiíratása tetszőleges elemmel soronként.</br>
     **lst** = a kiírandó lista neve </br>
     **n** = soronkénti elemek száma.  Alapbeállítás, ha üres, 10 elem
