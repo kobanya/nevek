@@ -1,15 +1,9 @@
-
 import magyar
-import random
 
-gyumolcs =['Áfonya', 'Eper', 'Alma', 'Meggy', 'Édes banán', 'Őszibarack',]
+jarasok = magyar.szotarbol_veletlen_kulcs(magyar.jaras, 15)  # 15 járás kiválasztása véletlenül
 
-sorban =magyar.abc(gyumolcs)
+jaras_tordelve = magyar.ftordel(jarasok, 5)  # A járások kiírása tördelve, soronként 5
 
-print('\nÁbécé sorrendbe rendezett listát ad vissza:')
-print(sorban)
+print(f'\n\nVéletlenül választott járások kiírása, tördelve : \n\n{jaras_tordelve}')
 
-# a tördelt listát azonnal kiírja, nincs szükség PRINT parancsra
-
-
-
+print()
