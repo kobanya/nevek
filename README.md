@@ -36,7 +36,10 @@ Az alábbi listákat találod :
 4. Villamosvonalak, végállomások, menetidő = magyar.villamos
 5. Európa országai és fővárosai=  magyar.orszag
 
-## Description
+## Listában Tuple:
+1. Magyarország összes települése + megye **telepules_megye**
+
+
 1. Last names =  magyar.**vezeteknev**
 2. Female first names = magyar.**keresztnev_n**
 3. Male first names  = magyar.**keresztnev_f**
@@ -68,6 +71,9 @@ Dictionary:
 3. Hungarian districts, their seats, county = magyar.jaras
 4. Hungarian tram lines = magyar.villamos
 5. Hunngarian names of Europian capitals, states = magyar.orszag
+
+Tuple in List:
+1. All settlements in Hungary + county. = magyar.telepules_megye
 
 ## Listák használat:
 

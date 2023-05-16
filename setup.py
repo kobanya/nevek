@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="magyar",
-    version="3.0.9",
+    version="3.1.1",
     author="Nagy Béla",
     author_email="nagy.belabudapest@gmail.com",
     description="Hungarian lists of names,animals,foods, fruits, rivers ..",
