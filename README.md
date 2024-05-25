@@ -181,6 +181,9 @@ Magyarosrági települések GPS koordinátáinak keresése:
 Azonos szélességi, hosszúsági körön lévő Magyar települések listázása: <BR>
 ![GPS Keresés](https://raw.githubusercontent.com/kobanya/nevek/master/GPS_azonos.png)
 <BR>
+**Postai irányítószámok - ZIP**  <BR>
+magyar.irsz <BR>
+Adatstruktúra :   [('1XXX', 'Budapest'), (2000, 'Szentendre')]
 ## Szerző
 
 * Név: Nagy BÉLa és Szabados Levente
