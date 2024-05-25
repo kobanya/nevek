@@ -186,7 +186,7 @@ magyar.irsz <BR>
 Adatstruktúra :   [('1XXX', 'Budapest'), (2000, 'Szentendre')]
 ## Szerző
 
-* Név: Nagy BÉLa és Szabados Levente
+* Név: Nagy BÉLA és Szabados Levente (GPS coordináták)
 * E-mail:nagy.bela.budapest@gmail.com
 
 ## Licenc
