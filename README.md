@@ -38,7 +38,7 @@ Az alábbi listákat találod :
 
 ## Listában Tuple:
 1. Magyarország összes települése + megye **telepules_megye**
-
+2. Magyarország összes települése + megye + geo koordináták **telepules_megye_koordinata**
 
 1. Last names =  magyar.**vezeteknev**
 2. Female first names = magyar.**keresztnev_n**
@@ -74,6 +74,7 @@ Dictionary:
 
 Tuple in List:
 1. All settlements in Hungary + county. = magyar.telepules_megye
+2. All settlements in Hungary + county + geo coordinates = magyar.telepules_megye_koordinata
 
 ## Listák használat:
 
