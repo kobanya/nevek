@@ -181,9 +181,9 @@ Magyarosrági települések GPS koordinátáinak keresése:
 Azonos szélességi, hosszúsági körön lévő Magyar települések listázása: <BR>
 ![GPS Keresés](https://raw.githubusercontent.com/kobanya/nevek/master/GPS_azonos.png)
 <BR>
-**Postai irányítószámok - ZIP**  <BR>
+**Postai irányítószámok - ZIP**  <BR><BR>
 magyar.irsz <BR>
-Adatstruktúra :   [('1XXX', 'Budapest'), (2000, 'Szentendre')] <BR>
+Adatstruktúra :   [('1XXX', 'Budapest'), (2000, 'Szentendre')] <BR><BR>
 magyar.irsz_bp <BR>
 Adatstruktúra:  [(1173, 'Budapest', 'XVII.', '500.', 'utca')]
 ## Szerző
