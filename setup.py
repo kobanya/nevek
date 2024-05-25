@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setup(
     name="magyar",
-    version="3.1.1",
+    version="4.0.1",
     author="Nagy Béla",
     author_email="nagy.belabudapest@gmail.com",
-    description="Hungarian lists of names,animals,foods, fruits, rivers ..",
+    description="Hungarian lists of names,animals,foods, fruits, rivers ,GPS..",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/kobanya/nevek",

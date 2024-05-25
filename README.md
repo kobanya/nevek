@@ -173,10 +173,14 @@ Tizedes számot kerekít egész számra fel vagy le.  </br>
  </br>
 ![Kerekítés](https://raw.githubusercontent.com/kobanya/nevek/master/kerekites.png)
 
+Magyarosrági települések GPS koordinátáinak keresése:
+
+![GPS Keresés](https://raw.githubusercontent.com/kobanya/nevek/master/GPS_keres.png)
+
 
 ## Szerző
 
-* Név: Nagy BÉLa
+* Név: Nagy BÉLa és Szabados Levente
 * E-mail:nagy.bela.budapest@gmail.com
 
 ## Licenc
