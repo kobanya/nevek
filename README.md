@@ -172,11 +172,13 @@ Minta a használathoz:
 Tizedes számot kerekít egész számra fel vagy le.  </br>
  </br>
 ![Kerekítés](https://raw.githubusercontent.com/kobanya/nevek/master/kerekites.png)
-
+**GPS koordináták :** <BR>
+Adatformátum:  [('Aba', 'Fejér', 47.0292178, 18.5216608) <BR> <BR>
 Magyarosrági települések GPS koordinátáinak keresése:
 
 ![GPS Keresés](https://raw.githubusercontent.com/kobanya/nevek/master/GPS_keres.png)
-
+<BR>
+Azonos szélességi, hosszúsági körön lévő Magyar települések listázása:
 
 ## Szerző
 
