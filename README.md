@@ -186,10 +186,11 @@ magyar.irsz <BR><BR>
 Adatstruktúra : irsz = [ {
         "iranyitoszam": 2000,
         "telepules": "Szentendre",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },]  <BR><BR>
+![GPS Keresés](https://raw.githubusercontent.com/kobanya/nevek/master/irsz.png)
 ## Szerző
 
 * Név: Nagy BÉLA és Szabados Levente (GPS coordináták)
