@@ -182,10 +182,15 @@ Azonos szélességi, hosszúsági körön lévő Magyar települések listázás
 ![GPS Keresés](https://raw.githubusercontent.com/kobanya/nevek/master/GPS_azonos.png)
 <BR>
 **Postai irányítószámok - ZIP**  <BR><BR>
-magyar.irsz <BR>
-Adatstruktúra :   [('1XXX', 'Budapest'), (2000, 'Szentendre')] <BR><BR>
-magyar.irsz_bp <BR>
-Adatstruktúra:  [(1173, 'Budapest', 'XVII.', '500.', 'utca')]
+magyar.irsz <BR><BR>
+Adatstruktúra : irsz = [
+    {
+        "iranyitoszam": 2000,
+        "telepules": "Szentendre",
+        "kerulet": NaN,
+        "kozterulet": NaN,
+        "terulet_jellege": NaN
+    },]  <BR><BR>
 ## Szerző
 
 * Név: Nagy BÉLA és Szabados Levente (GPS coordináták)
