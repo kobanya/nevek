@@ -1,23266 +1,23265 @@
 # Magyar nevek listái
-
 irsz = [
     {
         "iranyitoszam": 2000,
         "telepules": "Szentendre",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2009,
         "telepules": "Pilisszentlászló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2011,
         "telepules": "Budakalász",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2013,
         "telepules": "Pomáz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2014,
         "telepules": "Csobánka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2015,
         "telepules": "Szigetmonostor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2016,
         "telepules": "Leányfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2017,
         "telepules": "Pócsmegyer",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2021,
         "telepules": "Tahitótfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2022,
         "telepules": "Tahitótfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2023,
         "telepules": "Dunabogdány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2024,
         "telepules": "Kisoroszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2025,
         "telepules": "Visegrád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2026,
         "telepules": "Visegrád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2027,
         "telepules": "Dömös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2028,
         "telepules": "Pilismarót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2030,
         "telepules": "Érd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2038,
         "telepules": "Sóskút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2039,
         "telepules": "Pusztazámor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2040,
         "telepules": "Budaörs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2045,
         "telepules": "Törökbálint",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2049,
         "telepules": "Diósd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2051,
         "telepules": "Biatorbágy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2053,
         "telepules": "Herceghalom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2060,
         "telepules": "Bicske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2063,
         "telepules": "Óbarok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2064,
         "telepules": "Csabdi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2065,
         "telepules": "Mány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2066,
         "telepules": "Szár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2066,
         "telepules": "Újbarok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2067,
         "telepules": "Szárliget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2071,
         "telepules": "Páty",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2072,
         "telepules": "Zsámbék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2073,
         "telepules": "Tök",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2074,
         "telepules": "Perbál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2080,
         "telepules": "Pilisjászfalu ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2081,
         "telepules": "Piliscsaba ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2083,
         "telepules": "Solymár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2084,
         "telepules": "Pilisszentiván",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2085,
         "telepules": "Pilisvörösvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2086,
         "telepules": "Tinnye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2089,
         "telepules": "Telki",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2090,
         "telepules": "Remeteszőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2091,
         "telepules": "Etyek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2092,
         "telepules": "Budakeszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2093,
         "telepules": "Budajenő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2094,
         "telepules": "Nagykovácsi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2095,
         "telepules": "Pilisszántó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2096,
         "telepules": "Üröm",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2097,
         "telepules": "Pilisborosjenő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2098,
         "telepules": "Pilisszentkereszt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2099,
         "telepules": "Pilisszentkereszt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2100,
         "telepules": "Gödöllő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2111,
         "telepules": "Szada",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2112,
         "telepules": "Veresegyház",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2113,
         "telepules": "Erdőkertes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2114,
         "telepules": "Valkó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2115,
         "telepules": "Vácszentlászló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2116,
         "telepules": "Zsámbok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2117,
         "telepules": "Isaszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2118,
         "telepules": "Dány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2119,
         "telepules": "Pécel",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2120,
         "telepules": "Dunakeszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2131,
         "telepules": "Göd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2132,
         "telepules": "Göd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2133,
         "telepules": "Sződliget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2134,
         "telepules": "Sződ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2135,
         "telepules": "Csörög",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2141,
         "telepules": "Csömör",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2142,
         "telepules": "Nagytarcsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2143,
         "telepules": "Kistarcsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2144,
         "telepules": "Kerepes ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2145,
         "telepules": "Kerepes ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2146,
         "telepules": "Mogyoród",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2151,
         "telepules": "Fót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2161,
         "telepules": "Csomád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2162,
         "telepules": "Őrbottyán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2163,
         "telepules": "Vácrátót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2164,
         "telepules": "Váchartyán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2165,
         "telepules": "Kisnémedi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2166,
         "telepules": "Püspökszilágy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2167,
         "telepules": "Vácduka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2170,
         "telepules": "Aszód",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2173,
         "telepules": "Kartal",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2174,
         "telepules": "Verseg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2175,
         "telepules": "Kálló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2176,
         "telepules": "Erdőkürt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2177,
         "telepules": "Erdőtarcsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2181,
         "telepules": "Iklad",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2182,
         "telepules": "Domony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2183,
         "telepules": "Galgamácsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2184,
         "telepules": "Vácegres",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2185,
         "telepules": "Váckisújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2191,
         "telepules": "Bag",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2192,
         "telepules": "Hévízgyörk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2193,
         "telepules": "Galgahévíz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2194,
         "telepules": "Tura",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2200,
         "telepules": "Monor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2209,
         "telepules": "Péteri",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2211,
         "telepules": "Vasad",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2212,
         "telepules": "Csévharaszt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2213,
         "telepules": "Monorierdő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2214,
         "telepules": "Pánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2215,
         "telepules": "Káva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2216,
         "telepules": "Bénye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2217,
         "telepules": "Gomba",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2220,
         "telepules": "Vecsés",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2225,
         "telepules": "Üllő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2230,
         "telepules": "Gyömrő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2233,
         "telepules": "Ecser",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2234,
         "telepules": "Maglód",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2235,
         "telepules": "Mende",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2241,
         "telepules": "Sülysáp  ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2243,
         "telepules": "Kóka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2244,
         "telepules": "Úri",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2251,
         "telepules": "Tápiószecső",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2252,
         "telepules": "Tóalmás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2253,
         "telepules": "Tápióság",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2254,
         "telepules": "Szentmártonkáta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2255,
         "telepules": "Szentlőrinckáta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2300,
         "telepules": "Ráckeve",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2309,
         "telepules": "Lórév",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2310,
         "telepules": "Szigetszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2314,
         "telepules": "Halásztelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2315,
         "telepules": "Szigethalom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2316,
         "telepules": "Tököl",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2317,
         "telepules": "Szigetcsép",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2318,
         "telepules": "Szigetszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2319,
         "telepules": "Szigetújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2321,
         "telepules": "Szigetbecse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2322,
         "telepules": "Makád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2330,
         "telepules": "Dunaharaszti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2335,
         "telepules": "Taksony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2336,
         "telepules": "Dunavarsány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2337,
         "telepules": "Délegyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2338,
         "telepules": "Áporka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2339,
         "telepules": "Majosháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2340,
         "telepules": "Kiskunlacháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2344,
         "telepules": "Dömsöd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2345,
         "telepules": "Apaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2347,
         "telepules": "Bugyi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2351,
         "telepules": "Alsónémedi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2360,
         "telepules": "Gyál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2363,
         "telepules": "Felsőpakony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2364,
         "telepules": "Ócsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2365,
         "telepules": "Inárcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2366,
         "telepules": "Kakucs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2367,
         "telepules": "Újhartyán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2370,
         "telepules": "Dabas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2371,
         "telepules": "Dabas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2373,
         "telepules": "Dabas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2375,
         "telepules": "Tatárszentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2376,
         "telepules": "Hernád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2377,
         "telepules": "Örkény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2378,
         "telepules": "Pusztavacs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2381,
         "telepules": "Táborfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2400,
         "telepules": "Dunaújváros",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2407,
         "telepules": "Dunaújváros",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2421,
         "telepules": "Nagyvenyim",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2422,
         "telepules": "Mezőfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2423,
         "telepules": "Daruszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2424,
         "telepules": "Előszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2425,
         "telepules": "Nagykarácsony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2426,
         "telepules": "Baracs ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2427,
         "telepules": "Baracs ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2428,
         "telepules": "Kisapostag",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2431,
         "telepules": "Perkáta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2432,
         "telepules": "Szabadegyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2433,
         "telepules": "Sárosd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2434,
         "telepules": "Hantos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2435,
         "telepules": "Nagylók",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2440,
         "telepules": "Százhalombatta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2451,
         "telepules": "Ercsi ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2453,
         "telepules": "Ercsi ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2454,
         "telepules": "Iváncsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2455,
         "telepules": "Beloiannisz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2456,
         "telepules": "Besnyő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2457,
         "telepules": "Adony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2458,
         "telepules": "Kulcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2459,
         "telepules": "Rácalmás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2461,
         "telepules": "Tárnok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2462,
         "telepules": "Martonvásár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2463,
         "telepules": "Tordas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2464,
         "telepules": "Gyúró",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2465,
         "telepules": "Ráckeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2471,
         "telepules": "Baracska",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2472,
         "telepules": "Kajászó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2473,
         "telepules": "Vál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2475,
         "telepules": "Kápolnásnyék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2476,
         "telepules": "Pázmánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2477,
         "telepules": "Vereb",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2481,
         "telepules": "Velence ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2483,
         "telepules": "Gárdony ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2484,
         "telepules": "Gárdony ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2485,
         "telepules": "Gárdony ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2490,
         "telepules": "Pusztaszabolcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2500,
         "telepules": "Esztergom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2508,
         "telepules": "Esztergom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2509,
         "telepules": "Esztergom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2510,
         "telepules": "Dorog",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2517,
         "telepules": "Kesztölc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2518,
         "telepules": "Leányvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2519,
         "telepules": "Piliscsév",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2521,
         "telepules": "Csolnok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2522,
         "telepules": "Dág",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2523,
         "telepules": "Sárisáp",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2524,
         "telepules": "Nagysáp",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2525,
         "telepules": "Bajna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2526,
         "telepules": "Epöl",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2527,
         "telepules": "Máriahalom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2528,
         "telepules": "Úny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2529,
         "telepules": "Annavölgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2531,
         "telepules": "Tokod ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2532,
         "telepules": "Tokodaltáró",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2533,
         "telepules": "Bajót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2534,
         "telepules": "Tát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2535,
         "telepules": "Mogyorósbánya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2536,
         "telepules": "Nyergesújfalu ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2541,
         "telepules": "Lábatlan ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2543,
         "telepules": "Süttő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2544,
         "telepules": "Neszmély",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2545,
         "telepules": "Dunaalmás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2600,
         "telepules": "Vác",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2610,
         "telepules": "Nőtincs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2610,
         "telepules": "Ősagárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2611,
         "telepules": "Felsőpetény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2612,
         "telepules": "Kosd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2613,
         "telepules": "Rád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2614,
         "telepules": "Penc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2615,
         "telepules": "Csővár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2616,
         "telepules": "Keszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2617,
         "telepules": "Alsópetény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2618,
         "telepules": "Nézsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2619,
         "telepules": "Legénd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2621,
         "telepules": "Verőce",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2623,
         "telepules": "Kismaros",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2624,
         "telepules": "Szokolya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2625,
         "telepules": "Kóspallag",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2626,
         "telepules": "Nagymaros",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2627,
         "telepules": "Zebegény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2628,
         "telepules": "Szob",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2629,
         "telepules": "Márianosztra",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2631,
         "telepules": "Ipolydamásd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2632,
         "telepules": "Letkés",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2633,
         "telepules": "Ipolytölgyes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2634,
         "telepules": "Nagybörzsöny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2635,
         "telepules": "Vámosmikola",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2636,
         "telepules": "Tésa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2637,
         "telepules": "Perőcsény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2638,
         "telepules": "Kemence",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2639,
         "telepules": "Bernecebaráti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2640,
         "telepules": "Szendehely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2641,
         "telepules": "Berkenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2642,
         "telepules": "Nógrád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2643,
         "telepules": "Diósjenő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2644,
         "telepules": "Borsosberény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2645,
         "telepules": "Nagyoroszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2646,
         "telepules": "Drégelypalánk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2647,
         "telepules": "Hont",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2648,
         "telepules": "Patak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2649,
         "telepules": "Dejtár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2651,
         "telepules": "Rétság",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2652,
         "telepules": "Tereske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2653,
         "telepules": "Bánk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2654,
         "telepules": "Romhány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2655,
         "telepules": "Kétbodony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2655,
         "telepules": "Kisecset",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2655,
         "telepules": "Szente",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2656,
         "telepules": "Szátok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2657,
         "telepules": "Tolmács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2658,
         "telepules": "Horpács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2658,
         "telepules": "Pusztaberki",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2659,
         "telepules": "Érsekvadkert",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2660,
         "telepules": "Balassagyarmat",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2660,
         "telepules": "Ipolyszög",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2668,
         "telepules": "Patvarc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2669,
         "telepules": "Ipolyvece",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2671,
         "telepules": "Őrhalom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2672,
         "telepules": "Hugyag",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2673,
         "telepules": "Csitár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2674,
         "telepules": "Iliny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2675,
         "telepules": "Nógrádmarcal",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2676,
         "telepules": "Cserhátsurány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2677,
         "telepules": "Herencsény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2678,
         "telepules": "Csesztve",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2681,
         "telepules": "Galgagyörk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2682,
         "telepules": "Püspökhatvan",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2683,
         "telepules": "Acsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2685,
         "telepules": "Nógrádsáp",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2686,
         "telepules": "Galgaguta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2687,
         "telepules": "Bercel",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2688,
         "telepules": "Vanyarc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2691,
         "telepules": "Nógrádkövesd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2692,
         "telepules": "Szécsénke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2693,
         "telepules": "Becske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2694,
         "telepules": "Magyarnándor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2694,
         "telepules": "Cserháthaláp",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2694,
         "telepules": "Debercsény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2696,
         "telepules": "Terény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2697,
         "telepules": "Szanda",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2698,
         "telepules": "Mohora",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2699,
         "telepules": "Szügy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2700,
         "telepules": "Cegléd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2711,
         "telepules": "Tápiószentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2712,
         "telepules": "Nyársapát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2713,
         "telepules": "Csemő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2721,
         "telepules": "Pilis",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2723,
         "telepules": "Nyáregyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2724,
         "telepules": "Újlengyel",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2730,
         "telepules": "Albertirsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2735,
         "telepules": "Dánszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2736,
         "telepules": "Mikebuda",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2737,
         "telepules": "Ceglédbercel",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2738,
         "telepules": "Cegléd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2740,
         "telepules": "Abony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2745,
         "telepules": "Kőröstetétlen",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2746,
         "telepules": "Jászkarajenő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2747,
         "telepules": "Törtel",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2750,
         "telepules": "Nagykőrös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2755,
         "telepules": "Kocsér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2760,
         "telepules": "Nagykáta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2764,
         "telepules": "Tápióbicske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2765,
         "telepules": "Farmos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2766,
         "telepules": "Tápiószele",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2767,
         "telepules": "Tápiógyörgye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2768,
         "telepules": "Újszilvás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2769,
         "telepules": "Tápiószőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2800,
         "telepules": "Tatabánya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2821,
         "telepules": "Gyermely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2822,
         "telepules": "Szomor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2823,
         "telepules": "Vértessomló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2824,
         "telepules": "Várgesztes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2831,
         "telepules": "Tarján",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2832,
         "telepules": "Héreg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2833,
         "telepules": "Vértestolna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2834,
         "telepules": "Tardos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2835,
         "telepules": "Tata",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2836,
         "telepules": "Baj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2837,
         "telepules": "Vértesszőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2840,
         "telepules": "Oroszlány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2851,
         "telepules": "Környe",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2852,
         "telepules": "Kecskéd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2853,
         "telepules": "Kömlőd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2854,
         "telepules": "Dad",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2855,
         "telepules": "Bokod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2856,
         "telepules": "Szákszend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2858,
         "telepules": "Császár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2859,
         "telepules": "Vérteskethely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2861,
         "telepules": "Bakonysárkány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2862,
         "telepules": "Aka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2870,
         "telepules": "Kisbér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2879,
         "telepules": "Kisbér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2881,
         "telepules": "Ászár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2882,
         "telepules": "Kerékteleki",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2883,
         "telepules": "Bársonyos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2884,
         "telepules": "Bakonyszombathely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2885,
         "telepules": "Bakonybánk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2886,
         "telepules": "Réde",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2887,
         "telepules": "Ácsteszér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2888,
         "telepules": "Csatka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2889,
         "telepules": "Súr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2890,
         "telepules": "Tata",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2896,
         "telepules": "Szomód",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2897,
         "telepules": "Dunaszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2898,
         "telepules": "Kocs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2899,
         "telepules": "Naszály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2900,
         "telepules": "Komárom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2903,
         "telepules": "Komárom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2911,
         "telepules": "Mocsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2921,
         "telepules": "Komárom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2931,
         "telepules": "Almásfüzitő ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2941,
         "telepules": "Ács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2942,
         "telepules": "Nagyigmánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2943,
         "telepules": "Bábolna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2943,
         "telepules": "Tárkány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2944,
         "telepules": "Bana",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2945,
         "telepules": "Tárkány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2946,
         "telepules": "Csép",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2947,
         "telepules": "Ete",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2948,
         "telepules": "Kisigmánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 2949,
         "telepules": "Csém",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3000,
         "telepules": "Hatvan",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3009,
         "telepules": "Kerekharaszt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3011,
         "telepules": "Heréd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3012,
         "telepules": "Nagykökényes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3013,
         "telepules": "Ecséd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3014,
         "telepules": "Hort",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3015,
         "telepules": "Csány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3016,
         "telepules": "Boldog",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3021,
         "telepules": "Lőrinci ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3022,
         "telepules": "Lőrinci ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3023,
         "telepules": "Petőfibánya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3024,
         "telepules": "Lőrinci ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3031,
         "telepules": "Zagyvaszántó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3032,
         "telepules": "Apc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3033,
         "telepules": "Rózsaszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3034,
         "telepules": "Szűcsi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3035,
         "telepules": "Gyöngyöspata",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3036,
         "telepules": "Gyöngyöstarján",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3041,
         "telepules": "Héhalom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3042,
         "telepules": "Palotás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3043,
         "telepules": "Egyházasdengeleg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3044,
         "telepules": "Szirák",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3045,
         "telepules": "Bér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3046,
         "telepules": "Kisbágyon",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3047,
         "telepules": "Buják",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3051,
         "telepules": "Szarvasgede",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3052,
         "telepules": "Csécse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3053,
         "telepules": "Ecseg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3053,
         "telepules": "Kozárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3060,
         "telepules": "Pásztó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3063,
         "telepules": "Jobbágyi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3064,
         "telepules": "Szurdokpüspöki",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3065,
         "telepules": "Pásztó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3066,
         "telepules": "Cserhátszentiván",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3066,
         "telepules": "Bokor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3066,
         "telepules": "Kutasó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3067,
         "telepules": "Felsőtold",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3067,
         "telepules": "Garáb",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3068,
         "telepules": "Mátraszőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3069,
         "telepules": "Alsótold",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3070,
         "telepules": "Bátonyterenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3073,
         "telepules": "Tar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3074,
         "telepules": "Sámsonháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3075,
         "telepules": "Nagybárkány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3075,
         "telepules": "Kisbárkány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3075,
         "telepules": "Márkháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3077,
         "telepules": "Mátraverebély",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3078,
         "telepules": "Bátonyterenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3082,
         "telepules": "Pásztó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3100,
         "telepules": "Salgótarján",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3102,
         "telepules": "Salgótarján",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3104,
         "telepules": "Salgótarján",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3109,
         "telepules": "Salgótarján",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3121,
         "telepules": "Somoskőújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3123,
         "telepules": "Cered",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3124,
         "telepules": "Zabar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3125,
         "telepules": "Szilaspogony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3126,
         "telepules": "Bárna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3127,
         "telepules": "Kazár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3128,
         "telepules": "Vizslás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3129,
         "telepules": "Lucfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3129,
         "telepules": "Nagykeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3131,
         "telepules": "Sóshartyán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3132,
         "telepules": "Nógrádmegyer",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3133,
         "telepules": "Magyargéc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3134,
         "telepules": "Piliny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3135,
         "telepules": "Szécsényfelfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3136,
         "telepules": "Etes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3137,
         "telepules": "Karancsberény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3138,
         "telepules": "Ipolytarnóc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3141,
         "telepules": "Salgótarján",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3142,
         "telepules": "Mátraszele",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3143,
         "telepules": "Mátranovák",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3144,
         "telepules": "Mátranovák",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3145,
         "telepules": "Mátraterenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3146,
         "telepules": "Mátraterenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3147,
         "telepules": "Kazár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3151,
         "telepules": "Rákóczibánya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3152,
         "telepules": "Nemti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3153,
         "telepules": "Dorogháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3154,
         "telepules": "Szuha",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3155,
         "telepules": "Mátramindszent",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3161,
         "telepules": "Kishartyán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3162,
         "telepules": "Ságújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3163,
         "telepules": "Karancsság",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3163,
         "telepules": "Szalmatercs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3165,
         "telepules": "Endrefalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3170,
         "telepules": "Szécsény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3175,
         "telepules": "Nagylóc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3176,
         "telepules": "Hollókő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3177,
         "telepules": "Rimóc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3178,
         "telepules": "Varsány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3179,
         "telepules": "Nógrádsipek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3181,
         "telepules": "Karancsalja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3182,
         "telepules": "Karancslapujtő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3183,
         "telepules": "Karancskeszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3184,
         "telepules": "Mihálygerge",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3185,
         "telepules": "Egyházasgerge",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3186,
         "telepules": "Litke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3187,
         "telepules": "Nógrádszakál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3188,
         "telepules": "Ludányhalászi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3200,
         "telepules": "Gyöngyös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3211,
         "telepules": "Gyöngyösoroszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3212,
         "telepules": "Gyöngyöshalász",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3213,
         "telepules": "Atkár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3214,
         "telepules": "Nagyréde",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3221,
         "telepules": "Gyöngyös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3231,
         "telepules": "Gyöngyössolymos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3232,
         "telepules": "Gyöngyös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3233,
         "telepules": "Gyöngyös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3234,
         "telepules": "Mátraszentimre",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3235,
         "telepules": "Mátraszentimre",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3240,
         "telepules": "Parád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3242,
         "telepules": "Parádsasvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3243,
         "telepules": "Bodony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3245,
         "telepules": "Recsk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3246,
         "telepules": "Mátraderecske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3247,
         "telepules": "Mátraballa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3248,
         "telepules": "Ivád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3250,
         "telepules": "Pétervására",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3252,
         "telepules": "Erdőkövesd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3253,
         "telepules": "Istenmezeje",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3254,
         "telepules": "Váraszó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3255,
         "telepules": "Fedémes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3256,
         "telepules": "Kisfüzes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3257,
         "telepules": "Bükkszenterzsébet",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3258,
         "telepules": "Tarnalelesz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3259,
         "telepules": "Szentdomonkos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3261,
         "telepules": "Abasár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3261,
         "telepules": "Pálosvörösmart",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3262,
         "telepules": "Markaz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3263,
         "telepules": "Domoszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3264,
         "telepules": "Kisnána",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3265,
         "telepules": "Vécs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3271,
         "telepules": "Visonta ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3272,
         "telepules": "Visonta ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3273,
         "telepules": "Halmajugra",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3274,
         "telepules": "Ludas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3275,
         "telepules": "Detk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3281,
         "telepules": "Karácsond",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3282,
         "telepules": "Nagyfüged",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3283,
         "telepules": "Tarnazsadány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3284,
         "telepules": "Tarnaméra",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3291,
         "telepules": "Vámosgyörk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3292,
         "telepules": "Adács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3293,
         "telepules": "Visznek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3294,
         "telepules": "Tarnaörs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3295,
         "telepules": "Erk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3296,
         "telepules": "Zaránk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3300,
         "telepules": "Eger",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3321,
         "telepules": "Egerbakta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3322,
         "telepules": "Hevesaranyos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3323,
         "telepules": "Szarvaskő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3324,
         "telepules": "Felsőtárkány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3325,
         "telepules": "Noszvaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3326,
         "telepules": "Ostoros",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3327,
         "telepules": "Novaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3328,
         "telepules": "Egerszólát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3331,
         "telepules": "Tarnaszentmária",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3332,
         "telepules": "Sirok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3333,
         "telepules": "Terpes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3334,
         "telepules": "Szajla",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3335,
         "telepules": "Bükkszék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3336,
         "telepules": "Bátor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3337,
         "telepules": "Egerbocs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3341,
         "telepules": "Egercsehi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3341,
         "telepules": "Szúcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3343,
         "telepules": "Bekölce",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3344,
         "telepules": "Mikófalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3345,
         "telepules": "Mónosbél",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3346,
         "telepules": "Bélapátfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3346,
         "telepules": "Bükkszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3347,
         "telepules": "Balaton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3348,
         "telepules": "Szilvásvárad",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3349,
         "telepules": "Nagyvisnyó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3350,
         "telepules": "Kál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3351,
         "telepules": "Verpelét",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3352,
         "telepules": "Feldebrő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3353,
         "telepules": "Aldebrő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3354,
         "telepules": "Tófalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3355,
         "telepules": "Kápolna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3356,
         "telepules": "Kompolt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3357,
         "telepules": "Nagyút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3358,
         "telepules": "Erdőtelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3359,
         "telepules": "Tenk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3360,
         "telepules": "Heves",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3368,
         "telepules": "Boconád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3369,
         "telepules": "Tarnabod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3371,
         "telepules": "Átány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3372,
         "telepules": "Kömlő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3373,
         "telepules": "Besenyőtelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3374,
         "telepules": "Dormánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3375,
         "telepules": "Mezőtárkány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3377,
         "telepules": "Szihalom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3378,
         "telepules": "Mezőszemere",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3379,
         "telepules": "Egerfarmos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3381,
         "telepules": "Pély",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3382,
         "telepules": "Tarnaszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3383,
         "telepules": "Hevesvezekény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3384,
         "telepules": "Kisköre",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3385,
         "telepules": "Tiszanána",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3386,
         "telepules": "Sarud",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3387,
         "telepules": "Újlőrincfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3388,
         "telepules": "Poroszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3390,
         "telepules": "Füzesabony ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3394,
         "telepules": "Egerszalók",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3395,
         "telepules": "Demjén",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3396,
         "telepules": "Kerecsend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3397,
         "telepules": "Maklár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3398,
         "telepules": "Nagytálya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3399,
         "telepules": "Andornaktálya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3400,
         "telepules": "Mezőkövesd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3411,
         "telepules": "Szomolya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3412,
         "telepules": "Bogács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3413,
         "telepules": "Cserépfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3414,
         "telepules": "Bükkzsérc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3416,
         "telepules": "Tard",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3417,
         "telepules": "Cserépváralja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3418,
         "telepules": "Szentistván",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3421,
         "telepules": "Mezőnyárád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3422,
         "telepules": "Bükkábrány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3423,
         "telepules": "Tibolddaróc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3424,
         "telepules": "Kács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3425,
         "telepules": "Sály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3426,
         "telepules": "Borsodgeszt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3431,
         "telepules": "Vatta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3432,
         "telepules": "Emőd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3433,
         "telepules": "Nyékládháza ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3434,
         "telepules": "Mályi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3441,
         "telepules": "Mezőkeresztes ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3442,
         "telepules": "Csincse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3443,
         "telepules": "Mezőnagymihály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3444,
         "telepules": "Gelej",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3450,
         "telepules": "Mezőcsát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3458,
         "telepules": "Tiszakeszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3459,
         "telepules": "Igrici",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3461,
         "telepules": "Egerlövő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3462,
         "telepules": "Borsodivánka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3463,
         "telepules": "Négyes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3464,
         "telepules": "Tiszavalk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3465,
         "telepules": "Tiszabábolna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3466,
         "telepules": "Tiszadorogma",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3467,
         "telepules": "Ároktő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3500,
         "telepules": "Miskolc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3551,
         "telepules": "Ónod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3552,
         "telepules": "Muhi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3553,
         "telepules": "Kistokaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3554,
         "telepules": "Bükkaranyos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3555,
         "telepules": "Harsány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3556,
         "telepules": "Kisgyőr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3557,
         "telepules": "Bükkszentkereszt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3559,
         "telepules": "Répáshuta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3561,
         "telepules": "Felsőzsolca",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3562,
         "telepules": "Onga",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3563,
         "telepules": "Hernádkak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3564,
         "telepules": "Hernádnémeti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3565,
         "telepules": "Tiszalúc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3571,
         "telepules": "Alsózsolca",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3572,
         "telepules": "Sajólád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3573,
         "telepules": "Sajópetri",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3574,
         "telepules": "Bőcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3575,
         "telepules": "Berzék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3576,
         "telepules": "Sajóhídvég",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3577,
         "telepules": "Köröm",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3578,
         "telepules": "Girincs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3578,
         "telepules": "Kiscsécs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3579,
         "telepules": "Kesznyéten",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3580,
         "telepules": "Tiszaújváros",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3586,
         "telepules": "Sajóörös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3587,
         "telepules": "Tiszapalkonya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3588,
         "telepules": "Hejőkürt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3589,
         "telepules": "Tiszatarján",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3591,
         "telepules": "Oszlár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3592,
         "telepules": "Nemesbikk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3593,
         "telepules": "Hejőbába",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3594,
         "telepules": "Hejőpapi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3595,
         "telepules": "Hejőszalonta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3596,
         "telepules": "Szakáld",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3597,
         "telepules": "Hejőkeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3598,
         "telepules": "Nagycsécs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3599,
         "telepules": "Sajószöged",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3600,
         "telepules": "Ózd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3604,
         "telepules": "Ózd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3608,
         "telepules": "Farkaslyuk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3621,
         "telepules": "Ózd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3622,
         "telepules": "Uppony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3623,
         "telepules": "Borsodszentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3625,
         "telepules": "Ózd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3626,
         "telepules": "Hangony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3627,
         "telepules": "Domaháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3627,
         "telepules": "Kissikátor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3630,
         "telepules": "Putnok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3635,
         "telepules": "Dubicsány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3636,
         "telepules": "Vadna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3636,
         "telepules": "Sajógalgóc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3641,
         "telepules": "Nagybarca",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3642,
         "telepules": "Bánhorváti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3643,
         "telepules": "Dédestapolcsány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3644,
         "telepules": "Tardona",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3645,
         "telepules": "Mályinka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3646,
         "telepules": "Nekézseny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3647,
         "telepules": "Csokvaomány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3648,
         "telepules": "Csernely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3648,
         "telepules": "Bükkmogyorósd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3648,
         "telepules": "Lénárddaróc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3651,
         "telepules": "Ózd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3652,
         "telepules": "Sajónémeti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3653,
         "telepules": "Sajópüspöki",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3654,
         "telepules": "Bánréve",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3655,
         "telepules": "Hét",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3656,
         "telepules": "Sajóvelezd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3656,
         "telepules": "Sajómercse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3657,
         "telepules": "Királd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3658,
         "telepules": "Borsodbóta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3659,
         "telepules": "Sáta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3661,
         "telepules": "Ózd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3662,
         "telepules": "Ózd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3663,
         "telepules": "Arló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3664,
         "telepules": "Járdánháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3671,
         "telepules": "Borsodnádasd ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3672,
         "telepules": "Borsodnádasd ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3700,
         "telepules": "Kazincbarcika",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3704,
         "telepules": "Berente",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3711,
         "telepules": "Szirmabesenyő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3712,
         "telepules": "Sajóvámos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3712,
         "telepules": "Sajósenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3713,
         "telepules": "Arnót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3714,
         "telepules": "Sajópálfala",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3715,
         "telepules": "Gesztely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3716,
         "telepules": "Újcsanálos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3716,
         "telepules": "Sóstófalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3717,
         "telepules": "Alsódobsza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3718,
         "telepules": "Megyaszó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3720,
         "telepules": "Sajókaza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3720,
         "telepules": "Sajóivánka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3721,
         "telepules": "Felsőnyárád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3721,
         "telepules": "Dövény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3721,
         "telepules": "Jákfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3722,
         "telepules": "Felsőkelecsény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3723,
         "telepules": "Zubogy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3724,
         "telepules": "Ragály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3724,
         "telepules": "Trizs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3725,
         "telepules": "Imola",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3726,
         "telepules": "Zádorfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3726,
         "telepules": "Alsószuha",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3726,
         "telepules": "Szuhafő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3728,
         "telepules": "Kelemér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3728,
         "telepules": "Gömörszőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3729,
         "telepules": "Serényfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3731,
         "telepules": "Szuhakálló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3732,
         "telepules": "Kurityán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3733,
         "telepules": "Rudabánya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3734,
         "telepules": "Szuhogy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3735,
         "telepules": "Felsőtelekes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3735,
         "telepules": "Alsótelekes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3735,
         "telepules": "Kánó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3741,
         "telepules": "Izsófalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3742,
         "telepules": "Rudolftelep",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3743,
         "telepules": "Ormosbánya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3744,
         "telepules": "Múcsony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3751,
         "telepules": "Szendrőlád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3752,
         "telepules": "Szendrő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3752,
         "telepules": "Galvács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3753,
         "telepules": "Abod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3754,
         "telepules": "Szalonna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3754,
         "telepules": "Meszes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3755,
         "telepules": "Martonyi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3756,
         "telepules": "Perkupa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3756,
         "telepules": "Varbóc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3757,
         "telepules": "Szőlősardó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3757,
         "telepules": "Égerszög",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3757,
         "telepules": "Teresztenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3758,
         "telepules": "Jósvafő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3759,
         "telepules": "Aggtelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3761,
         "telepules": "Szin",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3761,
         "telepules": "Szinpetri",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3761,
         "telepules": "Tornakápolna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3762,
         "telepules": "Szögliget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3763,
         "telepules": "Bódvaszilas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3764,
         "telepules": "Bódvarákó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3765,
         "telepules": "Komjáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3765,
         "telepules": "Tornabarakony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3765,
         "telepules": "Tornaszentandrás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3767,
         "telepules": "Tornanádaska",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3768,
         "telepules": "Hidvégardó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3768,
         "telepules": "Becskeháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3768,
         "telepules": "Bódvalenke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3769,
         "telepules": "Tornaszentjakab",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3770,
         "telepules": "Sajószentpéter",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3773,
         "telepules": "Sajókápolna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3773,
         "telepules": "Sajólászlófalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3775,
         "telepules": "Kondó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3776,
         "telepules": "Radostyán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3777,
         "telepules": "Parasznya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3778,
         "telepules": "Varbó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3779,
         "telepules": "Alacska",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3780,
         "telepules": "Edelény ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3780,
         "telepules": "Balajt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3780,
         "telepules": "Damak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3780,
         "telepules": "Ládbesenyő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3783,
         "telepules": "Edelény ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3786,
         "telepules": "Lak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3786,
         "telepules": "Hegymeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3786,
         "telepules": "Irota",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3786,
         "telepules": "Szakácsi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3787,
         "telepules": "Tomor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3791,
         "telepules": "Sajókeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3792,
         "telepules": "Sajóbábony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3793,
         "telepules": "Sajóecseg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3794,
         "telepules": "Boldva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3794,
         "telepules": "Ziliz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3795,
         "telepules": "Hangács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3795,
         "telepules": "Nyomár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3796,
         "telepules": "Borsodszirák",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3800,
         "telepules": "Szikszó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3809,
         "telepules": "Selyeb",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3809,
         "telepules": "Abaújszolnok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3809,
         "telepules": "Nyésta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3811,
         "telepules": "Alsóvadász",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3812,
         "telepules": "Homrogd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3812,
         "telepules": "Monaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3813,
         "telepules": "Kupa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3814,
         "telepules": "Felsővadász",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3815,
         "telepules": "Gadna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3815,
         "telepules": "Abaújlak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3816,
         "telepules": "Gagyvendégi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3817,
         "telepules": "Gagybátor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3821,
         "telepules": "Krasznokvajda",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3821,
         "telepules": "Büttös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3821,
         "telepules": "Kány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3821,
         "telepules": "Keresztéte",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3821,
         "telepules": "Pamlény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3821,
         "telepules": "Perecse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3821,
         "telepules": "Szászfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3825,
         "telepules": "Rakaca",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3825,
         "telepules": "Debréte",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3825,
         "telepules": "Viszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3826,
         "telepules": "Rakacaszend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3831,
         "telepules": "Kázsmárk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3832,
         "telepules": "Léh",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3833,
         "telepules": "Rásonysápberencs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3834,
         "telepules": "Detek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3834,
         "telepules": "Beret",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3836,
         "telepules": "Baktakék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3837,
         "telepules": "Felsőgagy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3837,
         "telepules": "Alsógagy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3837,
         "telepules": "Csenyéte",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3837,
         "telepules": "Gagyapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3841,
         "telepules": "Aszaló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3842,
         "telepules": "Halmaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3843,
         "telepules": "Kiskinizs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3844,
         "telepules": "Nagykinizs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3844,
         "telepules": "Szentistvánbaksa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3846,
         "telepules": "Hernádkércs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3847,
         "telepules": "Felsődobsza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3848,
         "telepules": "Csobád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3849,
         "telepules": "Forró",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3851,
         "telepules": "Ináncs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3852,
         "telepules": "Hernádszentandrás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3853,
         "telepules": "Pere",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3853,
         "telepules": "Hernádbűd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3854,
         "telepules": "Gibárt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3855,
         "telepules": "Fancsal",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3860,
         "telepules": "Encs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3863,
         "telepules": "Szalaszend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3864,
         "telepules": "Fulókércs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3865,
         "telepules": "Fáj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3866,
         "telepules": "Szemere",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3866,
         "telepules": "Litka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3871,
         "telepules": "Méra",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3872,
         "telepules": "Novajidrány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3873,
         "telepules": "Garadna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3874,
         "telepules": "Hernádvécse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3874,
         "telepules": "Hernádpetri",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3874,
         "telepules": "Pusztaradvány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3875,
         "telepules": "Hernádszurdok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3876,
         "telepules": "Hidasnémeti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3877,
         "telepules": "Tornyosnémeti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3881,
         "telepules": "Abaújszántó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3881,
         "telepules": "Baskó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3881,
         "telepules": "Sima",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3882,
         "telepules": "Abaújkér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3882,
         "telepules": "Abaújalpár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3884,
         "telepules": "Boldogkőújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3885,
         "telepules": "Boldogkőváralja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3885,
         "telepules": "Arka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3886,
         "telepules": "Korlát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3887,
         "telepules": "Hernádcéce",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3888,
         "telepules": "Vizsoly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3891,
         "telepules": "Vilmány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3892,
         "telepules": "Hejce",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3893,
         "telepules": "Fony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3893,
         "telepules": "Mogyoróska",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3893,
         "telepules": "Regéc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3894,
         "telepules": "Göncruszka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3895,
         "telepules": "Gönc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3896,
         "telepules": "Telkibánya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3897,
         "telepules": "Zsujta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3898,
         "telepules": "Abaújvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3898,
         "telepules": "Pányok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3899,
         "telepules": "Kéked",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3900,
         "telepules": "Szerencs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3902,
         "telepules": "Szerencs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3903,
         "telepules": "Bekecs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3904,
         "telepules": "Legyesbénye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3905,
         "telepules": "Monok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3906,
         "telepules": "Golop",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3907,
         "telepules": "Tállya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3908,
         "telepules": "Rátka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3909,
         "telepules": "Mád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3910,
         "telepules": "Tokaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3915,
         "telepules": "Tarcal",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3916,
         "telepules": "Bodrogkeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3917,
         "telepules": "Bodrogkisfalud",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3918,
         "telepules": "Szegi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3918,
         "telepules": "Szegilong",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3921,
         "telepules": "Taktaszada",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3922,
         "telepules": "Taktaharkány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3923,
         "telepules": "Gesztely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3924,
         "telepules": "Taktakenéz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3925,
         "telepules": "Prügy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3926,
         "telepules": "Taktabáj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3927,
         "telepules": "Csobaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3928,
         "telepules": "Tiszatardos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3929,
         "telepules": "Tiszaladány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3931,
         "telepules": "Mezőzombor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3932,
         "telepules": "Erdőbénye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3933,
         "telepules": "Olaszliszka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3934,
         "telepules": "Tolcsva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3935,
         "telepules": "Erdőhorváti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3936,
         "telepules": "Háromhuta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3937,
         "telepules": "Komlóska",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3941,
         "telepules": "Vámosújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3942,
         "telepules": "Sárazsadány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3943,
         "telepules": "Bodrogolaszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3944,
         "telepules": "Sátoraljaújhely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3945,
         "telepules": "Sátoraljaújhely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3950,
         "telepules": "Sárospatak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3954,
         "telepules": "Györgytarló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3955,
         "telepules": "Kenézlő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3956,
         "telepules": "Viss",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3957,
         "telepules": "Zalkod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3958,
         "telepules": "Hercegkút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3959,
         "telepules": "Makkoshotyka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3961,
         "telepules": "Vajdácska",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3962,
         "telepules": "Karos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3963,
         "telepules": "Karcsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3964,
         "telepules": "Pácin",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3965,
         "telepules": "Nagyrozvágy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3965,
         "telepules": "Kisrozvágy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3967,
         "telepules": "Lácacséke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3971,
         "telepules": "Tiszakarád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3972,
         "telepules": "Tiszacsermely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3973,
         "telepules": "Cigánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3974,
         "telepules": "Ricse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3974,
         "telepules": "Semjén",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3976,
         "telepules": "Révleányvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3977,
         "telepules": "Zemplénagárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3978,
         "telepules": "Dámóc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3980,
         "telepules": "Sátoraljaújhely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3985,
         "telepules": "Alsóberecki",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3985,
         "telepules": "Felsőberecki",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3987,
         "telepules": "Bodroghalom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3988,
         "telepules": "Sátoraljaújhely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3989,
         "telepules": "Mikóháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3989,
         "telepules": "Alsóregmec",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3989,
         "telepules": "Felsőregmec",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3991,
         "telepules": "Vilyvitány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3992,
         "telepules": "Kovácsvágás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3992,
         "telepules": "Vágáshuta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3993,
         "telepules": "Füzérradvány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3994,
         "telepules": "Pálháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3994,
         "telepules": "Bózsva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3994,
         "telepules": "Filkeháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3994,
         "telepules": "Füzérkajata",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3994,
         "telepules": "Kishuta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3994,
         "telepules": "Nagyhuta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3995,
         "telepules": "Pusztafalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3996,
         "telepules": "Füzér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3997,
         "telepules": "Füzérkomlós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3998,
         "telepules": "Nyíri",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 3999,
         "telepules": "Hollóháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4000,
         "telepules": "Debrecen",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4060,
         "telepules": "Balmazújváros",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4064,
         "telepules": "Nagyhegyes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4065,
         "telepules": "Újszentmargita",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4066,
         "telepules": "Tiszacsege",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4067,
         "telepules": "Egyek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4069,
         "telepules": "Egyek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4071,
         "telepules": "Hortobágy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4074,
         "telepules": "Hajdúböszörmény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4075,
         "telepules": "Görbeháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4080,
         "telepules": "Hajdúnánás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4085,
         "telepules": "Hajdúnánás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4086,
         "telepules": "Hajdúböszörmény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4087,
         "telepules": "Hajdúdorog",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4090,
         "telepules": "Polgár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4095,
         "telepules": "Folyás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4096,
         "telepules": "Újtikos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4097,
         "telepules": "Tiszagyulaháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4100,
         "telepules": "Berettyóújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4110,
         "telepules": "Biharkeresztes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4114,
         "telepules": "Bojt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4115,
         "telepules": "Ártánd ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4116,
         "telepules": "Berekböszörmény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4117,
         "telepules": "Told ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4118,
         "telepules": "Mezőpeterd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4119,
         "telepules": "Váncsod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4121,
         "telepules": "Szentpéterszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4122,
         "telepules": "Gáborján",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4123,
         "telepules": "Hencida",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4124,
         "telepules": "Esztár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4125,
         "telepules": "Pocsaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4126,
         "telepules": "Kismarja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4127,
         "telepules": "Nagykereki",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4128,
         "telepules": "Bedő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4130,
         "telepules": "Derecske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4132,
         "telepules": "Tépe",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4133,
         "telepules": "Konyár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4134,
         "telepules": "Mezősas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4135,
         "telepules": "Körösszegapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4136,
         "telepules": "Körösszakál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4137,
         "telepules": "Magyarhomorog",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4138,
         "telepules": "Komádi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4141,
         "telepules": "Furta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4142,
         "telepules": "Zsáka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4143,
         "telepules": "Vekerd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4144,
         "telepules": "Darvas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4145,
         "telepules": "Csökmő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4146,
         "telepules": "Újiráz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4150,
         "telepules": "Püspökladány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4161,
         "telepules": "Báránd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4162,
         "telepules": "Szerep",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4163,
         "telepules": "Szerep",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4164,
         "telepules": "Bakonszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4171,
         "telepules": "Sárrétudvari",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4172,
         "telepules": "Biharnagybajom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4173,
         "telepules": "Nagyrábé",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4174,
         "telepules": "Bihartorda",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4175,
         "telepules": "Bihardancsháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4176,
         "telepules": "Sáp",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4177,
         "telepules": "Földes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4181,
         "telepules": "Nádudvar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4183,
         "telepules": "Kaba",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4184,
         "telepules": "Tetétlen",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4200,
         "telepules": "Hajdúszoboszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4211,
         "telepules": "Ebes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4212,
         "telepules": "Hajdúszovát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4220,
         "telepules": "Hajdúböszörmény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4224,
         "telepules": "Hajdúböszörmény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4231,
         "telepules": "Bököny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4232,
         "telepules": "Geszteréd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4233,
         "telepules": "Balkány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4234,
         "telepules": "Szakoly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4235,
         "telepules": "Biri",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4241,
         "telepules": "Bocskaikert",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4242,
         "telepules": "Hajdúhadház",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4243,
         "telepules": "Téglás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4244,
         "telepules": "Újfehértó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4245,
         "telepules": "Érpatak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4246,
         "telepules": "Nyíregyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4251,
         "telepules": "Hajdúsámson",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4252,
         "telepules": "Nyíradony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4253,
         "telepules": "Nyíradony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4254,
         "telepules": "Nyíradony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4262,
         "telepules": "Nyíracsád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4263,
         "telepules": "Nyírmártonfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4264,
         "telepules": "Nyírábrány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4266,
         "telepules": "Fülöp",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4267,
         "telepules": "Penészlek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4271,
         "telepules": "Mikepércs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4272,
         "telepules": "Sáránd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4273,
         "telepules": "Hajdúbagos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4274,
         "telepules": "Hosszúpályi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4275,
         "telepules": "Monostorpályi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4281,
         "telepules": "Létavértes ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4283,
         "telepules": "Létavértes ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4284,
         "telepules": "Kokad",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4285,
         "telepules": "Álmosd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4286,
         "telepules": "Bagamér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4287,
         "telepules": "Vámospércs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4288,
         "telepules": "Újléta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4300,
         "telepules": "Nyírbátor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4311,
         "telepules": "Nyírgyulaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4320,
         "telepules": "Nagykálló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4324,
         "telepules": "Kállósemjén",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4325,
         "telepules": "Kisléta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4326,
         "telepules": "Máriapócs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4327,
         "telepules": "Pócspetri",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4331,
         "telepules": "Nyírcsászári",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4332,
         "telepules": "Nyírderzs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4333,
         "telepules": "Nyírkáta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4334,
         "telepules": "Hodász",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4335,
         "telepules": "Kántorjánosi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4336,
         "telepules": "Őr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4337,
         "telepules": "Jármi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4338,
         "telepules": "Papos ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4341,
         "telepules": "Nyírvasvári",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4342,
         "telepules": "Terem",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4343,
         "telepules": "Bátorliget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4351,
         "telepules": "Vállaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4352,
         "telepules": "Mérk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4353,
         "telepules": "Tiborszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4354,
         "telepules": "Fábiánháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4355,
         "telepules": "Nagyecsed",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4356,
         "telepules": "Nyírcsaholy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4361,
         "telepules": "Nyírbogát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4362,
         "telepules": "Nyírgelse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4363,
         "telepules": "Nyírmihálydi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4371,
         "telepules": "Nyírlugos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4372,
         "telepules": "Nyírbéltek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4373,
         "telepules": "Ömböly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4374,
         "telepules": "Encsencs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4375,
         "telepules": "Piricse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4376,
         "telepules": "Nyírpilis",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4400,
         "telepules": "Nyíregyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4405,
         "telepules": "Nyíregyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4431,
         "telepules": "Nyíregyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4432,
         "telepules": "Nyíregyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4433,
         "telepules": "Nyíregyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4434,
         "telepules": "Kálmánháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4440,
         "telepules": "Tiszavasvári",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4441,
         "telepules": "Szorgalmatos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4445,
         "telepules": "Nagycserkesz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4446,
         "telepules": "Tiszaeszlár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4447,
         "telepules": "Tiszalök",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4450,
         "telepules": "Tiszalök",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4455,
         "telepules": "Tiszadada",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4456,
         "telepules": "Tiszadob",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4461,
         "telepules": "Nyírtelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4463,
         "telepules": "Tiszanagyfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4464,
         "telepules": "Tiszaeszlár    ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4465,
         "telepules": "Rakamaz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4466,
         "telepules": "Timár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4467,
         "telepules": "Szabolcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4468,
         "telepules": "Balsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4471,
         "telepules": "Gávavencsellő   ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4472,
         "telepules": "Gávavencsellő   ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4474,
         "telepules": "Tiszabercel",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4475,
         "telepules": "Paszab",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4481,
         "telepules": "Nyíregyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4482,
         "telepules": "Kótaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4483,
         "telepules": "Buj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4484,
         "telepules": "Ibrány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4485,
         "telepules": "Nagyhalász",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4486,
         "telepules": "Tiszatelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4487,
         "telepules": "Tiszatelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4488,
         "telepules": "Beszterec",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4491,
         "telepules": "Újdombrád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4492,
         "telepules": "Dombrád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4493,
         "telepules": "Tiszakanyár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4494,
         "telepules": "Kékcse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4495,
         "telepules": "Döge",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4496,
         "telepules": "Szabolcsveresmart",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4501,
         "telepules": "Kemecse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4502,
         "telepules": "Vasmegyer",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4503,
         "telepules": "Tiszarád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4511,
         "telepules": "Nyírbogdány ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4515,
         "telepules": "Kék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4516,
         "telepules": "Demecser",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4517,
         "telepules": "Gégény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4521,
         "telepules": "Berkesz ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4522,
         "telepules": "Nyírtass",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4523,
         "telepules": "Pátroha",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4524,
         "telepules": "Ajak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4525,
         "telepules": "Rétközberencs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4531,
         "telepules": "Nyírpazony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4532,
         "telepules": "Nyírtura",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4533,
         "telepules": "Sényő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4534,
         "telepules": "Székely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4535,
         "telepules": "Nyíribrony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4536,
         "telepules": "Ramocsaháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4537,
         "telepules": "Nyírkércs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4541,
         "telepules": "Nyírjákó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4542,
         "telepules": "Petneháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4543,
         "telepules": "Laskod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4544,
         "telepules": "Nyírkarász",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4545,
         "telepules": "Gyulaháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4546,
         "telepules": "Anarcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4547,
         "telepules": "Szabolcsbáka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4551,
         "telepules": "Nyíregyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4552,
         "telepules": "Napkor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4553,
         "telepules": "Apagy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4554,
         "telepules": "Nyírtét",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4555,
         "telepules": "Levelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4556,
         "telepules": "Magy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4557,
         "telepules": "Besenyőd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4558,
         "telepules": "Ófehértó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4561,
         "telepules": "Baktalórántháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4562,
         "telepules": "Vaja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4563,
         "telepules": "Rohod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4564,
         "telepules": "Nyírmada",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4565,
         "telepules": "Pusztadobos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4566,
         "telepules": "Ilk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4567,
         "telepules": "Gemzse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4600,
         "telepules": "Kisvárda",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4611,
         "telepules": "Jéke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4621,
         "telepules": "Fényeslitke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4622,
         "telepules": "Komoró",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4623,
         "telepules": "Tuzsér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4624,
         "telepules": "Tiszabezdéd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4625,
         "telepules": "Záhony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4625,
         "telepules": "Győröcske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4627,
         "telepules": "Zsurk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4628,
         "telepules": "Tiszaszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4631,
         "telepules": "Pap",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4632,
         "telepules": "Nyírlövő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4633,
         "telepules": "Lövőpetri",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4634,
         "telepules": "Aranyosapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4635,
         "telepules": "Újkenéz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4641,
         "telepules": "Mezőladány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4642,
         "telepules": "Tornyospálca",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4643,
         "telepules": "Benk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4644,
         "telepules": "Mándok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4645,
         "telepules": "Tiszamogyorós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4646,
         "telepules": "Eperjeske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4700,
         "telepules": "Mátészalka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4721,
         "telepules": "Szamoskér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4722,
         "telepules": "Nyírmeggyes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4731,
         "telepules": "Tunyogmatolcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4732,
         "telepules": "Cégénydányád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4733,
         "telepules": "Gyügye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4734,
         "telepules": "Szamosújlak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4735,
         "telepules": "Szamossályi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4735,
         "telepules": "Hermánszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4737,
         "telepules": "Kisnamény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4737,
         "telepules": "Darnó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4741,
         "telepules": "Jánkmajtis",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4742,
         "telepules": "Csegöld",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4743,
         "telepules": "Csengersima",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4745,
         "telepules": "Szamosbecs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4746,
         "telepules": "Szamostatárfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4751,
         "telepules": "Kocsord",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4752,
         "telepules": "Győrtelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4754,
         "telepules": "Géberjén",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4754,
         "telepules": "Fülpösdaróc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4755,
         "telepules": "Ököritófülpös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4756,
         "telepules": "Rápolt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4761,
         "telepules": "Porcsalma",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4762,
         "telepules": "Tyukod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4763,
         "telepules": "Ura",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4764,
         "telepules": "Csengerújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4765,
         "telepules": "Csenger",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4765,
         "telepules": "Komlódtótfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4766,
         "telepules": "Pátyod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4767,
         "telepules": "Szamosangyalos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4800,
         "telepules": "Vásárosnamény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4803,
         "telepules": "Vásárosnamény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4804,
         "telepules": "Vásárosnamény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4811,
         "telepules": "Kisvarsány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4812,
         "telepules": "Nagyvarsány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4813,
         "telepules": "Gyüre ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4821,
         "telepules": "Ópályi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4822,
         "telepules": "Nyírparasznya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4823,
         "telepules": "Nagydobos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4824,
         "telepules": "Szamosszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4826,
         "telepules": "Olcsva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4831,
         "telepules": "Tiszaszalka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4832,
         "telepules": "Tiszavid",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4833,
         "telepules": "Tiszaadony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4834,
         "telepules": "Tiszakerecseny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4835,
         "telepules": "Mátyus",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4836,
         "telepules": "Lónya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4841,
         "telepules": "Jánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4842,
         "telepules": "Gulács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4843,
         "telepules": "Hetefejércse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4844,
         "telepules": "Csaroda",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4845,
         "telepules": "Tákos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4900,
         "telepules": "Fehérgyarmat",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4911,
         "telepules": "Nábrád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4912,
         "telepules": "Kérsemjén",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4913,
         "telepules": "Panyola",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4914,
         "telepules": "Olcsvaapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4921,
         "telepules": "Kisar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4921,
         "telepules": "Tivadar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4922,
         "telepules": "Nagyar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4931,
         "telepules": "Tarpa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4932,
         "telepules": "Márokpapi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4933,
         "telepules": "Beregsurány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4934,
         "telepules": "Beregdaróc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4935,
         "telepules": "Gelénes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4936,
         "telepules": "Vámosatya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4937,
         "telepules": "Barabás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4941,
         "telepules": "Penyige",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4942,
         "telepules": "Mánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4942,
         "telepules": "Nemesborzova",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4943,
         "telepules": "Kömörő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4944,
         "telepules": "Túristvándi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4945,
         "telepules": "Szatmárcseke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4946,
         "telepules": "Tiszakóród",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4947,
         "telepules": "Tiszacsécse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4948,
         "telepules": "Milota",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4951,
         "telepules": "Tiszabecs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4952,
         "telepules": "Uszka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4953,
         "telepules": "Magosliget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4954,
         "telepules": "Sonkád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4955,
         "telepules": "Botpalád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4956,
         "telepules": "Kispalád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4961,
         "telepules": "Zsarolyán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4962,
         "telepules": "Nagyszekeres",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4963,
         "telepules": "Kisszekeres",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4964,
         "telepules": "Fülesd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4965,
         "telepules": "Kölcse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4966,
         "telepules": "Vámosoroszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4967,
         "telepules": "Csaholc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4968,
         "telepules": "Túrricse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4969,
         "telepules": "Tisztaberek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4971,
         "telepules": "Rozsály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4972,
         "telepules": "Gacsály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4973,
         "telepules": "Császló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4974,
         "telepules": "Zajta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4975,
         "telepules": "Méhtelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4976,
         "telepules": "Garbolc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4977,
         "telepules": "Nagyhódos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 4977,
         "telepules": "Kishódos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5000,
         "telepules": "Szolnok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5008,
         "telepules": "Szolnok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5051,
         "telepules": "Zagyvarékas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5052,
         "telepules": "Újszász",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5053,
         "telepules": "Szászberek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5054,
         "telepules": "Jászalsószentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5055,
         "telepules": "Jászladány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5061,
         "telepules": "Tiszasüly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5062,
         "telepules": "Kőtelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5063,
         "telepules": "Hunyadfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5064,
         "telepules": "Csataszög",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5065,
         "telepules": "Nagykörű",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5071,
         "telepules": "Besenyszög",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5081,
         "telepules": "Szajol",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5082,
         "telepules": "Tiszatenyő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5083,
         "telepules": "Kengyel",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5084,
         "telepules": "Rákócziújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5085,
         "telepules": "Rákóczifalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5091,
         "telepules": "Tószeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5092,
         "telepules": "Tiszavárkony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5093,
         "telepules": "Vezseny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5094,
         "telepules": "Tiszajenő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5095,
         "telepules": "Tiszavárkony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5100,
         "telepules": "Jászberény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5111,
         "telepules": "Jászfelsőszentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5121,
         "telepules": "Jászjákóhalma",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5122,
         "telepules": "Jászdózsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5123,
         "telepules": "Jászárokszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5124,
         "telepules": "Jászágó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5125,
         "telepules": "Pusztamonostor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5126,
         "telepules": "Jászfényszaru",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5130,
         "telepules": "Jászapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5135,
         "telepules": "Jászivány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5136,
         "telepules": "Jászszentandrás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5137,
         "telepules": "Jászkisér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5141,
         "telepules": "Jásztelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5142,
         "telepules": "Alattyán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5143,
         "telepules": "Jánoshida",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5144,
         "telepules": "Jászboldogháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5152,
         "telepules": "Jászberény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5200,
         "telepules": "Törökszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5211,
         "telepules": "Tiszapüspöki",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5212,
         "telepules": "Törökszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5213,
         "telepules": "Fegyvernek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5222,
         "telepules": "Örményes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5231,
         "telepules": "Fegyvernek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5232,
         "telepules": "Tiszabő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5233,
         "telepules": "Tiszagyenda",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5234,
         "telepules": "Tiszaroff",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5235,
         "telepules": "Tiszabura",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5241,
         "telepules": "Abádszalók",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5243,
         "telepules": "Tiszaderzs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5244,
         "telepules": "Tiszaszőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5300,
         "telepules": "Karcag",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5309,
         "telepules": "Berekfürdő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5310,
         "telepules": "Kisújszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5321,
         "telepules": "Kunmadaras",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5322,
         "telepules": "Tiszaszentimre",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5323,
         "telepules": "Tiszaszentimre",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5324,
         "telepules": "Tomajmonostora",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5331,
         "telepules": "Kenderes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5340,
         "telepules": "Kunhegyes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5349,
         "telepules": "Kenderes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5350,
         "telepules": "Tiszafüred",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5358,
         "telepules": "Tiszafüred",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5359,
         "telepules": "Tiszafüred",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5361,
         "telepules": "Tiszaigar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5362,
         "telepules": "Tiszaörs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5363,
         "telepules": "Nagyiván",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5400,
         "telepules": "Mezőtúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5411,
         "telepules": "Kétpó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5412,
         "telepules": "Kuncsorba",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5420,
         "telepules": "Túrkeve",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5430,
         "telepules": "Tiszaföldvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5435,
         "telepules": "Martfű",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5440,
         "telepules": "Kunszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5449,
         "telepules": "Kunszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5451,
         "telepules": "Öcsöd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5452,
         "telepules": "Mesterszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5453,
         "telepules": "Mezőhék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5461,
         "telepules": "Tiszaföldvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5462,
         "telepules": "Cibakháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5463,
         "telepules": "Nagyrév",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5464,
         "telepules": "Tiszainoka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5465,
         "telepules": "Cserkeszőlő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5471,
         "telepules": "Tiszakürt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5474,
         "telepules": "Tiszasas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5475,
         "telepules": "Csépa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5476,
         "telepules": "Szelevény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5500,
         "telepules": "Gyomaendrőd    ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5502,
         "telepules": "Gyomaendrőd    ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5510,
         "telepules": "Dévaványa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5515,
         "telepules": "Ecsegfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5516,
         "telepules": "Körösladány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5520,
         "telepules": "Szeghalom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5525,
         "telepules": "Füzesgyarmat",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5526,
         "telepules": "Kertészsziget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5527,
         "telepules": "Bucsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5530,
         "telepules": "Vésztő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5534,
         "telepules": "Okány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5536,
         "telepules": "Körösújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5537,
         "telepules": "Zsadány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5538,
         "telepules": "Biharugra",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5539,
         "telepules": "Körösnagyharsány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5540,
         "telepules": "Szarvas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5551,
         "telepules": "Csabacsűd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5552,
         "telepules": "Kardos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5553,
         "telepules": "Kondoros",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5555,
         "telepules": "Hunya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5556,
         "telepules": "Örménykút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5561,
         "telepules": "Békésszentandrás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5600,
         "telepules": "Békéscsaba",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5609,
         "telepules": "Csabaszabadi ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5621,
         "telepules": "Csárdaszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5622,
         "telepules": "Köröstarcsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5623,
         "telepules": "Békéscsaba",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5624,
         "telepules": "Doboz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5630,
         "telepules": "Békés",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5641,
         "telepules": "Tarhos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5643,
         "telepules": "Bélmegyer",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5650,
         "telepules": "Mezőberény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5661,
         "telepules": "Újkígyós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5662,
         "telepules": "Csanádapáca",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5663,
         "telepules": "Medgyesbodzás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5664,
         "telepules": "Medgyesbodzás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5665,
         "telepules": "Pusztaottlaka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5666,
         "telepules": "Medgyesegyháza  ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5667,
         "telepules": "Magyarbánhegyes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5668,
         "telepules": "Nagybánhegyes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5671,
         "telepules": "Békéscsaba",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5672,
         "telepules": "Murony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5673,
         "telepules": "Kamut",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5674,
         "telepules": "Kétsoprony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5675,
         "telepules": "Telekgerendás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5700,
         "telepules": "Gyula",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5711,
         "telepules": "Gyula",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5712,
         "telepules": "Szabadkígyós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5720,
         "telepules": "Sarkad",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5725,
         "telepules": "Kötegyán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5726,
         "telepules": "Méhkerék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5727,
         "telepules": "Újszalonta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5731,
         "telepules": "Sarkadkeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5732,
         "telepules": "Mezőgyán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5734,
         "telepules": "Geszt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5741,
         "telepules": "Kétegyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5742,
         "telepules": "Elek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5743,
         "telepules": "Lőkösháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5744,
         "telepules": "Kevermes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5745,
         "telepules": "Dombiratos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5746,
         "telepules": "Kunágota",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5747,
         "telepules": "Almáskamarás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5751,
         "telepules": "Nagykamarás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5752,
         "telepules": "Medgyesegyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5800,
         "telepules": "Mezőkovácsháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5811,
         "telepules": "Végegyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5820,
         "telepules": "Mezőhegyes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5830,
         "telepules": "Battonya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5836,
         "telepules": "Dombegyház",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5837,
         "telepules": "Kisdombegyház",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5838,
         "telepules": "Magyardombegyház",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5900,
         "telepules": "Orosháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5903,
         "telepules": "Orosháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5904,
         "telepules": "Orosháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5905,
         "telepules": "Orosháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5919,
         "telepules": "Pusztaföldvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5920,
         "telepules": "Csorvás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5925,
         "telepules": "Gerendás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5931,
         "telepules": "Nagyszénás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5932,
         "telepules": "Gádoros",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5940,
         "telepules": "Tótkomlós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5945,
         "telepules": "Kardoskút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5946,
         "telepules": "Békéssámson",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 5948,
         "telepules": "Kaszaper",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6000,
         "telepules": "Kecskemét",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6008,
         "telepules": "Kecskemét",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6031,
         "telepules": "Szentkirály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6032,
         "telepules": "Nyárlőrinc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6033,
         "telepules": "Városföld",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6034,
         "telepules": "Helvécia",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6035,
         "telepules": "Ballószög",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6041,
         "telepules": "Kerekegyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6042,
         "telepules": "Fülöpháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6043,
         "telepules": "Kunbaracs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6044,
         "telepules": "Kecskemét",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6045,
         "telepules": "Ladánybene",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6050,
         "telepules": "Lajosmizse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6055,
         "telepules": "Felsőlajos ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6060,
         "telepules": "Tiszakécske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6062,
         "telepules": "Tiszakécske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6064,
         "telepules": "Tiszaug",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6065,
         "telepules": "Lakitelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6066,
         "telepules": "Tiszaalpár ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6067,
         "telepules": "Tiszaalpár ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6070,
         "telepules": "Izsák",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6075,
         "telepules": "Páhi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6076,
         "telepules": "Ágasegyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6077,
         "telepules": "Orgovány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6078,
         "telepules": "Jakabszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6080,
         "telepules": "Szabadszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6085,
         "telepules": "Fülöpszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6086,
         "telepules": "Szalkszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6087,
         "telepules": "Dunavecse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6088,
         "telepules": "Apostag",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6090,
         "telepules": "Kunszentmiklós ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6096,
         "telepules": "Kunpeszér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6097,
         "telepules": "Kunadacs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6098,
         "telepules": "Tass",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6100,
         "telepules": "Kiskunfélegyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6111,
         "telepules": "Gátér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6112,
         "telepules": "Pálmonostora",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6113,
         "telepules": "Petőfiszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6114,
         "telepules": "Bugac",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6114,
         "telepules": "Bugacpusztaháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6115,
         "telepules": "Kunszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6116,
         "telepules": "Fülöpjakab ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6120,
         "telepules": "Kiskunmajsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6131,
         "telepules": "Szank",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6132,
         "telepules": "Móricgát ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6133,
         "telepules": "Jászszentlászló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6134,
         "telepules": "Kömpöc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6135,
         "telepules": "Csólyospálos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6136,
         "telepules": "Harkakötöny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6200,
         "telepules": "Kiskőrös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6211,
         "telepules": "Kaskantyú",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6221,
         "telepules": "Akasztó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6222,
         "telepules": "Csengőd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6223,
         "telepules": "Soltszentimre",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6224,
         "telepules": "Tabdi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6230,
         "telepules": "Soltvadkert",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6235,
         "telepules": "Bócsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6236,
         "telepules": "Tázlár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6237,
         "telepules": "Kecel",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6238,
         "telepules": "Imrehegy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6239,
         "telepules": "Császártöltés",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6300,
         "telepules": "Kalocsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6311,
         "telepules": "Öregcsertő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6320,
         "telepules": "Solt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6321,
         "telepules": "Újsolt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6323,
         "telepules": "Dunaegyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6325,
         "telepules": "Dunatetétlen",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6326,
         "telepules": "Harta ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6327,
         "telepules": "Harta ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6328,
         "telepules": "Dunapataj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6331,
         "telepules": "Foktő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6332,
         "telepules": "Uszód",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6333,
         "telepules": "Dunaszentbenedek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6334,
         "telepules": "Géderlak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6335,
         "telepules": "Ordas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6336,
         "telepules": "Szakmár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6337,
         "telepules": "Újtelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6341,
         "telepules": "Homokmégy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6342,
         "telepules": "Drágszél",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6343,
         "telepules": "Miske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6344,
         "telepules": "Hajós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6345,
         "telepules": "Nemesnádudvar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6346,
         "telepules": "Sükösd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6347,
         "telepules": "Érsekcsanád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6348,
         "telepules": "Érsekhalma",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6351,
         "telepules": "Bátya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6352,
         "telepules": "Fajsz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6353,
         "telepules": "Dusnok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6400,
         "telepules": "Kiskunhalas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6411,
         "telepules": "Zsana",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6412,
         "telepules": "Balotaszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6413,
         "telepules": "Kunfehértó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6414,
         "telepules": "Pirtó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6421,
         "telepules": "Kisszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6422,
         "telepules": "Tompa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6423,
         "telepules": "Kelebia",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6424,
         "telepules": "Csikéria",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6425,
         "telepules": "Bácsszőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6430,
         "telepules": "Bácsalmás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6435,
         "telepules": "Kunbaja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6440,
         "telepules": "Jánoshalma",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6444,
         "telepules": "Kéleshalom ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6445,
         "telepules": "Borota",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6446,
         "telepules": "Rém",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6447,
         "telepules": "Felsőszentiván",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6448,
         "telepules": "Csávoly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6449,
         "telepules": "Mélykút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6451,
         "telepules": "Tataháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6452,
         "telepules": "Mátételke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6453,
         "telepules": "Bácsbokod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6454,
         "telepules": "Bácsborsód",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6455,
         "telepules": "Katymár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6456,
         "telepules": "Madaras",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6500,
         "telepules": "Baja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6503,
         "telepules": "Baja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6511,
         "telepules": "Bácsszentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6512,
         "telepules": "Szeremle",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6513,
         "telepules": "Dunafalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6521,
         "telepules": "Vaskút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6522,
         "telepules": "Gara",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6523,
         "telepules": "Csátalja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6524,
         "telepules": "Dávod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6525,
         "telepules": "Hercegszántó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6527,
         "telepules": "Nagybaracska",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6528,
         "telepules": "Bátmonostor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6600,
         "telepules": "Szentes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6612,
         "telepules": "Nagytőke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6621,
         "telepules": "Derekegyház",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6622,
         "telepules": "Nagymágocs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6623,
         "telepules": "Árpádhalom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6624,
         "telepules": "Eperjes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6625,
         "telepules": "Fábiánsebestyén",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6630,
         "telepules": "Mindszent",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6635,
         "telepules": "Szegvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6636,
         "telepules": "Mártély",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6640,
         "telepules": "Csongrád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6645,
         "telepules": "Felgyő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6646,
         "telepules": "Tömörkény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6647,
         "telepules": "Csanytelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6648,
         "telepules": "Csongrád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6700,
         "telepules": "Szeged",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6750,
         "telepules": "Algyő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6754,
         "telepules": "Újszentiván",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6755,
         "telepules": "Kübekháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6756,
         "telepules": "Tiszasziget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6758,
         "telepules": "Röszke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6760,
         "telepules": "Kistelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6762,
         "telepules": "Sándorfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6763,
         "telepules": "Szatymaz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6764,
         "telepules": "Balástya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6765,
         "telepules": "Csengele",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6766,
         "telepules": "Dóc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6767,
         "telepules": "Ópusztaszer",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6768,
         "telepules": "Baks",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6769,
         "telepules": "Pusztaszer",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6772,
         "telepules": "Deszk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6773,
         "telepules": "Klárafalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6774,
         "telepules": "Ferencszállás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6775,
         "telepules": "Kiszombor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6781,
         "telepules": "Domaszék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6782,
         "telepules": "Mórahalom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6783,
         "telepules": "Ásotthalom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6784,
         "telepules": "Öttömös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6785,
         "telepules": "Pusztamérges",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6786,
         "telepules": "Ruzsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6787,
         "telepules": "Zákányszék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6792,
         "telepules": "Zsombó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6793,
         "telepules": "Forráskút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6794,
         "telepules": "Üllés",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6795,
         "telepules": "Bordány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6800,
         "telepules": "Hódmezővásárhely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6805,
         "telepules": "Hódmezővásárhely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6806,
         "telepules": "Hódmezővásárhely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6821,
         "telepules": "Székkutas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6900,
         "telepules": "Makó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6903,
         "telepules": "Makó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6911,
         "telepules": "Királyhegyes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6912,
         "telepules": "Kövegy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6913,
         "telepules": "Csanádpalota",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6914,
         "telepules": "Pitvaros",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6915,
         "telepules": "Csanádalberti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6916,
         "telepules": "Ambrózfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6917,
         "telepules": "Nagyér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6921,
         "telepules": "Maroslele",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6922,
         "telepules": "Földeák",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6923,
         "telepules": "Óföldeák",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6931,
         "telepules": "Apátfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6932,
         "telepules": "Magyarcsanád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 6933,
         "telepules": "Nagylak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7000,
         "telepules": "Sárbogárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7003,
         "telepules": "Sárbogárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7011,
         "telepules": "Alap",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7012,
         "telepules": "Alsószentiván",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7013,
         "telepules": "Cece",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7014,
         "telepules": "Sáregres",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7015,
         "telepules": "Igar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7016,
         "telepules": "Igar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7017,
         "telepules": "Mezőszilas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7018,
         "telepules": "Sárbogárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7019,
         "telepules": "Sárbogárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7020,
         "telepules": "Dunaföldvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7025,
         "telepules": "Bölcske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7026,
         "telepules": "Madocsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7027,
         "telepules": "Paks",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7030,
         "telepules": "Paks",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7038,
         "telepules": "Pusztahencse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7039,
         "telepules": "Németkér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7041,
         "telepules": "Vajta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7042,
         "telepules": "Pálfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7043,
         "telepules": "Bikács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7044,
         "telepules": "Nagydorog",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7045,
         "telepules": "Györköny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7047,
         "telepules": "Sárszentlőrinc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7051,
         "telepules": "Kajdacs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7052,
         "telepules": "Kölesd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7054,
         "telepules": "Tengelic",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7056,
         "telepules": "Szedres",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7057,
         "telepules": "Medina",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7061,
         "telepules": "Belecska",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7062,
         "telepules": "Keszőhidegkút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7063,
         "telepules": "Szárazd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7064,
         "telepules": "Gyönk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7065,
         "telepules": "Miszla",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7066,
         "telepules": "Udvari",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7067,
         "telepules": "Varsád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7068,
         "telepules": "Kistormás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7071,
         "telepules": "Szakadát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7072,
         "telepules": "Diósberény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7081,
         "telepules": "Simontornya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7082,
         "telepules": "Kisszékely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7083,
         "telepules": "Tolnanémedi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7084,
         "telepules": "Pincehely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7085,
         "telepules": "Nagyszékely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7086,
         "telepules": "Ozora",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7087,
         "telepules": "Fürged",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7090,
         "telepules": "Tamási",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7091,
         "telepules": "Pári",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7092,
         "telepules": "Nagykónyi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7093,
         "telepules": "Értény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7094,
         "telepules": "Koppányszántó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7095,
         "telepules": "Iregszemcse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7095,
         "telepules": "Újireg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7097,
         "telepules": "Nagyszokoly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7098,
         "telepules": "Magyarkeszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7099,
         "telepules": "Felsőnyék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7100,
         "telepules": "Szekszárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7121,
         "telepules": "Szálka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7122,
         "telepules": "Kakasd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7130,
         "telepules": "Tolna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7131,
         "telepules": "Tolna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7132,
         "telepules": "Bogyiszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7133,
         "telepules": "Fadd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7134,
         "telepules": "Gerjen",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7135,
         "telepules": "Dunaszentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7136,
         "telepules": "Fácánkert",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7140,
         "telepules": "Bátaszék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7142,
         "telepules": "Pörböly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7143,
         "telepules": "Őcsény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7144,
         "telepules": "Decs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7145,
         "telepules": "Sárpilis",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7146,
         "telepules": "Várdomb",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7147,
         "telepules": "Alsónána",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7148,
         "telepules": "Alsónyék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7149,
         "telepules": "Báta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7150,
         "telepules": "Bonyhád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7158,
         "telepules": "Bonyhádvarasd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7159,
         "telepules": "Kisdorog",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7161,
         "telepules": "Cikó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7162,
         "telepules": "Grábóc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7163,
         "telepules": "Mőcsény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7164,
         "telepules": "Bátaapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7165,
         "telepules": "Mórágy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7171,
         "telepules": "Sióagárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7172,
         "telepules": "Harc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7173,
         "telepules": "Zomba",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7174,
         "telepules": "Kéty",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7175,
         "telepules": "Felsőnána",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7176,
         "telepules": "Murga",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7181,
         "telepules": "Tevel",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7182,
         "telepules": "Závod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7183,
         "telepules": "Kisvejke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7184,
         "telepules": "Lengyel",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7185,
         "telepules": "Mucsfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7186,
         "telepules": "Aparhant",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7186,
         "telepules": "Nagyvejke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7187,
         "telepules": "Bonyhád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7188,
         "telepules": "Szárász",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7191,
         "telepules": "Hőgyész",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7192,
         "telepules": "Szakály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7193,
         "telepules": "Regöly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7194,
         "telepules": "Kalaznó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7195,
         "telepules": "Mucsi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7200,
         "telepules": "Dombóvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7211,
         "telepules": "Dalmand",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7212,
         "telepules": "Kocsola",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7213,
         "telepules": "Szakcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7214,
         "telepules": "Lápafő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7214,
         "telepules": "Várong",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7215,
         "telepules": "Nak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7224,
         "telepules": "Dúzs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7225,
         "telepules": "Csibrák",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7226,
         "telepules": "Kurd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7227,
         "telepules": "Gyulaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7228,
         "telepules": "Döbrököz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7251,
         "telepules": "Kapospula",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7252,
         "telepules": "Attala",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7253,
         "telepules": "Csoma",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7253,
         "telepules": "Szabadi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7255,
         "telepules": "Nagyberki",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7256,
         "telepules": "Kercseliget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7257,
         "telepules": "Mosdós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7258,
         "telepules": "Baté",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7258,
         "telepules": "Kaposkeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7261,
         "telepules": "Taszár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7261,
         "telepules": "Kaposhomok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7271,
         "telepules": "Fonó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7272,
         "telepules": "Gölle",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7273,
         "telepules": "Büssü",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7274,
         "telepules": "Kazsok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7275,
         "telepules": "Igal",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7276,
         "telepules": "Somogyszil",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7276,
         "telepules": "Gadács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7279,
         "telepules": "Kisgyalán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7281,
         "telepules": "Bonnya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7282,
         "telepules": "Kisbárapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7282,
         "telepules": "Fiad",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7283,
         "telepules": "Somogyacsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7284,
         "telepules": "Somogydöröcske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7285,
         "telepules": "Törökkoppány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7285,
         "telepules": "Kára",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7285,
         "telepules": "Szorosad",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7300,
         "telepules": "Komló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7304,
         "telepules": "Mánfa ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7305,
         "telepules": "Mecsekpölöske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7331,
         "telepules": "Liget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7332,
         "telepules": "Magyaregregy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7333,
         "telepules": "Kárász",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7333,
         "telepules": "Vékény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7334,
         "telepules": "Szalatnak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7334,
         "telepules": "Köblény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7341,
         "telepules": "Csikóstőttős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7342,
         "telepules": "Mágocs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7343,
         "telepules": "Nagyhajmás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7344,
         "telepules": "Mekényes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7345,
         "telepules": "Alsómocsolád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7346,
         "telepules": "Bikal",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7347,
         "telepules": "Egyházaskozár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7348,
         "telepules": "Hegyhátmaróc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7348,
         "telepules": "Tófű",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7349,
         "telepules": "Szászvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7351,
         "telepules": "Máza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7352,
         "telepules": "Györe",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7353,
         "telepules": "Izmény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7354,
         "telepules": "Váralja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7355,
         "telepules": "Nagymányok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7356,
         "telepules": "Kismányok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7357,
         "telepules": "Jágónak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7361,
         "telepules": "Kaposszekcső",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7362,
         "telepules": "Vásárosdombó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7362,
         "telepules": "Gerényes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7362,
         "telepules": "Tarrós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7370,
         "telepules": "Sásd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7370,
         "telepules": "Felsőegerszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7370,
         "telepules": "Meződ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7370,
         "telepules": "Oroszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7370,
         "telepules": "Palé",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7370,
         "telepules": "Varga",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7370,
         "telepules": "Vázsnok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7381,
         "telepules": "Kisvaszar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7381,
         "telepules": "Ág",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7381,
         "telepules": "Tékes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7383,
         "telepules": "Tormás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7383,
         "telepules": "Baranyaszentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7383,
         "telepules": "Szágy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7384,
         "telepules": "Baranyajenő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7385,
         "telepules": "Gödre",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7386,
         "telepules": "Gödre",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7391,
         "telepules": "Mindszentgodisa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7391,
         "telepules": "Kisbeszterce",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7391,
         "telepules": "Kishajmás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7393,
         "telepules": "Bakóca",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7394,
         "telepules": "Magyarhertelend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7394,
         "telepules": "Bodolyabér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7396,
         "telepules": "Magyarszék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7400,
         "telepules": "Kaposvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7400,
         "telepules": "Zselickislak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7431,
         "telepules": "Juta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7432,
         "telepules": "Hetes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7432,
         "telepules": "Csombárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7434,
         "telepules": "Mezőcsokonya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7435,
         "telepules": "Somogysárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7436,
         "telepules": "Újvárfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7439,
         "telepules": "Bodrog",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7441,
         "telepules": "Magyaregres",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7442,
         "telepules": "Várda",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7443,
         "telepules": "Somogyjád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7443,
         "telepules": "Alsóbogát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7443,
         "telepules": "Edde",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7444,
         "telepules": "Osztopán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7452,
         "telepules": "Somogyaszaló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7451,
         "telepules": "Kaposvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7453,
         "telepules": "Mernye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7454,
         "telepules": "Somodor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7455,
         "telepules": "Somogygeszti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7456,
         "telepules": "Felsőmocsolád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7457,
         "telepules": "Ecseny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7458,
         "telepules": "Polány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7461,
         "telepules": "Orci",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7463,
         "telepules": "Magyaratád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7463,
         "telepules": "Patalom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7464,
         "telepules": "Ráksi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7465,
         "telepules": "Szentgáloskér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7471,
         "telepules": "Zimány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7472,
         "telepules": "Szentbalázs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7472,
         "telepules": "Cserénfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7473,
         "telepules": "Gálosfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7473,
         "telepules": "Hajmás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7473,
         "telepules": "Kaposgyarmat",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7474,
         "telepules": "Simonfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7474,
         "telepules": "Zselicszentpál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7475,
         "telepules": "Bőszénfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7476,
         "telepules": "Kaposszerdahely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7477,
         "telepules": "Szenna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7477,
         "telepules": "Patca",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7477,
         "telepules": "Szilvásszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7477,
         "telepules": "Zselickisfalud",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7478,
         "telepules": "Bárdudvarnok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7479,
         "telepules": "Sántos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7500,
         "telepules": "Nagyatád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7511,
         "telepules": "Ötvöskónyi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7512,
         "telepules": "Mike",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7513,
         "telepules": "Rinyaszentkirály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7514,
         "telepules": "Tarany",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7515,
         "telepules": "Somogyudvarhely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7516,
         "telepules": "Berzence",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7517,
         "telepules": "Bolhás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7521,
         "telepules": "Kaposmérő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7522,
         "telepules": "Kaposújlak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7523,
         "telepules": "Kaposfő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7523,
         "telepules": "Kisasszond",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7524,
         "telepules": "Kiskorpád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7525,
         "telepules": "Jákó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7526,
         "telepules": "Csököly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7527,
         "telepules": "Gige",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7527,
         "telepules": "Rinyakovácsi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7530,
         "telepules": "Kadarkút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7530,
         "telepules": "Kőkút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7532,
         "telepules": "Hencse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7533,
         "telepules": "Hedrehely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7533,
         "telepules": "Visnye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7535,
         "telepules": "Lad",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7536,
         "telepules": "Patosfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7537,
         "telepules": "Homokszentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7538,
         "telepules": "Kálmáncsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7539,
         "telepules": "Szulok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7541,
         "telepules": "Kutas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7542,
         "telepules": "Kisbajom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7543,
         "telepules": "Beleg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7544,
         "telepules": "Szabás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7545,
         "telepules": "Nagykorpád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7551,
         "telepules": "Lábod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7552,
         "telepules": "Rinyabesenyő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7553,
         "telepules": "Görgeteg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7555,
         "telepules": "Csokonyavisonta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7556,
         "telepules": "Rinyaújlak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7557,
         "telepules": "Barcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7561,
         "telepules": "Nagybajom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7561,
         "telepules": "Pálmajor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7562,
         "telepules": "Segesd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7563,
         "telepules": "Somogyszob",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7564,
         "telepules": "Kaszó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7570,
         "telepules": "Barcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7582,
         "telepules": "Komlósd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7582,
         "telepules": "Péterhida",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7584,
         "telepules": "Babócsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7584,
         "telepules": "Rinyaújnép",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7584,
         "telepules": "Somogyaracs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7585,
         "telepules": "Háromfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7585,
         "telepules": "Bakháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7586,
         "telepules": "Bolhó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7587,
         "telepules": "Heresznye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7588,
         "telepules": "Vízvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7589,
         "telepules": "Bélavár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7600,
         "telepules": "Pécs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7639,
         "telepules": "Kökény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7661,
         "telepules": "Erzsébet",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7661,
         "telepules": "Kátoly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7661,
         "telepules": "Kékesd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7661,
         "telepules": "Szellő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7663,
         "telepules": "Máriakéménd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7664,
         "telepules": "Berkesd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7664,
         "telepules": "Pereked",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7664,
         "telepules": "Szilágy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7666,
         "telepules": "Pogány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7668,
         "telepules": "Keszü",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7668,
         "telepules": "Gyód",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7671,
         "telepules": "Bicsérd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7671,
         "telepules": "Aranyosgadány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7671,
         "telepules": "Zók",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7672,
         "telepules": "Boda",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7673,
         "telepules": "Kővágószőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7673,
         "telepules": "Cserkút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7675,
         "telepules": "Bakonya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7675,
         "telepules": "Kővágótöttös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7677,
         "telepules": "Orfű ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7678,
         "telepules": "Abaliget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7678,
         "telepules": "Husztót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7678,
         "telepules": "Kovácsszénája",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7681,
         "telepules": "Hetvehely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7681,
         "telepules": "Okorvölgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7681,
         "telepules": "Szentkatalin",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7682,
         "telepules": "Bükkösd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7683,
         "telepules": "Helesfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7683,
         "telepules": "Cserdi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7683,
         "telepules": "Dinnyeberki",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7694,
         "telepules": "Hosszúhetény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7695,
         "telepules": "Mecseknádasd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7695,
         "telepules": "Óbánya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7695,
         "telepules": "Ófalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7696,
         "telepules": "Hidas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7700,
         "telepules": "Mohács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7711,
         "telepules": "Bár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7712,
         "telepules": "Dunaszekcső",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7714,
         "telepules": "Mohács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7715,
         "telepules": "Mohács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7716,
         "telepules": "Homorúd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7717,
         "telepules": "Kölked",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7718,
         "telepules": "Udvar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7720,
         "telepules": "Pécsvárad",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7720,
         "telepules": "Apátvarasd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7720,
         "telepules": "Lovászhetény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7720,
         "telepules": "Martonfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7720,
         "telepules": "Zengővárkony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7723,
         "telepules": "Erdősmecske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7724,
         "telepules": "Feked",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7725,
         "telepules": "Szebény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7726,
         "telepules": "Véménd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7727,
         "telepules": "Palotabozsok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7728,
         "telepules": "Somberek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7728,
         "telepules": "Görcsönydoboka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7731,
         "telepules": "Nagypall",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7732,
         "telepules": "Fazekasboda",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7733,
         "telepules": "Geresdlak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7733,
         "telepules": "Maráza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7735,
         "telepules": "Himesháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7735,
         "telepules": "Erdősmárok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7735,
         "telepules": "Szűr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7737,
         "telepules": "Székelyszabar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7741,
         "telepules": "Nagykozár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7742,
         "telepules": "Bogád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7743,
         "telepules": "Romonya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7744,
         "telepules": "Ellend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7745,
         "telepules": "Olasz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7745,
         "telepules": "Hásságy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7747,
         "telepules": "Belvárdgyula",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7747,
         "telepules": "Birján",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7751,
         "telepules": "Szederkény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7751,
         "telepules": "Monyoród",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7752,
         "telepules": "Versend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7753,
         "telepules": "Szajk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7754,
         "telepules": "Bóly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7755,
         "telepules": "Töttös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7756,
         "telepules": "Borjád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7756,
         "telepules": "Kisbudmér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7756,
         "telepules": "Nagybudmér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7756,
         "telepules": "Pócsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7757,
         "telepules": "Babarc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7757,
         "telepules": "Liptód",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7759,
         "telepules": "Lánycsók",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7759,
         "telepules": "Kisnyárád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7761,
         "telepules": "Kozármisleny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7761,
         "telepules": "Lothárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7761,
         "telepules": "Magyarsarlós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7762,
         "telepules": "Pécsudvard",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7763,
         "telepules": "Egerág",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7763,
         "telepules": "Áta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7763,
         "telepules": "Kisherend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7763,
         "telepules": "Szemely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7763,
         "telepules": "Szőkéd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7766,
         "telepules": "Újpetre",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7766,
         "telepules": "Kiskassa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7766,
         "telepules": "Peterd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7766,
         "telepules": "Pécsdevecser",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7768,
         "telepules": "Vokány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7768,
         "telepules": "Kistótfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7771,
         "telepules": "Palkonya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7772,
         "telepules": "Villánykövesd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7772,
         "telepules": "Ivánbattyán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7773,
         "telepules": "Villány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7773,
         "telepules": "Kisjakabfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7774,
         "telepules": "Márok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7775,
         "telepules": "Magyarbóly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7775,
         "telepules": "Illocska",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7775,
         "telepules": "Kislippó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7775,
         "telepules": "Lapáncsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7781,
         "telepules": "Lippó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7781,
         "telepules": "Ivándárda",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7781,
         "telepules": "Sárok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7782,
         "telepules": "Bezedek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7783,
         "telepules": "Majs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7784,
         "telepules": "Nagynyárád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7785,
         "telepules": "Sátorhely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7800,
         "telepules": "Siklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7800,
         "telepules": "Kisharsány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7800,
         "telepules": "Nagytótfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7811,
         "telepules": "Szalánta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7811,
         "telepules": "Bisse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7811,
         "telepules": "Bosta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7811,
         "telepules": "Csarnóta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7811,
         "telepules": "Szilvás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7811,
         "telepules": "Túrony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7812,
         "telepules": "Garé",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7813,
         "telepules": "Szava",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7814,
         "telepules": "Ócsárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7814,
         "telepules": "Babarcszőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7814,
         "telepules": "Kisdér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7814,
         "telepules": "Siklósbodony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7815,
         "telepules": "Harkány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7817,
         "telepules": "Diósviszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7817,
         "telepules": "Márfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7817,
         "telepules": "Rádfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7822,
         "telepules": "Nagyharsány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7823,
         "telepules": "Siklósnagyfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7823,
         "telepules": "Kistapolca",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7824,
         "telepules": "Egyházasharaszti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7825,
         "telepules": "Old",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7826,
         "telepules": "Alsószentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7827,
         "telepules": "Beremend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7827,
         "telepules": "Kásád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7831,
         "telepules": "Pellérd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7833,
         "telepules": "Görcsöny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7833,
         "telepules": "Regenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7833,
         "telepules": "Szőke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7834,
         "telepules": "Baksa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7834,
         "telepules": "Tengeri",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7834,
         "telepules": "Téseny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7836,
         "telepules": "Bogádmindszent",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7836,
         "telepules": "Ózdfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7837,
         "telepules": "Hegyszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7838,
         "telepules": "Vajszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7838,
         "telepules": "Besence",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7838,
         "telepules": "Hirics",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7838,
         "telepules": "Lúzsok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7838,
         "telepules": "Nagycsány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7838,
         "telepules": "Páprád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7838,
         "telepules": "Piskó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7838,
         "telepules": "Vejti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7839,
         "telepules": "Zaláta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7839,
         "telepules": "Kemse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7841,
         "telepules": "Sámod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7841,
         "telepules": "Adorjás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7841,
         "telepules": "Baranyahídvég",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7841,
         "telepules": "Kisszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7841,
         "telepules": "Kórós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7843,
         "telepules": "Kémes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7843,
         "telepules": "Cún",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7843,
         "telepules": "Drávapiski",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7843,
         "telepules": "Szaporca",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7843,
         "telepules": "Tésenfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7846,
         "telepules": "Drávacsepely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7847,
         "telepules": "Kovácshida",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7847,
         "telepules": "Drávaszerdahely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7847,
         "telepules": "Ipacsfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7849,
         "telepules": "Drávacsehi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7850,
         "telepules": "Drávapalkonya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7851,
         "telepules": "Drávaszabolcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7853,
         "telepules": "Gordisa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7854,
         "telepules": "Matty",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7900,
         "telepules": "Szigetvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7900,
         "telepules": "Botykapeterd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7900,
         "telepules": "Csertő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7912,
         "telepules": "Nagypeterd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7912,
         "telepules": "Nyugotszenterzsébet",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7912,
         "telepules": "Nagyváty",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7913,
         "telepules": "Szentdénes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7914,
         "telepules": "Rózsafa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7914,
         "telepules": "Bánfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7914,
         "telepules": "Katádfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7915,
         "telepules": "Dencsháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7915,
         "telepules": "Szentegát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7918,
         "telepules": "Lakócsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7918,
         "telepules": "Szentborbás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7918,
         "telepules": "Tótújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7921,
         "telepules": "Somogyhatvan",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7922,
         "telepules": "Somogyapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7923,
         "telepules": "Basal",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7923,
         "telepules": "Patapoklosi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7924,
         "telepules": "Somogyviszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7925,
         "telepules": "Somogyhárságy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7925,
         "telepules": "Magyarlukafa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7926,
         "telepules": "Vásárosbéc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7932,
         "telepules": "Mozsgó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7932,
         "telepules": "Almáskeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7932,
         "telepules": "Szulimán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7934,
         "telepules": "Almamellék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7935,
         "telepules": "Ibafa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7935,
         "telepules": "Csebény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7935,
         "telepules": "Horváthertelend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7936,
         "telepules": "Szentlászló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7937,
         "telepules": "Boldogasszonyfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7940,
         "telepules": "Szentlőrinc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7940,
         "telepules": "Csonkamindszent",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7940,
         "telepules": "Kacsóta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7951,
         "telepules": "Szabadszentkirály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7951,
         "telepules": "Gerde",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7951,
         "telepules": "Pécsbagota",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7951,
         "telepules": "Velény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7953,
         "telepules": "Királyegyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7954,
         "telepules": "Magyarmecske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7954,
         "telepules": "Gilvánfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7954,
         "telepules": "Gyöngyfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7954,
         "telepules": "Kisasszonyfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7954,
         "telepules": "Magyartelek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7957,
         "telepules": "Okorág ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7958,
         "telepules": "Kákics ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7960,
         "telepules": "Sellye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7960,
         "telepules": "Drávaiványi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7960,
         "telepules": "Drávasztára",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7960,
         "telepules": "Marócsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7960,
         "telepules": "Sósvertike",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7960,
         "telepules": "Sumony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7964,
         "telepules": "Csányoszró",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7966,
         "telepules": "Bogdása",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7967,
         "telepules": "Drávafok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7967,
         "telepules": "Drávakeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7967,
         "telepules": "Markóc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7968,
         "telepules": "Felsőszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7971,
         "telepules": "Hobol",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7972,
         "telepules": "Gyöngyösmellék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7973,
         "telepules": "Teklafalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7973,
         "telepules": "Bürüs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7973,
         "telepules": "Endrőc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7973,
         "telepules": "Várad",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7975,
         "telepules": "Kétújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7976,
         "telepules": "Zádor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7976,
         "telepules": "Szörény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7977,
         "telepules": "Kastélyosdombó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7977,
         "telepules": "Drávagárdony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7977,
         "telepules": "Potony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7979,
         "telepules": "Drávatamási",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7980,
         "telepules": "Pettend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7981,
         "telepules": "Nemeske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7981,
         "telepules": "Kistamási",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7981,
         "telepules": "Merenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7981,
         "telepules": "Molvány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7981,
         "telepules": "Tótszentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7985,
         "telepules": "Nagydobsza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7985,
         "telepules": "Kisdobsza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7987,
         "telepules": "Istvándi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 7988,
         "telepules": "Darány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8000,
         "telepules": "Székesfehérvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8019,
         "telepules": "Székesfehérvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8041,
         "telepules": "Csór",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8042,
         "telepules": "Moha",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8043,
         "telepules": "Iszkaszentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8044,
         "telepules": "Kincsesbánya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8045,
         "telepules": "Isztimér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8046,
         "telepules": "Bakonykúti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8051,
         "telepules": "Sárkeresztes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8052,
         "telepules": "Fehérvárcsurgó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8053,
         "telepules": "Bodajk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8054,
         "telepules": "Balinka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8055,
         "telepules": "Balinka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8056,
         "telepules": "Bakonycsernye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8060,
         "telepules": "Mór",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8065,
         "telepules": "Nagyveleg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8066,
         "telepules": "Pusztavám",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8071,
         "telepules": "Magyaralmás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8072,
         "telepules": "Söréd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8073,
         "telepules": "Csákberény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8074,
         "telepules": "Csókakő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8080,
         "telepules": "Bodmér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8081,
         "telepules": "Zámoly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8082,
         "telepules": "Gánt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8083,
         "telepules": "Csákvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8085,
         "telepules": "Vértesboglár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8086,
         "telepules": "Felcsút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8087,
         "telepules": "Alcsútdoboz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8088,
         "telepules": "Tabajd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8089,
         "telepules": "Vértesacsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8092,
         "telepules": "Pátka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8093,
         "telepules": "Lovasberény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8095,
         "telepules": "Pákozd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8096,
         "telepules": "Sukoró",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8097,
         "telepules": "Nadap",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8100,
         "telepules": "Várpalota",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8105,
         "telepules": "Pétfürdő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8109,
         "telepules": "Tés",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8111,
         "telepules": "Seregélyes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8112,
         "telepules": "Zichyújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8121,
         "telepules": "Tác",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8122,
         "telepules": "Csősz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8123,
         "telepules": "Soponya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8124,
         "telepules": "Káloz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8125,
         "telepules": "Sárkeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8126,
         "telepules": "Sárszentágota",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8127,
         "telepules": "Aba",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8130,
         "telepules": "Enying",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8131,
         "telepules": "Enying",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8132,
         "telepules": "Lepsény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8133,
         "telepules": "Mezőszentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8134,
         "telepules": "Mátyásdomb",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8135,
         "telepules": "Dég",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8136,
         "telepules": "Lajoskomárom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8137,
         "telepules": "Mezőkomárom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8138,
         "telepules": "Szabadhídvég",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8139,
         "telepules": "Szabadhídvég",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8142,
         "telepules": "Úrhida",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8143,
         "telepules": "Sárszentmihály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8144,
         "telepules": "Sárkeszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8145,
         "telepules": "Nádasdladány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8146,
         "telepules": "Jenő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8151,
         "telepules": "Szabadbattyán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8152,
         "telepules": "Kőszárhegy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8154,
         "telepules": "Polgárdi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8156,
         "telepules": "Kisláng",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8157,
         "telepules": "Füle",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8161,
         "telepules": "Ősi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8162,
         "telepules": "Küngös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8163,
         "telepules": "Csajág",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8164,
         "telepules": "Balatonfőkajár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8171,
         "telepules": "Balatonvilágos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8172,
         "telepules": "Balatonakarattya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8174,
         "telepules": "Balatonkenese",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8175,
         "telepules": "Balatonfűzfő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8181,
         "telepules": "Berhida",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8182,
         "telepules": "Berhida",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8183,
         "telepules": "Papkeszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8184,
         "telepules": "Balatonfűzfő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8191,
         "telepules": "Öskü",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8192,
         "telepules": "Hajmáskér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8193,
         "telepules": "Sóly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8194,
         "telepules": "Vilonya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8195,
         "telepules": "Királyszentistván",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8196,
         "telepules": "Litér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8200,
         "telepules": "Veszprém",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8220,
         "telepules": "Balatonalmádi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8225,
         "telepules": "Szentkirályszabadja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8226,
         "telepules": "Alsóörs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8227,
         "telepules": "Felsőörs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8228,
         "telepules": "Lovas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8229,
         "telepules": "Csopak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8229,
         "telepules": "Paloznak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8230,
         "telepules": "Balatonfüred",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8233,
         "telepules": "Balatonszőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8237,
         "telepules": "Tihany",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8241,
         "telepules": "Aszófő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8242,
         "telepules": "Balatonudvari",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8242,
         "telepules": "Örvényes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8243,
         "telepules": "Balatonakali",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8244,
         "telepules": "Dörgicse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8245,
         "telepules": "Pécsely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8245,
         "telepules": "Vászoly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8246,
         "telepules": "Tótvázsony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8247,
         "telepules": "Hidegkút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8248,
         "telepules": "Nemesvámos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8248,
         "telepules": "Veszprémfajsz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8251,
         "telepules": "Zánka ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8252,
         "telepules": "Balatonszepezd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8253,
         "telepules": "Révfülöp",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8254,
         "telepules": "Kővágóörs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8254,
         "telepules": "Kékkút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8255,
         "telepules": "Balatonrendes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8255,
         "telepules": "Kővágóörs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8256,
         "telepules": "Ábrahámhegy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8256,
         "telepules": "Salföld",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8257,
         "telepules": "Badacsonytomaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8258,
         "telepules": "Badacsonytomaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8261,
         "telepules": "Badacsonytomaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8263,
         "telepules": "Badacsonytördemic",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8264,
         "telepules": "Szigliget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8265,
         "telepules": "Hegymagas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8271,
         "telepules": "Mencshely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8272,
         "telepules": "Szentantalfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8272,
         "telepules": "Balatoncsicsó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8272,
         "telepules": "Óbudavár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8272,
         "telepules": "Szentjakabfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8272,
         "telepules": "Tagyon",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8273,
         "telepules": "Monoszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8274,
         "telepules": "Köveskál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8275,
         "telepules": "Balatonhenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8281,
         "telepules": "Szentbékkálla",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8282,
         "telepules": "Mindszentkálla",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8283,
         "telepules": "Káptalantóti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8284,
         "telepules": "Nemesgulács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8284,
         "telepules": "Kisapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8286,
         "telepules": "Gyulakeszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8291,
         "telepules": "Nagyvázsony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8291,
         "telepules": "Barnag",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8291,
         "telepules": "Pula",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8291,
         "telepules": "Vöröstó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8292,
         "telepules": "Öcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8294,
         "telepules": "Kapolcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8294,
         "telepules": "Vigántpetend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8295,
         "telepules": "Taliándörögd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8296,
         "telepules": "Monostorapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8296,
         "telepules": "Hegyesd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8297,
         "telepules": "Tapolca",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8300,
         "telepules": "Tapolca",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8300,
         "telepules": "Raposka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8308,
         "telepules": "Zalahaláp",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8308,
         "telepules": "Sáska",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8311,
         "telepules": "Nemesvita",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8312,
         "telepules": "Balatonederics",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8313,
         "telepules": "Balatongyörök",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8314,
         "telepules": "Vonyarcvashegy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8315,
         "telepules": "Gyenesdiás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8316,
         "telepules": "Várvölgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8316,
         "telepules": "Vállus",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8317,
         "telepules": "Lesencefalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8318,
         "telepules": "Lesencetomaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8319,
         "telepules": "Lesenceistvánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8321,
         "telepules": "Uzsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8330,
         "telepules": "Sümeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8341,
         "telepules": "Mihályfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8341,
         "telepules": "Kisvásárhely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8341,
         "telepules": "Szalapa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8342,
         "telepules": "Óhíd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8344,
         "telepules": "Zalaerdőd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8344,
         "telepules": "Hetyefő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8345,
         "telepules": "Dabronc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8346,
         "telepules": "Gógánfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8347,
         "telepules": "Ukk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8348,
         "telepules": "Rigács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8348,
         "telepules": "Megyer",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8348,
         "telepules": "Zalameggyes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8349,
         "telepules": "Zalagyömörő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8351,
         "telepules": "Sümegprága",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8352,
         "telepules": "Bazsi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8353,
         "telepules": "Zalaszántó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8353,
         "telepules": "Vindornyalak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8354,
         "telepules": "Karmacs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8354,
         "telepules": "Vindornyafok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8354,
         "telepules": "Zalaköveskút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8355,
         "telepules": "Vindornyaszőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8356,
         "telepules": "Kisgörbő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8356,
         "telepules": "Nagygörbő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8357,
         "telepules": "Sümegcsehi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8357,
         "telepules": "Döbröce",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8360,
         "telepules": "Keszthely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8371,
         "telepules": "Nemesbük",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8372,
         "telepules": "Cserszegtomaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8373,
         "telepules": "Rezi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8380,
         "telepules": "Hévíz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8391,
         "telepules": "Sármellék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8392,
         "telepules": "Zalavár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8393,
         "telepules": "Szentgyörgyvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8394,
         "telepules": "Alsópáhok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8395,
         "telepules": "Felsőpáhok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8400,
         "telepules": "Ajka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8409,
         "telepules": "Úrkút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8411,
         "telepules": "Veszprém",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8412,
         "telepules": "Veszprém",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8413,
         "telepules": "Eplény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8414,
         "telepules": "Olaszfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8415,
         "telepules": "Nagyesztergár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8416,
         "telepules": "Dudar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8417,
         "telepules": "Csetény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8418,
         "telepules": "Bakonyoszlop",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8419,
         "telepules": "Csesznek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8420,
         "telepules": "Zirc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8422,
         "telepules": "Bakonynána",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8423,
         "telepules": "Szápár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8424,
         "telepules": "Jásd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8425,
         "telepules": "Lókút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8426,
         "telepules": "Pénzesgyőr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8427,
         "telepules": "Bakonybél",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8428,
         "telepules": "Borzavár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8429,
         "telepules": "Porva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8430,
         "telepules": "Bakonyszentkirály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8431,
         "telepules": "Bakonyszentlászló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8432,
         "telepules": "Fenyőfő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8433,
         "telepules": "Bakonygyirót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8434,
         "telepules": "Románd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8435,
         "telepules": "Gic",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8438,
         "telepules": "Veszprémvarsány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8439,
         "telepules": "Sikátor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8440,
         "telepules": "Herend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8441,
         "telepules": "Márkó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8442,
         "telepules": "Hárskút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8443,
         "telepules": "Bánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8444,
         "telepules": "Szentgál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8445,
         "telepules": "Városlőd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8445,
         "telepules": "Csehbánya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8446,
         "telepules": "Kislőd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8447,
         "telepules": "Ajka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8448,
         "telepules": "Ajka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8449,
         "telepules": "Magyarpolány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8451,
         "telepules": "Ajka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8452,
         "telepules": "Halimba",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8452,
         "telepules": "Szőc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8454,
         "telepules": "Nyirád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8455,
         "telepules": "Pusztamiske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8456,
         "telepules": "Noszlop",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8457,
         "telepules": "Bakonypölöske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8458,
         "telepules": "Oroszi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8460,
         "telepules": "Devecser",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8468,
         "telepules": "Kolontár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8469,
         "telepules": "Kamond",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8471,
         "telepules": "Káptalanfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8471,
         "telepules": "Bodorfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8471,
         "telepules": "Nemeshany",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8473,
         "telepules": "Gyepükaján",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8474,
         "telepules": "Csabrendek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8475,
         "telepules": "Veszprémgalsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8475,
         "telepules": "Hosztót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8475,
         "telepules": "Szentimrefalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8476,
         "telepules": "Zalaszegvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8477,
         "telepules": "Tüskevár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8477,
         "telepules": "Apácatorna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8477,
         "telepules": "Kisberzseny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8478,
         "telepules": "Somlójenő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8479,
         "telepules": "Borszörcsök",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8481,
         "telepules": "Somlóvásárhely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8482,
         "telepules": "Doba",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8483,
         "telepules": "Somlószőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8483,
         "telepules": "Kisszőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8484,
         "telepules": "Nagyalásony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8484,
         "telepules": "Somlóvecse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8484,
         "telepules": "Vid",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8485,
         "telepules": "Dabrony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8491,
         "telepules": "Karakószörcsök",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8492,
         "telepules": "Kerta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8493,
         "telepules": "Iszkáz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8494,
         "telepules": "Kiscsősz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8495,
         "telepules": "Csögle",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8496,
         "telepules": "Nagypirit",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8496,
         "telepules": "Kispirit",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8497,
         "telepules": "Adorjánháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8497,
         "telepules": "Egeralja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8500,
         "telepules": "Pápa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8511,
         "telepules": "Pápa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8512,
         "telepules": "Nyárád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8513,
         "telepules": "Mihályháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8514,
         "telepules": "Mezőlak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8515,
         "telepules": "Békás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8516,
         "telepules": "Kemeneshőgyész",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8517,
         "telepules": "Magyargencs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8518,
         "telepules": "Kemenesszentpéter",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8521,
         "telepules": "Nagyacsád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8522,
         "telepules": "Nemesgörzsöny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8523,
         "telepules": "Egyházaskesző",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8523,
         "telepules": "Várkesző",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8531,
         "telepules": "Marcaltő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8532,
         "telepules": "Marcaltő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8533,
         "telepules": "Malomsok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8541,
         "telepules": "Takácsi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8542,
         "telepules": "Vaszar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8543,
         "telepules": "Gecse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8551,
         "telepules": "Nagygyimót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8552,
         "telepules": "Vanyola",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8553,
         "telepules": "Lovászpatona",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8554,
         "telepules": "Nagydém",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8555,
         "telepules": "Bakonytamási",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8556,
         "telepules": "Pápateszér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8557,
         "telepules": "Bakonyszentiván",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8557,
         "telepules": "Bakonyság",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8558,
         "telepules": "Csót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8561,
         "telepules": "Adásztevel",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8562,
         "telepules": "Nagytevel",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8563,
         "telepules": "Homokbödöge",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8564,
         "telepules": "Ugod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8565,
         "telepules": "Béb",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8571,
         "telepules": "Bakonykoppány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8572,
         "telepules": "Bakonyszücs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8581,
         "telepules": "Bakonyjákó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8581,
         "telepules": "Németbánya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8582,
         "telepules": "Farkasgyepű",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8591,
         "telepules": "Pápa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8591,
         "telepules": "Nóráp",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8592,
         "telepules": "Dáka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8593,
         "telepules": "Pápadereske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8594,
         "telepules": "Pápasalamon",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8595,
         "telepules": "Kup",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8596,
         "telepules": "Pápakovácsi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8597,
         "telepules": "Ganna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8597,
         "telepules": "Döbrönte",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8598,
         "telepules": "Pápa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8600,
         "telepules": "Siófok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8612,
         "telepules": "Nyim",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8613,
         "telepules": "Balatonendréd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8614,
         "telepules": "Bálványos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8617,
         "telepules": "Kőröshegy ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8618,
         "telepules": "Kereki",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8619,
         "telepules": "Pusztaszemes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8621,
         "telepules": "Zamárdi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8622,
         "telepules": "Szántód",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8623,
         "telepules": "Balatonföldvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8624,
         "telepules": "Balatonszárszó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8625,
         "telepules": "Szólád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8626,
         "telepules": "Teleki",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8627,
         "telepules": "Kötcse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8628,
         "telepules": "Nagycsepely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8630,
         "telepules": "Balatonboglár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8635,
         "telepules": "Ordacsehi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8636,
         "telepules": "Balatonszemes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8637,
         "telepules": "Balatonőszöd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8638,
         "telepules": "Balatonlelle",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8640,
         "telepules": "Fonyód",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8646,
         "telepules": "Balatonfenyves",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8647,
         "telepules": "Balatonmáriafürdő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8648,
         "telepules": "Balatonkeresztúr ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8649,
         "telepules": "Balatonberény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8651,
         "telepules": "Balatonszabadi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8652,
         "telepules": "Siójut",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8653,
         "telepules": "Ádánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8654,
         "telepules": "Ságvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8655,
         "telepules": "Som",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8656,
         "telepules": "Nagyberény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8658,
         "telepules": "Bábonymegyer",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8660,
         "telepules": "Tab",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8660,
         "telepules": "Lulla",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8660,
         "telepules": "Sérsekszőlős",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8660,
         "telepules": "Torvaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8660,
         "telepules": "Zala",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8666,
         "telepules": "Bedegkér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8666,
         "telepules": "Somogyegres",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8667,
         "telepules": "Kánya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8668,
         "telepules": "Tengőd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8669,
         "telepules": "Miklósi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8671,
         "telepules": "Kapoly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8672,
         "telepules": "Zics",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8673,
         "telepules": "Somogymeggyes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8674,
         "telepules": "Nágocs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8675,
         "telepules": "Andocs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8676,
         "telepules": "Karád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8681,
         "telepules": "Látrány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8681,
         "telepules": "Visz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8683,
         "telepules": "Somogytúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8684,
         "telepules": "Somogybabod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8685,
         "telepules": "Gamás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8691,
         "telepules": "Balatonboglár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8692,
         "telepules": "Szőlősgyörök",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8692,
         "telepules": "Gyugy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8693,
         "telepules": "Lengyeltóti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8693,
         "telepules": "Kisberény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8694,
         "telepules": "Hács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8695,
         "telepules": "Buzsák",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8696,
         "telepules": "Táska",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8697,
         "telepules": "Öreglak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8698,
         "telepules": "Somogyvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8698,
         "telepules": "Pamuk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8699,
         "telepules": "Somogyvámos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8700,
         "telepules": "Marcali",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8700,
         "telepules": "Csömend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8705,
         "telepules": "Somogyszentpál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8706,
         "telepules": "Nikla",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8707,
         "telepules": "Pusztakovácsi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8707,
         "telepules": "Libickozma",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8708,
         "telepules": "Somogyfajsz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8709,
         "telepules": "Marcali",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8710,
         "telepules": "Balatonszentgyörgy ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8711,
         "telepules": "Vörs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8712,
         "telepules": "Balatonújlak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8713,
         "telepules": "Kéthely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8714,
         "telepules": "Marcali",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8714,
         "telepules": "Kelevíz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8715,
         "telepules": "Gadány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8716,
         "telepules": "Mesztegnyő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8716,
         "telepules": "Hosszúvíz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8717,
         "telepules": "Szenyér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8717,
         "telepules": "Nemeskisfalud",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8718,
         "telepules": "Tapsony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8719,
         "telepules": "Böhönye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8721,
         "telepules": "Vése",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8722,
         "telepules": "Nemesdéd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8723,
         "telepules": "Varászló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8724,
         "telepules": "Inke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8725,
         "telepules": "Iharosberény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8726,
         "telepules": "Iharos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8726,
         "telepules": "Somogycsicsó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8728,
         "telepules": "Pogányszentpéter",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8731,
         "telepules": "Hollád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8731,
         "telepules": "Tikos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8732,
         "telepules": "Sávoly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8732,
         "telepules": "Főnyed",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8732,
         "telepules": "Szegerdő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8733,
         "telepules": "Somogysámson",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8734,
         "telepules": "Somogyzsitfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8735,
         "telepules": "Csákány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8736,
         "telepules": "Szőkedencs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8737,
         "telepules": "Somogysimonyi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8738,
         "telepules": "Nemesvid",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8739,
         "telepules": "Nagyszakácsi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8741,
         "telepules": "Zalaapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8741,
         "telepules": "Bókaháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8742,
         "telepules": "Esztergályhorváti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8743,
         "telepules": "Zalaszabar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8744,
         "telepules": "Orosztony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8745,
         "telepules": "Kerecseny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8746,
         "telepules": "Nagyrada",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8747,
         "telepules": "Garabonc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8747,
         "telepules": "Zalamerenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8749,
         "telepules": "Zalakaros",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8751,
         "telepules": "Zalakomár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8752,
         "telepules": "Zalakomár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8753,
         "telepules": "Balatonmagyaród",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8754,
         "telepules": "Galambok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8756,
         "telepules": "Nagyrécse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8756,
         "telepules": "Csapi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8756,
         "telepules": "Kisrécse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8756,
         "telepules": "Zalasárszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8761,
         "telepules": "Pacsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8761,
         "telepules": "Zalaigrice",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8762,
         "telepules": "Szentpéterúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8762,
         "telepules": "Gétye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8764,
         "telepules": "Dióskál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8764,
         "telepules": "Zalaszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8765,
         "telepules": "Egeraracsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8767,
         "telepules": "Felsőrajk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8767,
         "telepules": "Alsórajk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8767,
         "telepules": "Pötréte",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8771,
         "telepules": "Hahót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8772,
         "telepules": "Zalaszentbalázs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8772,
         "telepules": "Börzönce",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8773,
         "telepules": "Pölöskefő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8773,
         "telepules": "Kacorlak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8774,
         "telepules": "Gelse",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8774,
         "telepules": "Gelsesziget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8774,
         "telepules": "Kilimán",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8776,
         "telepules": "Magyarszerdahely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8776,
         "telepules": "Bocska",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8776,
         "telepules": "Magyarszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8777,
         "telepules": "Hosszúvölgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8777,
         "telepules": "Fűzvölgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8777,
         "telepules": "Homokkomárom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8778,
         "telepules": "Újudvar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8782,
         "telepules": "Zalacsány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8782,
         "telepules": "Ligetfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8782,
         "telepules": "Tilaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8784,
         "telepules": "Kehidakustány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8785,
         "telepules": "Zalaszentgrót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8785,
         "telepules": "Kallósd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8788,
         "telepules": "Zalaszentlászló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8788,
         "telepules": "Sénye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8789,
         "telepules": "Zalaszentgrót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8790,
         "telepules": "Zalaszentgrót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8792,
         "telepules": "Zalavég",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8793,
         "telepules": "Tekenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8795,
         "telepules": "Zalaszentgrót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8796,
         "telepules": "Türje",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8797,
         "telepules": "Batyk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8798,
         "telepules": "Zalabér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8799,
         "telepules": "Pakod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8799,
         "telepules": "Dötk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8800,
         "telepules": "Nagykanizsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8808,
         "telepules": "Nagykanizsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8809,
         "telepules": "Nagykanizsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8821,
         "telepules": "Nagybakónak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8822,
         "telepules": "Zalaújlak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8824,
         "telepules": "Sand",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8825,
         "telepules": "Miháld",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8825,
         "telepules": "Pat",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8827,
         "telepules": "Zalaszentjakab",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8831,
         "telepules": "Nagykanizsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8832,
         "telepules": "Liszó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8834,
         "telepules": "Murakeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8835,
         "telepules": "Fityeház",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8840,
         "telepules": "Csurgó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8840,
         "telepules": "Csurgónagymarton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8849,
         "telepules": "Szenta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8851,
         "telepules": "Gyékényes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8852,
         "telepules": "Zákány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8853,
         "telepules": "Zákányfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8854,
         "telepules": "Őrtilos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8855,
         "telepules": "Belezna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8856,
         "telepules": "Surd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8857,
         "telepules": "Nemespátró",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8858,
         "telepules": "Porrog",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8858,
         "telepules": "Porrogszentkirály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8858,
         "telepules": "Porrogszentpál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8858,
         "telepules": "Somogybükkösd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8861,
         "telepules": "Szepetnek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8862,
         "telepules": "Semjénháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8863,
         "telepules": "Molnári",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8864,
         "telepules": "Tótszerdahely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8865,
         "telepules": "Tótszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8866,
         "telepules": "Becsehely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8866,
         "telepules": "Petrivente",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8868,
         "telepules": "Letenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8868,
         "telepules": "Kistolmács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8868,
         "telepules": "Murarátka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8868,
         "telepules": "Zajk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8872,
         "telepules": "Muraszemenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8872,
         "telepules": "Szentmargitfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8873,
         "telepules": "Csörnyeföld",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8874,
         "telepules": "Dobri",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8874,
         "telepules": "Kerkaszentkirály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8876,
         "telepules": "Tormafölde",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8877,
         "telepules": "Tornyiszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8878,
         "telepules": "Lovászi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8879,
         "telepules": "Szécsisziget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8879,
         "telepules": "Kerkateskánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8881,
         "telepules": "Sormás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8882,
         "telepules": "Eszteregnye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8883,
         "telepules": "Rigyác",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8885,
         "telepules": "Borsfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8885,
         "telepules": "Valkonya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8886,
         "telepules": "Oltárc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8887,
         "telepules": "Bázakerettye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8887,
         "telepules": "Lasztonya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8888,
         "telepules": "Lispeszentadorján",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8888,
         "telepules": "Kiscsehi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8888,
         "telepules": "Maróc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8891,
         "telepules": "Bánokszentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8891,
         "telepules": "Várfölde",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8893,
         "telepules": "Szentliszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8893,
         "telepules": "Bucsuta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8895,
         "telepules": "Pusztamagyaród",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8896,
         "telepules": "Pusztaszentlászló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8897,
         "telepules": "Söjtör",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8900,
         "telepules": "Zalaegerszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8904,
         "telepules": "Zalaegerszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8911,
         "telepules": "Nagykutas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8911,
         "telepules": "Kiskutas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8912,
         "telepules": "Kispáli",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8912,
         "telepules": "Nagypáli",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8913,
         "telepules": "Egervár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8913,
         "telepules": "Gősfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8913,
         "telepules": "Lakhegy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8914,
         "telepules": "Vasboldogasszony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8915,
         "telepules": "Nemesrádó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8917,
         "telepules": "Milejszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8918,
         "telepules": "Csonkahegyhát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8918,
         "telepules": "Németfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8919,
         "telepules": "Kustánszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8921,
         "telepules": "Zalaszentiván",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8921,
         "telepules": "Alibánfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8921,
         "telepules": "Pethőhenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8921,
         "telepules": "Zalaszentlőrinc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8923,
         "telepules": "Nemesapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8924,
         "telepules": "Alsónemesapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8925,
         "telepules": "Búcsúszentlászló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8925,
         "telepules": "Nemessándorháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8925,
         "telepules": "Nemesszentandrás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8926,
         "telepules": "Kisbucsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8928,
         "telepules": "Nemeshetés",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8929,
         "telepules": "Pölöske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8931,
         "telepules": "Kemendollár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8931,
         "telepules": "Vöckönd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8932,
         "telepules": "Pókaszepetk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8932,
         "telepules": "Gyűrűs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8932,
         "telepules": "Zalaistvánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8934,
         "telepules": "Bezeréd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8935,
         "telepules": "Nagykapornak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8935,
         "telepules": "Almásháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8935,
         "telepules": "Misefa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8935,
         "telepules": "Orbányosfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8935,
         "telepules": "Padár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8936,
         "telepules": "Zalaszentmihály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8943,
         "telepules": "Bocfölde",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8943,
         "telepules": "Csatár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8944,
         "telepules": "Sárhida",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8945,
         "telepules": "Bak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8946,
         "telepules": "Tófej",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8946,
         "telepules": "Baktüttös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8946,
         "telepules": "Pusztaederics",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8947,
         "telepules": "Zalatárnok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8947,
         "telepules": "Szentkozmadombja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8948,
         "telepules": "Nova",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8948,
         "telepules": "Barlahida",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8949,
         "telepules": "Mikekarácsonyfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8951,
         "telepules": "Gutorfölde",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8951,
         "telepules": "Csertalakos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8953,
         "telepules": "Szentpéterfölde",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8954,
         "telepules": "Ortaháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8956,
         "telepules": "Páka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8956,
         "telepules": "Kányavár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8956,
         "telepules": "Pördefölde",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8957,
         "telepules": "Csömödér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8957,
         "telepules": "Hernyék",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8957,
         "telepules": "Kissziget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8957,
         "telepules": "Zebecke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8958,
         "telepules": "Iklódbördőce",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8960,
         "telepules": "Lenti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8960,
         "telepules": "Gosztola",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8966,
         "telepules": "Lenti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8969,
         "telepules": "Gáborjánháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8969,
         "telepules": "Bödeháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8969,
         "telepules": "Szijártóháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8969,
         "telepules": "Zalaszombatfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8971,
         "telepules": "Zalabaksa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8971,
         "telepules": "Kerkabarabás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8973,
         "telepules": "Csesztreg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8973,
         "telepules": "Alsószenterzsébet",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8973,
         "telepules": "Felsőszenterzsébet",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8973,
         "telepules": "Kerkafalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8973,
         "telepules": "Kerkakutas",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8973,
         "telepules": "Magyarföld",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8973,
         "telepules": "Ramocsa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8975,
         "telepules": "Szentgyörgyvölgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8976,
         "telepules": "Nemesnép",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8976,
         "telepules": "Márokföld",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8977,
         "telepules": "Resznek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8977,
         "telepules": "Baglad",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8977,
         "telepules": "Lendvajakabfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8978,
         "telepules": "Rédics",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8978,
         "telepules": "Belsősárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8978,
         "telepules": "Külsősárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8978,
         "telepules": "Lendvadedes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8981,
         "telepules": "Gellénháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8981,
         "telepules": "Lickóvadamos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8983,
         "telepules": "Nagylengyel",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8983,
         "telepules": "Babosdöbréte",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8983,
         "telepules": "Ormándlak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8984,
         "telepules": "Petrikeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8984,
         "telepules": "Gombosszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8984,
         "telepules": "Iborfia",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8985,
         "telepules": "Becsvölgye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8986,
         "telepules": "Pórszombat",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8986,
         "telepules": "Pusztaapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8986,
         "telepules": "Szilvágy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8988,
         "telepules": "Kálócfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8988,
         "telepules": "Kozmadombja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8989,
         "telepules": "Dobronhegy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8990,
         "telepules": "Pálfiszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8991,
         "telepules": "Teskánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8991,
         "telepules": "Böde",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8991,
         "telepules": "Hottó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8992,
         "telepules": "Bagod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8992,
         "telepules": "Boncodfölde",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8992,
         "telepules": "Hagyárosbörönd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8992,
         "telepules": "Zalaboldogfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8994,
         "telepules": "Zalaszentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8994,
         "telepules": "Kávás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8995,
         "telepules": "Salomvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8995,
         "telepules": "Keménfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8996,
         "telepules": "Zalacséb",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8997,
         "telepules": "Zalaháshágy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8998,
         "telepules": "Vaspör",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8998,
         "telepules": "Ozmánbük",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8999,
         "telepules": "Zalalövő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 8999,
         "telepules": "Csöde",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9000,
         "telepules": "Győr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9061,
         "telepules": "Vámosszabadi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9062,
         "telepules": "Kisbajcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9062,
         "telepules": "Vének",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9063,
         "telepules": "Nagybajcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9064,
         "telepules": "Vámosszabadi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9071,
         "telepules": "Gönyű",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9072,
         "telepules": "Nagyszentjános",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9073,
         "telepules": "Bőny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9074,
         "telepules": "Rétalap",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9081,
         "telepules": "Győrújbarát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9082,
         "telepules": "Nyúl",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9083,
         "telepules": "Écs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9084,
         "telepules": "Győrság",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9085,
         "telepules": "Pázmándfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9086,
         "telepules": "Töltéstava",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9088,
         "telepules": "Bakonypéterd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9089,
         "telepules": "Lázi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9090,
         "telepules": "Pannonhalma",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9091,
         "telepules": "Ravazd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9092,
         "telepules": "Tarjánpuszta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9093,
         "telepules": "Győrasszonyfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9094,
         "telepules": "Tápszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9095,
         "telepules": "Táp",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9096,
         "telepules": "Nyalka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9097,
         "telepules": "Mezőörs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9098,
         "telepules": "Mezőörs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9099,
         "telepules": "Pér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9100,
         "telepules": "Tét",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9111,
         "telepules": "Tényő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9112,
         "telepules": "Sokorópátka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9113,
         "telepules": "Koroncó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9121,
         "telepules": "Győrszemere",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9122,
         "telepules": "Felpéc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9123,
         "telepules": "Kajárpéc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9124,
         "telepules": "Gyömöre",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9125,
         "telepules": "Szerecseny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9126,
         "telepules": "Gyarmat",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9127,
         "telepules": "Csikvánd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9131,
         "telepules": "Mórichida",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9132,
         "telepules": "Árpás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9133,
         "telepules": "Kisbabot",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9133,
         "telepules": "Rábaszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9134,
         "telepules": "Bodonhely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9135,
         "telepules": "Rábaszentmihály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9136,
         "telepules": "Rábacsécsény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9136,
         "telepules": "Mérges",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9141,
         "telepules": "Ikrény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9142,
         "telepules": "Rábapatona",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9143,
         "telepules": "Enese",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9144,
         "telepules": "Kóny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9145,
         "telepules": "Bágyogszovát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9146,
         "telepules": "Rábapordány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9147,
         "telepules": "Dör",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9151,
         "telepules": "Abda",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9152,
         "telepules": "Börcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9153,
         "telepules": "Öttevény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9154,
         "telepules": "Mosonszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9155,
         "telepules": "Lébény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9161,
         "telepules": "Győrsövényház",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9162,
         "telepules": "Bezi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9163,
         "telepules": "Fehértó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9164,
         "telepules": "Markotabödöge",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9165,
         "telepules": "Rábcakapi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9165,
         "telepules": "Cakóháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9165,
         "telepules": "Tárnokréti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9167,
         "telepules": "Bősárkány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9167,
         "telepules": "Jánossomorja    ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9168,
         "telepules": "Acsalag",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9168,
         "telepules": "Csorna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9169,
         "telepules": "Barbacs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9169,
         "telepules": "Maglóca",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9171,
         "telepules": "Győrújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9172,
         "telepules": "Győrzámoly",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9173,
         "telepules": "Győrladamér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9174,
         "telepules": "Dunaszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9175,
         "telepules": "Dunaszentpál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9176,
         "telepules": "Mecsér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9177,
         "telepules": "Ásványráró",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9178,
         "telepules": "Hédervár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9181,
         "telepules": "Kimle",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9182,
         "telepules": "Károlyháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9183,
         "telepules": "Mosonszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9183,
         "telepules": "Mosonszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9184,
         "telepules": "Kunsziget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9200,
         "telepules": "Mosonmagyaróvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9211,
         "telepules": "Feketeerdő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9221,
         "telepules": "Levél",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9222,
         "telepules": "Hegyeshalom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9223,
         "telepules": "Bezenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9224,
         "telepules": "Rajka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9225,
         "telepules": "Dunakiliti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9226,
         "telepules": "Dunasziget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9228,
         "telepules": "Halászi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9231,
         "telepules": "Máriakálnok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9232,
         "telepules": "Darnózseli",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9233,
         "telepules": "Lipót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9234,
         "telepules": "Kisbodak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9235,
         "telepules": "Püski",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9235,
         "telepules": "Dunaremete",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9241,
         "telepules": "Jánossomorja    ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9241,
         "telepules": "Jánossomorja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9242,
         "telepules": "Jánossomorja    ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9243,
         "telepules": "Várbalog",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9244,
         "telepules": "Újrónafő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9245,
         "telepules": "Mosonszolnok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9246,
         "telepules": "Mosonudvar",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9300,
         "telepules": "Csorna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9311,
         "telepules": "Pásztori",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9312,
         "telepules": "Szilsárkány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9313,
         "telepules": "Rábacsanak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9314,
         "telepules": "Egyed",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9315,
         "telepules": "Sobor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9316,
         "telepules": "Rábaszentandrás",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9317,
         "telepules": "Szany",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9321,
         "telepules": "Farád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9322,
         "telepules": "Rábatamási",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9323,
         "telepules": "Jobaháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9324,
         "telepules": "Bogyoszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9324,
         "telepules": "Potyond",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9325,
         "telepules": "Sopronnémeti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9326,
         "telepules": "Szil",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9327,
         "telepules": "Vág",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9327,
         "telepules": "Rábasebes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9330,
         "telepules": "Kapuvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9339,
         "telepules": "Kapuvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9341,
         "telepules": "Kisfalud",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9342,
         "telepules": "Mihályi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9343,
         "telepules": "Beled",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9343,
         "telepules": "Edve",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9343,
         "telepules": "Vásárosfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9344,
         "telepules": "Rábakecöl",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9345,
         "telepules": "Páli",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9346,
         "telepules": "Magyarkeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9346,
         "telepules": "Vadosfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9346,
         "telepules": "Zsebeháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9351,
         "telepules": "Babót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9352,
         "telepules": "Veszkény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9353,
         "telepules": "Szárföld",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9354,
         "telepules": "Osli",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9361,
         "telepules": "Hövej",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9362,
         "telepules": "Himod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9363,
         "telepules": "Gyóró",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9364,
         "telepules": "Cirák",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9365,
         "telepules": "Dénesfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9371,
         "telepules": "Vitnyéd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9372,
         "telepules": "Csapod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9373,
         "telepules": "Pusztacsalád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9374,
         "telepules": "Iván",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9375,
         "telepules": "Répceszemere",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9375,
         "telepules": "Csáfordjánosfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9375,
         "telepules": "Csér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9400,
         "telepules": "Sopron",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9407,
         "telepules": "Sopron",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9408,
         "telepules": "Sopron",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9421,
         "telepules": "Fertőrákos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9422,
         "telepules": "Harka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9423,
         "telepules": "Ágfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9431,
         "telepules": "Fertőd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9433,
         "telepules": "Fertőd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9434,
         "telepules": "Sarród",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9435,
         "telepules": "Sarród",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9436,
         "telepules": "Fertőszéplak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9437,
         "telepules": "Hegykő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9438,
         "telepules": "Sarród",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9441,
         "telepules": "Agyagosszergény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9442,
         "telepules": "Fertőendréd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9443,
         "telepules": "Petőháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9444,
         "telepules": "Fertőszentmiklós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9451,
         "telepules": "Röjtökmuzsaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9451,
         "telepules": "Ebergőc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9461,
         "telepules": "Lövő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9462,
         "telepules": "Völcsej",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9463,
         "telepules": "Sopronhorpács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9464,
         "telepules": "Und",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9471,
         "telepules": "Nemeskér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9472,
         "telepules": "Újkér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9473,
         "telepules": "Egyházasfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9474,
         "telepules": "Szakony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9474,
         "telepules": "Gyalóka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9475,
         "telepules": "Répcevis",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9476,
         "telepules": "Zsira",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9481,
         "telepules": "Pinnye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9482,
         "telepules": "Nagylózs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9483,
         "telepules": "Sopronkövesd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9484,
         "telepules": "Pereszteg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9485,
         "telepules": "Nagycenk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9491,
         "telepules": "Hidegség",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9492,
         "telepules": "Fertőhomok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9493,
         "telepules": "Fertőboz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9494,
         "telepules": "Sopron",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9495,
         "telepules": "Kópháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9500,
         "telepules": "Celldömölk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9511,
         "telepules": "Kemenesmihályfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9512,
         "telepules": "Ostffyasszonyfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9513,
         "telepules": "Csönge",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9514,
         "telepules": "Kenyeri",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9515,
         "telepules": "Pápoc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9516,
         "telepules": "Vönöck",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9517,
         "telepules": "Kemenessömjén",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9521,
         "telepules": "Kemenesszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9522,
         "telepules": "Kemenesmagasi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9523,
         "telepules": "Szergény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9531,
         "telepules": "Mersevát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9532,
         "telepules": "Külsővat",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9533,
         "telepules": "Nemesszalók",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9534,
         "telepules": "Marcalgergelyi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9534,
         "telepules": "Vinár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9541,
         "telepules": "Celldömölk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9542,
         "telepules": "Boba",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9542,
         "telepules": "Nemeskocs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9544,
         "telepules": "Kemenespálfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9545,
         "telepules": "Jánosháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9547,
         "telepules": "Karakó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9548,
         "telepules": "Nemeskeresztúr",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9549,
         "telepules": "Keléd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9551,
         "telepules": "Mesteri",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9552,
         "telepules": "Vásárosmiske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9553,
         "telepules": "Köcsk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9553,
         "telepules": "Kemeneskápolna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9554,
         "telepules": "Egyházashetye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9554,
         "telepules": "Borgáta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9555,
         "telepules": "Kissomlyó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9556,
         "telepules": "Duka",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9561,
         "telepules": "Nagysimonyi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9561,
         "telepules": "Tokorcs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9600,
         "telepules": "Sárvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9608,
         "telepules": "Sárvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9609,
         "telepules": "Sárvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9611,
         "telepules": "Csénye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9612,
         "telepules": "Bögöt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9612,
         "telepules": "Porpác",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9621,
         "telepules": "Ölbő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9622,
         "telepules": "Szeleste",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9623,
         "telepules": "Répceszentgyörgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9624,
         "telepules": "Chernelházadamonya",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9625,
         "telepules": "Bő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9625,
         "telepules": "Gór",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9631,
         "telepules": "Hegyfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9632,
         "telepules": "Sajtoskál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9633,
         "telepules": "Simaság",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9634,
         "telepules": "Lócs",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9634,
         "telepules": "Iklanberény",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9635,
         "telepules": "Zsédeny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9636,
         "telepules": "Pósfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9641,
         "telepules": "Rábapaty",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9643,
         "telepules": "Jákfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9651,
         "telepules": "Uraiújfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9652,
         "telepules": "Nick",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9653,
         "telepules": "Répcelak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9654,
         "telepules": "Csánig",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9661,
         "telepules": "Vasegerszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9662,
         "telepules": "Tompaládony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9662,
         "telepules": "Mesterháza",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9663,
         "telepules": "Nemesládony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9664,
         "telepules": "Nagygeresd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9665,
         "telepules": "Vámoscsalád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9671,
         "telepules": "Sitke",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9672,
         "telepules": "Gérce",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9673,
         "telepules": "Káld",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9674,
         "telepules": "Vashosszúfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9675,
         "telepules": "Bögöte",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9676,
         "telepules": "Hosszúpereszteg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9681,
         "telepules": "Sótony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9682,
         "telepules": "Nyőgér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9683,
         "telepules": "Bejcgyertyános",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9684,
         "telepules": "Egervölgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9685,
         "telepules": "Szemenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9700,
         "telepules": "Szombathely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9707,
         "telepules": "Szombathely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9721,
         "telepules": "Gencsapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9722,
         "telepules": "Perenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9723,
         "telepules": "Gyöngyösfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9724,
         "telepules": "Lukácsháza ",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9725,
         "telepules": "Kőszegszerdahely",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9725,
         "telepules": "Cák",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9725,
         "telepules": "Kőszegdoroszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9726,
         "telepules": "Velem",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9727,
         "telepules": "Bozsok",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9730,
         "telepules": "Kőszeg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9733,
         "telepules": "Horvátzsidány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9733,
         "telepules": "Kiszsidány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9733,
         "telepules": "Ólmod",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9734,
         "telepules": "Peresznye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9735,
         "telepules": "Csepreg",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9736,
         "telepules": "Tormásliget",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9737,
         "telepules": "Bük",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9738,
         "telepules": "Tömörd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9739,
         "telepules": "Nemescsó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9739,
         "telepules": "Kőszegpaty",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9739,
         "telepules": "Pusztacsó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9740,
         "telepules": "Bük",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9741,
         "telepules": "Vassurány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9742,
         "telepules": "Salköveskút",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9743,
         "telepules": "Söpte",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9744,
         "telepules": "Vasasszonyfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9745,
         "telepules": "Meszlen",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9746,
         "telepules": "Acsád",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9747,
         "telepules": "Vasszilvágy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9748,
         "telepules": "Vát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9749,
         "telepules": "Nemesbőd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9751,
         "telepules": "Vép",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9752,
         "telepules": "Bozzai",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9752,
         "telepules": "Kenéz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9754,
         "telepules": "Pecöl",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9754,
         "telepules": "Megyehíd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9756,
         "telepules": "Ikervár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9757,
         "telepules": "Meggyeskovácsi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9761,
         "telepules": "Táplánszentkereszt",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9762,
         "telepules": "Tanakajd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9763,
         "telepules": "Vasszécseny",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9764,
         "telepules": "Csempeszkopács",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9764,
         "telepules": "Meggyeskovácsi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9766,
         "telepules": "Rum",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9766,
         "telepules": "Rábatöttös",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9766,
         "telepules": "Zsennye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9771,
         "telepules": "Balogunyom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9772,
         "telepules": "Kisunyom",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9773,
         "telepules": "Sorokpolány",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9774,
         "telepules": "Sorkifalud",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9774,
         "telepules": "Gyanógeregye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9774,
         "telepules": "Sorkikápolna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9775,
         "telepules": "Nemeskolta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9776,
         "telepules": "Püspökmolnári",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9777,
         "telepules": "Rábahídvég",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9781,
         "telepules": "Egyházashollós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9782,
         "telepules": "Nemesrempehollós",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9783,
         "telepules": "Egyházasrádóc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9784,
         "telepules": "Rádóckölked",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9784,
         "telepules": "Harasztifalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9784,
         "telepules": "Nagykölked",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9789,
         "telepules": "Sé",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9791,
         "telepules": "Torony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9791,
         "telepules": "Dozmat",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9792,
         "telepules": "Bucsu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9793,
         "telepules": "Narda",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9794,
         "telepules": "Felsőcsatár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9795,
         "telepules": "Vaskeresztes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9796,
         "telepules": "Pornóapáti",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9796,
         "telepules": "Horvátlövő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9797,
         "telepules": "Nárai",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9798,
         "telepules": "Ják",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9799,
         "telepules": "Szentpéterfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9800,
         "telepules": "Vasvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9811,
         "telepules": "Andrásfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9812,
         "telepules": "Telekes",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9813,
         "telepules": "Gersekarát",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9813,
         "telepules": "Sárfimizdó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9814,
         "telepules": "Halastó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9821,
         "telepules": "Győrvár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9821,
         "telepules": "Hegyhátszentpéter",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9823,
         "telepules": "Pácsony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9824,
         "telepules": "Olaszfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9825,
         "telepules": "Oszkó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9826,
         "telepules": "Petőmihályfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9831,
         "telepules": "Bérbaltavár",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9832,
         "telepules": "Nagytilaj",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9833,
         "telepules": "Csehi",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9834,
         "telepules": "Csehimindszent",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9835,
         "telepules": "Mikosszéplak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9836,
         "telepules": "Csipkerek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9841,
         "telepules": "Kám",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9842,
         "telepules": "Alsóújlak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9900,
         "telepules": "Körmend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9909,
         "telepules": "Körmend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9909,
         "telepules": "Magyarnádalja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9912,
         "telepules": "Molnaszecsőd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9912,
         "telepules": "Magyarszecsőd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9913,
         "telepules": "Szarvaskend",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9913,
         "telepules": "Döröske",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9913,
         "telepules": "Nagymizdó",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9914,
         "telepules": "Döbörhegy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9915,
         "telepules": "Nádasd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9915,
         "telepules": "Hegyháthodász",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9915,
         "telepules": "Hegyhátsál",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9915,
         "telepules": "Katafa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9917,
         "telepules": "Halogy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9917,
         "telepules": "Daraboshegy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9918,
         "telepules": "Felsőmarác",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9919,
         "telepules": "Csákánydoroszló",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9921,
         "telepules": "Vasalja",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9922,
         "telepules": "Pinkamindszent",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9923,
         "telepules": "Kemestaródfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9931,
         "telepules": "Ivánc",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9931,
         "telepules": "Hegyhátszentmárton",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9932,
         "telepules": "Viszák",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9933,
         "telepules": "Őrimagyarósd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9934,
         "telepules": "Hegyhátszentjakab",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9934,
         "telepules": "Felsőjánosfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9934,
         "telepules": "Szaknyér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9935,
         "telepules": "Szőce",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9936,
         "telepules": "Kisrákos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9937,
         "telepules": "Pankasz",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9938,
         "telepules": "Nagyrákos",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9938,
         "telepules": "Szatta",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9941,
         "telepules": "Őriszentpéter",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9941,
         "telepules": "Ispánk",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9942,
         "telepules": "Szalafő",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9943,
         "telepules": "Kondorfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9944,
         "telepules": "Bajánsenye",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9944,
         "telepules": "Kerkáskápolna",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9945,
         "telepules": "Kercaszomor",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9946,
         "telepules": "Magyarszombatfa",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9946,
         "telepules": "Velemér",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9951,
         "telepules": "Rátót",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9952,
         "telepules": "Gasztony",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9953,
         "telepules": "Vasszentmihály",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9953,
         "telepules": "Nemesmedves",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9954,
         "telepules": "Rönök",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9955,
         "telepules": "Szentgotthárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9961,
         "telepules": "Rábagyarmat",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9962,
         "telepules": "Csörötnek",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9962,
         "telepules": "Magyarlak",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9970,
         "telepules": "Szentgotthárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9981,
         "telepules": "Szentgotthárd",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9982,
         "telepules": "Apátistvánfalva",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9982,
         "telepules": "Kétvölgy",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9982,
         "telepules": "Orfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9983,
         "telepules": "Alsószölnök",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9983,
         "telepules": "Szakonyfalu",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 9985,
         "telepules": "Felsőszölnök",
-        "kerulet": null,
-        "kozterulet": null,
-        "terulet_jellege": null
+        "kerulet": None,
+        "kozterulet": None,
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 1173,
@@ -31814,7 +31813,7 @@ irsz = [
         "telepules": "Budapest",
         "kerulet": "XVIII.",
         "kozterulet": "BUD Nemzetközi Repülőtér",
-        "terulet_jellege": null
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 1033,
@@ -53367,7 +53366,7 @@ irsz = [
         "telepules": "Budapest",
         "kerulet": "XVI.",
         "kozterulet": "Kertvárosi Olimpikonok Parkja",
-        "terulet_jellege": null
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 1174,
@@ -66478,14 +66477,14 @@ irsz = [
         "telepules": "Budapest",
         "kerulet": "VI.",
         "kozterulet": "Oktogon",
-        "terulet_jellege": null
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 1067,
         "telepules": "Budapest",
         "kerulet": "VI.",
         "kozterulet": "Oktogon",
-        "terulet_jellege": null
+        "terulet_jellege": None
     },
     {
         "iranyitoszam": 1106,
@@ -90848,7 +90847,6 @@ irsz = [
         "terulet_jellege": "tér"
     }
 ]
-
 vezeteknev = ['Kovács', 'Nagy', 'Kiss', 'Tóth', 'Varga', 'Farkas', 'Horváth', 'Szabó', 'Molnár', 'Balázs',
               'Lakatos', 'Takács', 'Papp', 'Katona', 'Szilágyi', 'Balogh', 'Gulyás', 'Szőke', 'Simon', 'Fehér',
               'Barta', 'Császár', 'Sándor', 'Fodor', 'Bakos', 'László', 'Kerekes', 'Fekete', 'Török', 'Pintér',
@@ -91677,3 +91675,4 @@ def fel_kerekit(szam):
 
 def le_kerekit(szam):
     return int(szam // 1)
+
