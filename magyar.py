@@ -1,6 +1,6 @@
 # Magyar nevek listái
 
-IRSZ = [
+irsz = [
     {
         "iranyitoszam": 2000,
         "telepules": "Szentendre",
