@@ -183,8 +183,7 @@ Azonos szélességi, hosszúsági körön lévő Magyar települések listázás
 <BR>
 **Postai irányítószámok - ZIP**  <BR><BR>
 magyar.irsz <BR><BR>
-Adatstruktúra : irsz = [
-    {
+Adatstruktúra : irsz = [ {
         "iranyitoszam": 2000,
         "telepules": "Szentendre",
         "kerulet": NaN,
