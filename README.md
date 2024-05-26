@@ -180,15 +180,15 @@ Magyarosrági települések GPS koordinátáinak keresése:
 <BR>
 Azonos szélességi, hosszúsági körön lévő Magyar települések listázása: <BR>
 ![GPS Keresés](https://raw.githubusercontent.com/kobanya/nevek/master/GPS_azonos.png)
-<BR>
+<BR><BR>
 **Postai irányítószámok - ZIP**  <BR><BR>
 magyar.irsz <BR><BR>
 Adatstruktúra : irsz = [ {
         "iranyitoszam": 2000,
         "telepules": "Szentendre",
-        "kerulet": NaN,
-        "kozterulet": NaN,
-        "terulet_jellege": NaN
+        "kerulet": null,
+        "kozterulet": null,
+        "terulet_jellege": null
     },]  <BR><BR>
 ## Szerző
 
