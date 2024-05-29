@@ -191,6 +191,26 @@ Adatstruktúra : irsz = [ {
         "terulet_jellege": None
     },]  <BR><BR>
 ![GPS Keresés](https://raw.githubusercontent.com/kobanya/nevek/master/irsz.png)
+<BR><BR>
+**Határon túli települések magyar nevei, magyar és a ma hivatalos nyelven**
+<BR><BR>
+magyar.hatarontuli 
+<BR><BR>
+
+Adatstruktúra : hatarontuli= [ {
+    "Abafája": {
+        "mai_hivatalos_nev": "Apalina",
+        "orszag": "RO"
+    },
+    "Abafalva": {
+        "mai_hivatalos_nev": "Abovce",
+        "orszag": "SK"
+    }]
+
+<BR><BR>
+![GPS Keresés](https://raw.githubusercontent.com/kobanya/nevek/master/hatarontuli_nev.png)
+
+
 ## Szerző
 
 * Név: Nagy BÉLA és Szabados Levente (GPS coordináták)
